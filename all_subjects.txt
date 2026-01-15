@@ -1,0 +1,1916 @@
+﻿STT		Mã MH	Tên MH	Số tín chỉ	BB/TC	
+1		AS2013	CAD ứng dụng	3.0		
+2		AS2031	Đồ án môn học-thiếtkế kt	2.0		
+3		AS2033	Cảm biến &kỹthuật đolườg	3.0		
+4		AS2045	Đồ án thiết kế cơ sở	1.0		
+5		AS2065	Cơ sở tối ưu	3.0		
+6		AS2067	Giải tích ma trận và topo tính toán	3.0		
+7		AS3051	Cơ sở tin học y sinh	3.0		
+8		AS3089	Thực tập kỹ thuật (nt)	1.0		
+9		AS3149	ứd các pm trong tt cơhọc	3.0		
+10		AS3159	Tối ưu hóa kỹ thuật	3.0		
+11		AS3171	Đồ án môn học-thiếtkế kt	2.0		
+12		AS4005	Đồ án chuyên ngành (vlkt	2.0		
+13		AS4007	Đồ án chuyên ngành (ckt)	2.0		
+14		AS4011	Đồ án chuyên ngành trong Khoa học dữ liệu	2.0		
+15		AS4311	Đề cương luận văn tn	0.0		
+16		AS4313	Luận văn tốt nghiệp (ckt	9.0		
+17		AS4315	Đề cương luận văn tn	0.0		
+18		AS4317	Luận văn tốt nghiệp (ckt	9.0		
+19		AS4323	Luận văn tốt nghiệp	9.0		
+20		AS4325	Đề cương luận văn tn	0.0		
+21		AS4327	Luận văn tốt nghiệp	9.0		
+22		AS4333	Luận văn tốt nghiệp	9.0		
+23		AS4337	Đồ án tốt nghiệp (ckt)	4.0		
+24		AS4341	Đề cương luận văn tn	0.0		
+25		AS4343	Luận văn tốt nghiệp(ktys	9.0		
+26		AS4347	Đồ án tốt nghiệp	4.0		
+27		AS5009	Chuyên đề vật lý nâng cao 1	3.0		
+28		AS5023	Chuyên đề những vấn đề toán học hiện đại	3.0		
+29		AS5029	Mô hình hóa động lực học cơ hệ	3.0		
+30		AS5031	Phương pháp PTHH ứng dụng trong cơ kỹ thuật	3.0		
+31		AS5041	Động lực học máy	3.0		
+32		AS5045	Tối ưu hóa kỹ thuật	3.0		
+33		AS5047	Tính toán động lực học lưu chất	3.0		
+34		AS5059	Thực tập đồ án	3.0		
+35		AS5103	Tin học vật lý kỹ thuật	3.0		
+36		AS5105	Thiết bị chẩn đoán hình ảnh y học	3.0		
+37		AS5113	Triết học	3.0		
+38		AS5115	Giải tích hàm nâng cao	3.0		
+39		AS5117	Phương trình đạo hàm riêng	3.0		
+40		AS5131	Phương trình vi phân và Lý thuyết ổn định	2.0		
+41		AS5133	Giải tích đa trị	2.0		
+42		AS5143	Phương pháp số nâng cao	3.0		
+43		AS5155	Phương pháp tính tuổi thọ	3.0		
+44		AS5159	Cơ sở laser và ứng dụng	3.0		
+45		AS5163	Tin học vật lý kỹ thuật 2	3.0		
+46		AS5165	Tin học y sinh học	3.0		
+47		AS5167	Y học hạt nhân và kỹ thuật xạ trị	3.0		
+48		AS5169	Ứng dụng laser công suất cao trong y học	3.0		
+49		AS5171	Ứng dụng laser công suất thấp trong y học	3.0		
+50		AS5175	Chuyên đề nâng cao về thiết bị chẩn đoán hình ảnh	3.0		
+51		AS5189	Phân loại, kiểm định và quản lý trang thiết bị y tế	3.0		
+52		AS5241	Giải tích thực	3.0		
+53		AS5243	Tối ưu ứng dụng	3.0		
+54		AS5255	Cơ học phá hủy	3.0		
+55		AS5261	Thực tập tốt nghiệp	3.0		
+56		AS5273	Thực tập Cơ kỹ thuật 1	3.0		
+57		AS5275	Thực tập Cơ kỹ thuật 2	3.0		
+58		AS5277	Thực tập 1	3.0		
+59		AS5279	Thực tập 2	3.0		
+60		AS5291	Thực tập 1	3.0		
+61		AS5295	Phương pháp tính	3.0		
+62		AS5297	Xác suất thống kê	3.0		
+63		AS6041	Đề án tốt nghiệp	9.0		
+64		AS6043	Chuyên đề nghiên cứu trước luận văn	15.0		
+65		AS6045	Luận văn thạc sĩ nghiên cứu	15.0		
+66		AS6047	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+67		AS6049	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+68		AS6051	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+69		AS6053	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+70		AS6055	Đề án tốt nghiệp	9.0		
+71		AS6057	Chuyên đề nghiên cứu trước luận văn	15.0		
+72		AS6059	Luận văn thạc sĩ nghiên cứu	15.0		
+73		AS6061	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+74		AS6063	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+75		AS6065	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+76		AS6067	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+77		AS6069	Đề án tốt nghiệp	9.0		
+78		AS6071	Chuyên đề nghiên cứu trước luận văn	15.0		
+79		AS6073	Luận văn thạc sĩ nghiên cứu	15.0		
+80		AS6075	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+81		AS6077	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+82		AS6079	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+83		AS6081	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+84		AS6083	Đề án tốt nghiệp	9.0		
+85		AS6085	Chuyên đề nghiên cứu trước luận văn	15.0		
+86		AS6087	Luận văn thạc sĩ nghiên cứu	15.0		
+87		AS6089	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+88		AS6091	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+89		AS6093	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+90		AS6095	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+91		AS7037	Tính chất cơ học của vật liệu	3.0		
+92		AS7043	Kỹ thuật đo và xử lý số liệu	3.0		
+93		AS7069	Giải tích biến phân và ứng dụng	3.0		
+94		AS7071	Tối ưu không trơn	3.0		
+95		AS7129	Tiểu luận tổng quan	0.0		
+96		AS7131	Chuyên đề tiến sĩ - phần 1	0.0		
+97		AS7133	Chuyên đề tiến sĩ - phần 2	0.0		
+98		AS7135	Luận án tiến sĩ - chuẩn bị	12.0		
+99		AS7137	Luận án tiến sĩ - phần 1	15.0		
+100		AS7139	Luận án tiến sĩ - phần 2	15.0		
+101		AS7141	Luận án tiến sĩ - phần 3	15.0		
+102		AS7143	Luận án tiến sĩ - phần 4	15.0		
+103		AS7145	Luận án tiến sĩ - phần 5	15.0		
+104		AS7147	Tiểu luận tổng quan	0.0		
+105		AS7149	Chuyên đề tiến sĩ - phần 1	0.0		
+106		AS7151	Chuyên đề tiến sĩ - phần 2	0.0		
+107		AS7153	Luận án tiến sĩ - chuẩn bị	12.0		
+108		AS7155	Luận án tiến sĩ - phần 1	15.0		
+109		AS7157	Luận án tiến sĩ - phần 2	15.0		
+110		AS7159	Luận án tiến sĩ - phần 3	15.0		
+111		AS7161	Luận án tiến sĩ - phần 4	15.0		
+112		AS7163	Luận án tiến sĩ - phần 5	15.0		
+113		AS7165	Tiểu luận tổng quan	0.0		
+114		AS7167	Chuyên đề tiến sĩ - phần 1	0.0		
+115		AS7169	Chuyên đề tiến sĩ - phần 2	0.0		
+116		AS7171	Luận án tiến sĩ - chuẩn bị	12.0		
+117		AS7173	Luận án tiến sĩ - phần 1	15.0		
+118		AS7175	Luận án tiến sĩ - phần 2	15.0		
+119		AS7177	Luận án tiến sĩ - phần 3	15.0		
+120		AS7179	Luận án tiến sĩ - phần 4	15.0		
+121		AS7181	Luận án tiến sĩ - phần 5	15.0		
+122		CH1005	Hóa lý hóa keo	3.0		
+123		CH2003	Hóa lý 1	3.0		
+124		CH2015	Các qtrình kthuật shọc 1	3.0		
+125		CH2019	Quátrình &thiết bị cơhọc	3.0		
+126		CH201E	Quátrình &th/bị cơhọc(mr	0.0		
+127		CH2035	Kỹ thuật thực phẩm 2	3.0		
+128		CH2039	Kỹ thuật thực phẩm 3	3.0		
+129		CH2041	Thí nghiệm hóa lý	2.0		
+130		CH2043	Q/tr & th/bị truyềnnhiệt	3.0		
+131		CH2045	Vi sinh thực phẩm	3.0		
+132		CH204B	Q/tr & th/bị tr/nhiệt(mr	0.0		
+133		CH2051	Q/trình &tbị truyền khối	3.0		
+134		CH2053	Thi Nghiem Hoa Huu Co	2.0		
+135		CH2109	Hóa lý 2	3.0		
+136		CH210E	Hóa lý 2 (mr)	0.0		
+137		CH2111	Thí nghiệm hóa hữu cơ cb	1.0		
+138		CH2113	Hóa phân tích	3.0		
+139		CH2115	Thí nghiệm hóa phân tích	1.0		
+140		CH2155	Thí nghiệm Hóa phân tích	2.0		
+141		CH2159	Thí nghiệm vi sinh thực phẩm	2.0		
+142		CH3001	Thí nghiệm visinh t/phẩm	2.0		
+143		CH3015	T/n quá trình thiết bị	2.0		
+144		CH3017	Côngnghệ chếbiến th/phẩm	3.0		
+145		CH3053	Thiết kế nhàmáy thựcphẩm	3.0		
+146		CH3133	Mô hình hóa,mp &tưh CNHH	3.0		
+147		CH3321	Thiết kế hệ thống qtcnhh	3.0		
+148		CH3327	Hóa keo	3.0		
+149		CH3329	Các p/pháp phân tích hđ	3.0		
+150		CH332A	T/kế hệ thống qtcnhh(mr)	0.0		
+151		CH3331	Cs vậtliệu &bảo vệ ănmòn	3.0		
+152		CH3337	Tổng hợp hữu cơ hóa dầu	3.0		
+153		CH3341	Cơsở điều khiển quátrình	3.0		
+154		CH3347	Kỹ thuật phản ứng	3.0		
+155		CH3349	Cơ sở tính toán tk tb hh	3.0		
+156		CH3379	T/h p/tích t/phẩm A	2.0		
+157		CH3389	P/triển bền vững &cnxlmt	4.0		
+158		CH3421	Cơ sở kỹ thuật mỹ phẩm	3.0		
+159		CH4001	Thí nghiệm c/nghệ cbtp	2.0		
+160		CH4007	Đồ án thiếtkế kỹ thuậthh	2.0		
+161		CH4053	Đồ án chuyên ngành	2.0		
+162		CH4057	Đồ án công nghệ sinh học	2.0		
+163		CH4061	K/thuật đường ống bểchứa	3.0		
+164		CH4063	Thiết kế P&ID	3.0		
+165		CH4079	Hóa học xanh	3.0		
+166		CH4081	C/nghệ sx pb&các hc vôcơ	3.0		
+167		CH4085	H/học &c/nghệ chất hđbm	3.0		
+168		CH4087	Các pp vậtlý nc chất rắn	3.0		
+169		CH4091	Hóa học nano và ứng dụng	3.0		
+170		CH4095	Đồ án chuyên ngành	2.0		
+171		CH4097	An toàn sh &at thực phẩm	3.0		
+172		CH4099	Đồ án thiết kế nhàmáy tp	2.0		
+173		CH4103	Đồ án chuyên ngành	2.0		
+174		CH4113	Kỹ thuật bao gói t/phẩm	3.0		
+175		CH4115	Công nghệ sau thu hoạch	3.0		
+176		CH4125	Độc chất học	3.0		
+177		CH4127	Cong nghe che bien khi thien nhien	3.0		
+178		CH4129	Công nghệ lọc và cb dầu	3.0		
+179		CH4131	Thiết bị đo lường và điều khiển	3.0		
+180		CH4137	CN dẫn truyền thuốc dpmp	3.0		
+181		CH4145	Kiểm nghiệm dược phẩm	3.0		
+182		CH4151	Mỹ phẩm chức năng	3.0		
+183		CH4153	TK&phát triển SP mỹ phẩm	3.0		
+184		CH4311	Đề cương luận văn tn	0.0		
+185		CH4313	Luận văn tốt nghiệp(cbdk	9.0		
+186		CH4321	Đề cương luận văn tn	0.0		
+187		CH4323	Luận văn tốt nghiệp (hly	9.0		
+188		CH4325	Đề cương luận văn tn	0.0		
+189		CH4327	Luận văn tốt nghiệp	9.0		
+190		CH4331	Đề cương luận văn tn	0.0		
+191		CH4333	Luận văn tốt nghiệp(cntp	9.0		
+192		CH4335	Đề cương luận văn tn	0.0		
+193		CH4337	Luận văn tốt nghiệp(cntp	9.0		
+194		CH4341	Đề cương luận văn tn	0.0		
+195		CH4343	Luận văn tốt nghiệp (hvc	9.0		
+196		CH4345	Đề cương luận văn tn	0.0		
+197		CH4347	Luận văn tốt nghiệp (csh	9.0		
+198		CH4351	Đề cương luận văn tn	0.0		
+199		CH4353	Luận văn tốt nghiệp(qttb	9.0		
+200		CH4357	Đồ án tốt nghiệp	4.0		
+201		CH4361	Đề cương luận văn tn	0.0		
+202		CH4363	Luận văn tốt nghiệp	9.0		
+203		CH4367	Đồ án tốt nghiệp	4.0		
+204		CH4371	Đề cương luận văn tn	0.0		
+205		CH4373	Luận văn tốt nghiệp	9.0		
+206		CH4377	Đồ án tốt nghiệp	4.0		
+207		CH4381	Đề cương luận văn tn	0.0		
+208		CH4383	Luận văn tốt nghiệp(hdp)	9.0		
+209		CH4391	Đề cương luận văn tn	0.0		
+210		CH4393	Luận văn tốt nghiệp	9.0		
+211		CH43A1	Đề cương luận văn tn	0.0		
+212		CH43A3	Luận văn tốt nghiệp	9.0		
+213		CH43B1	Đề cương luận văn tn	0.0		
+214		CH43B3	Luận văn tốt nghiệp (csh	9.0		
+215		CH43C1	Đề cương luận văn tn	0.0		
+216		CH43C3	Luận văn tốt nghiệp	9.0		
+217		CH43D1	Đề cương luận văn tn	0.0		
+218		CH43D3	Luận văn tốt nghiệp	9.0		
+219		CH43E1	Đề cương luận văn tn	0.0		
+220		CH43E3	Luận văn tốt nghiệp	9.0		
+221		CH5311	Lý thuyết truyền vận	3.0		
+222		CH5373	Công nghệ phân lập và tinh chế hợp chất tự nhiên	3.0		
+223		CH5405	Hệ thống điều khiển và an toàn nhà máy	3.0		
+224		CH5407	Luật và quản trị an ninh thực phẩm	3.0		
+225		CH5427	Công nghệ điện hóa và các hệ chuyển hoá năng lượng	3.0		
+226		CH5435	Các công nghệ tiên tiến trong công nghiệp thực phẩm	3.0		
+227		CH5485	Độc tố học thực phẩm	3.0		
+228		CH5509	Khoa học cảm quan	3.0		
+229		CH5597	Thực tập 1	3.0		
+230		CH5599	Thực tập 2	3.0		
+231		CH5601	Thiết kế P&ID trong công nghiệp	3.0		
+232		CH5603	Công nghệ chất hoạt động bề mặt trong công nghiệp	3.0		
+233		CH5605	Tự động hóa quá trình hóa học trong công nghiệp	3.0		
+234		CH5607	Xúc tác và quá trình xúc tác công nghiệp	3.0		
+235		CH5611	Nhiên liệu sinh học và nhiên liệu thay thế trong công nghiệp	3.0		
+236		CH5615	Tối ưu hóa và vận hành các quy trình công nghệ hóa học	3.0		
+237		CH5617	Công nghệ vận chuyển và tồn trữ trong công nghiệp hóa học	3.0		
+238		CH5623	Vật liệu mao quản - từ tự nhiên đến công nghiệp	3.0		
+239		CH5625	Độc chất học và ứng dụng trong công nghiệp	3.0		
+240		CH5635	Các chiến lược thực tiễn trong phân tích định tính và định lượng	3.0		
+241		CH5647	Các phương pháp nghiên cứu cấu trúc của vật liệu	3.0		
+242		CH5653	Sản xuất sạch hơn trong công nghiệp	3.0		
+243		CH5659	Vận hành và điều khiển quá trình bằng máy tính	3.0		
+244		CH5671	Sản xuất công nghiệp các chất có hoạt tính sinh học	3.0		
+245		CH5677	Thực tập Công nghệ sinh học 1	3.0		
+246		CH5679	Thực tập Công nghệ sinh học 2	3.0		
+247		CH5683	Hóa học và hóa sinh thực phẩm nâng cao	3.0		
+248		CH5685	Vi sinh thực phẩm nâng cao	3.0		
+249		CH5699	Hóa hữu cơ nâng cao	3.0		
+250		CH5703	Nhiệt động kỹ thuật hóa học	3.0		
+251		CH5711	Các phương pháp phân tích công cụ	3.0		
+252		CH5721	Công nghiệp công nghệ sinh học	3.0		
+253		CH5723	Kỹ thuật di truyền vi sinh vật	3.0		
+254		CH5731	Công nghệ sinh học nông nghiệp	3.0		
+255		CH5739	Công nghệ sinh học thực phẩm	3.0		
+256		CH5745	Những tiến bộ về chế phẩm bổ sung vào thực phẩm	3.0		
+257		CH5749	Công nghệ sản xuất sản phẩm từ sữa và thức uống pha chế	3.0		
+258		CH5755	Công nghệ chế biến trà, cà phê, ca cao	3.0		
+259		CH5767	Truy xuất nguồn gốc thực phẩm	3.0		
+260		CH6023	Luận văn thạc sỹ - UD	12.0		
+261		CH6041	Đề án tốt nghiệp	9.0		
+262		CH6043	Chuyên đề nghiên cứu trước luận văn	15.0		
+263		CH6045	Luận văn thạc sĩ nghiên cứu	15.0		
+264		CH6047	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+265		CH6049	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+266		CH6051	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+267		CH6053	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+268		CH6055	Đề án tốt nghiệp	9.0		
+269		CH6057	Chuyên đề nghiên cứu trước luận văn	15.0		
+270		CH6059	Luận văn thạc sĩ nghiên cứu	15.0		
+271		CH6061	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+272		CH6063	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+273		CH6065	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+274		CH6067	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+275		CH6069	Đề án tốt nghiệp	9.0		
+276		CH6071	Chuyên đề nghiên cứu trước luận văn	15.0		
+277		CH6073	Luận văn thạc sĩ nghiên cứu	15.0		
+278		CH6075	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+279		CH6077	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+280		CH6079	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+281		CH6081	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+282		CH6083	Đề án tốt nghiệp	9.0		
+283		CH6085	Chuyên đề nghiên cứu trước luận văn	15.0		
+284		CH6087	Luận văn thạc sĩ nghiên cứu	15.0		
+285		CH6089	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+286		CH6091	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+287		CH6093	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+288		CH6095	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+289		CH7563	Tiểu luận tổng quan	0.0		
+290		CH7565	Chuyên đề tiến sĩ - phần 1	0.0		
+291		CH7567	Chuyên đề tiến sĩ - phần 2	0.0		
+292		CH7569	Luận án tiến sĩ - chuẩn bị	12.0		
+293		CH7571	Luận án tiến sĩ - phần 1	15.0		
+294		CH7573	Luận án tiến sĩ - phần 2	15.0		
+295		CH7575	Luận án tiến sĩ - phần 3	15.0		
+296		CH7577	Luận án tiến sĩ - phần 4	15.0		
+297		CH7579	Luận án tiến sĩ - phần 5	15.0		
+298		CH7581	Tiểu luận tổng quan	0.0		
+299		CH7583	Chuyên đề tiến sĩ - phần 1	0.0		
+300		CH7585	Chuyên đề tiến sĩ - phần 2	0.0		
+301		CH7587	Luận án tiến sĩ - chuẩn bị	12.0		
+302		CH7589	Luận án tiến sĩ - phần 1	15.0		
+303		CH7591	Luận án tiến sĩ - phần 2	15.0		
+304		CH7593	Luận án tiến sĩ - phần 3	15.0		
+305		CH7595	Luận án tiến sĩ - phần 4	15.0		
+306		CH7597	Luận án tiến sĩ - phần 5	15.0		
+307		CH7599	Tiểu luận tổng quan	0.0		
+308		CH7601	Chuyên đề tiến sĩ - phần 1	0.0		
+309		CH7603	Chuyên đề tiến sĩ - phần 2	0.0		
+310		CH7605	Luận án tiến sĩ - chuẩn bị	12.0		
+311		CH7607	Luận án tiến sĩ - phần 1	15.0		
+312		CH7609	Luận án tiến sĩ - phần 2	15.0		
+313		CH7611	Luận án tiến sĩ - phần 3	15.0		
+314		CH7613	Luận án tiến sĩ - phần 4	15.0		
+315		CH7615	Luận án tiến sĩ - phần 5	15.0		
+316		CH7617	Tiểu luận tổng quan	0.0		
+317		CH7619	Chuyên đề tiến sĩ - phần 1	0.0		
+318		CH7621	Chuyên đề tiến sĩ - phần 2	0.0		
+319		CH7623	Luận án tiến sĩ - chuẩn bị	12.0		
+320		CH7625	Luận án tiến sĩ - phần 1	15.0		
+321		CH7627	Luận án tiến sĩ - phần 2	15.0		
+322		CH7629	Luận án tiến sĩ - phần 3	15.0		
+323		CH7631	Luận án tiến sĩ - phần 4	15.0		
+324		CH7633	Luận án tiến sĩ - phần 5	15.0		
+325		CI1067	Vẽ kỹ thuật kiến trúc	3.0		
+326		CI1069	Khoa học trái đất	4.0		
+327		CI2093	ĐAMH kết cấu bêtông ct1	1.0		
+328		CI2101	Đồ án thiết kế cơ sở kt	2.0		
+329		CI2103	N/l t/kế k/trúc ct nhà ở	3.0		
+330		CI2105	T/kế kt kiến trúc ctdd	3.0		
+331		CI2107	T/kế k/trúc 1- ct c/cộng	3.0		
+332		CI2109	Thực tập công nhân	2.0		
+333		CI2123	Pt địa điểm &kiến tạo nc	3.0		
+334		CI2133	Kết cấu thép	3.0		
+335		CI2139	Kết cấu bê tông cốt thép	3.0		
+336		CI2141	Bản đồ học	3.0		
+337		CI2145	Nền móng	4.0		
+338		CI2147	Thí nghiệm công trình	1.0		
+339		CI2149	Thí nghiệm vật liệu CTGT	1.0		
+340		CI2151	Kinh tế xây dựng	3.0		
+341		CI2155	Thínghiệm vậtlý kiếntrúc	1.0		
+342		CI3043	Kỹ thuật thi công	3.0		
+343		CI3163	Phântích thiếtkế kết cấu	3.0		
+344		CI3177	ĐAMH kết cấu bê tông ct2	1.0		
+345		CI3197	ĐAMH nền móng	1.0		
+346		CI3213	ĐAMH kết cấu thép	1.0		
+347		CI3217	ĐAMH thicông c/trìnhcảng	1.0		
+348		CI3221	ĐAMH thiết kế đường	1.0		
+349		CI3231	Kết cấu thép	3.0		
+350		CI3241	Cấp thoát nước	3.0		
+351		CI3243	Kết cấu công trình btct	3.0		
+352		CI3249	Thực tập disản kt &đôthị	2.0		
+353		CI3255	Thực tập đovẽ &lập bđ đh	2.0		
+354		CI3257	Trắc địa cao cấp	3.0		
+355		CI3267	Thủy công	3.0		
+356		CI3273	T/kế kiến trúc II - ctcc	3.0		
+357		CI3289	Lãnh đạo và khởi nghiệp	3.0		
+358		CI3291	Lãnh đạo &quản lý dự án	3.0		
+359		CI3295	Thiết kế III - tcq đôthị	3.0		
+360		CI3299	T/kế III -ct công nghiệp	3.0		
+361		CI4023	Thi công công trình csht	3.0		
+362		CI4123	ĐAMH thiết kế cầu	1.0		
+363		CI4129	Kinh tế xây dựng	3.0		
+364		CI4131	Kết cấu công trình thép	3.0		
+365		CI4133	Đồ án chuyên ngành	2.0		
+366		CI4137	Thiết kế dựán tốt nghiệp	9.0		
+367		CI4141	C/trình cấpthoátnước &tb	3.0		
+368		CI4157	Đồ án chuyên ngành	2.0		
+369		CI4161	Quy hoạch hạ tầng đô thị	3.0		
+370		CI4167	Đồ án chuyên ngành	2.0		
+371		CI4169	Đồ án chuyên ngành	2.0		
+372		CI4171	Đồ án chuyên ngành	2.0		
+373		CI4173	Đồ án chuyên ngành	2.0		
+374		CI4175	Đồ án chuyên ngành	2.0		
+375		CI4179	Đồ án thiết kế nội thất	2.0		
+376		CI4189	Q/hoạch tổ chức thi công	3.0		
+377		CI4199	Đồ án chuyên ngành	2.0		
+378		CI4201	He Thong C/d Trg Toa Nha	3.0		
+379		CI4209	Xu hướng k/trúc cq đ/đại	3.0		
+380		CI4221	Đồ án chuyên ngành	2.0		
+381		CI4235	Đồ án chuyên ngành	2.0		
+382		CI4303	Thiết kế dựán tốt nghiệp	9.0		
+383		CI4311	Đề cương luận văn tn	0.0		
+384		CI4313	Luận văn tốt nghiệp (cđ)	9.0		
+385		CI4315	Đề cương luận văn tn	0.0		
+386		CI4317	Luận văn tốt nghiệp	9.0		
+387		CI4321	Đề cương luận văn tn	0.0		
+388		CI4323	Luận văn tốt nghiệp(qlgt	9.0		
+389		CI4325	Đề cương luận văn tn	0.0		
+390		CI4327	Luận văn tốt nghiệp(csht	9.0		
+391		CI4331	Đề cương luận văn tn	0.0		
+392		CI4333	Luận văn tốt nghiệp (ctb	9.0		
+393		CI4335	Đề cương luận văn tn	0.0		
+394		CI4337	Luận văn tốt nghiệp (ctb	9.0		
+395		CI4341	Đề cương luận văn tn	0.0		
+396		CI4343	Luận văn tốt nghiệp	9.0		
+397		CI4345	Đề cương luận văn tn	0.0		
+398		CI4347	Luận văn tốt nghiệp	9.0		
+399		CI4351	Đề cương luận văn tn	0.0		
+400		CI4353	Luận văn tốt nghiệp (tdi	9.0		
+401		CI4355	Đề cương luận văn tn	0.0		
+402		CI4357	Luận văn tốt nghiệp	9.0		
+403		CI4365	Đề cương luận văn tn	0.0		
+404		CI4367	Luận văn tốt nghiệp (vxd	9.0		
+405		CI4371	Đề cương luận văn tn	0.0		
+406		CI4373	Luận văn tốt nghiệp (ctt	9.0		
+407		CI4375	Đề cương luận văn tn	0.0		
+408		CI4377	Luận văn tốt nghiệp	9.0		
+409		CI4381	Đề cương luận văn tn	0.0		
+410		CI4383	Luận văn tốt nghiệp(csht	9.0		
+411		CI4391	Đề cương luận văn tn	0.0		
+412		CI4393	Luận văn tốt nghiệp (vxd	9.0		
+413		CI4417	Đồ án tốt nghiệp	4.0		
+414		CI4427	Đồ án tốt nghiệp	4.0		
+415		CI4437	Đồ án tốt nghiệp	4.0		
+416		CI4447	Đồ án tốt nghiệp	4.0		
+417		CI4457	Đồ án tốt nghiệp	4.0		
+418		CI4467	Đồ án tốt nghiệp	4.0		
+419		CI4477	Đồ án tốt nghiệp	4.0		
+420		CI4487	Đồ án tốt nghiệp	4.0		
+421		CI4497	Đô? án tô?t nghiê?p	4.0		
+422		CI5001	Đồ án chuyên ngành	2.0		
+423		CI5005	Đồ án chuyên ngành	2.0		
+424		CI5013	Ky Thuat Ha Tang Do Thi	3.0		
+425		CI5015	C/tr Xanh,k/g,a/t & A/s	3.0		
+426		CI5017	Luận văn tốt nghiệp	9.0		
+427		CI5027	Luận văn tốt nghiệp	9.0		
+428		CI5035	Kỹ thuật xử lý nước thải	3.0		
+429		CI5037	Đ/g t/động & rủi ro m/t	3.0		
+430		CI5041	Kiểm toán nl công trình	3.0		
+431		CI5081	Cơ học đất nâng cao 2	2.0		
+432		CI5085	Cơ học đá	2.0		
+433		CI5087	Đào sâu trong đất	2.0		
+434		CI5089	Tường chắn đất	2.0		
+435		CI5095	Tính toán công trình ngầm	2.0		
+436		CI5097	Kỹ thuật xử lý nền đất yếu	2.0		
+437		CI5099	Ổn định mái dốc	2.0		
+438		CI5101	Lý thuyết dẻo trong đất	2.0		
+439		CI5115	Ứng dụng tính toán mềm trong quản lý xây dựng	3.0		
+440		CI5129	Cơ học đất nâng cao 1	3.0		
+441		CI5137	Quản lý dự án xây dựng nâng cao	3.0		
+442		CI5139	Quản lý rủi ro trong xây dựng	3.0		
+443		CI5141	Thống kê ứng dụng trong quản lý xây dựng	3.0		
+444		CI5143	Hệ thống văn bản qui phạm pháp luật trong xây dựng tại Việt Nam	3.0		
+445		CI5149	Các chủ đề và phương pháp nghiên cứu trong quản lý xây dựng	3.0		
+446		CI5151	Phân tích định lượng trong quản lý xây dựng	2.0		
+447		CI5165	Vật liệu và công nghệ xây dựng công trình giao thông	3.0		
+448		CI5169	Quy hoạch mạng lưới đường	3.0		
+449		CI5177	Đường hầm nâng cao	3.0		
+450		CI5183	Đánh giá chất lượng và khai thác đường	3.0		
+451		CI5213	Quản lý và kiểm tra chất lượng vật liệu cho công trình xây dựng	2.0		
+452		CI5239	Phát triển bền vững trong xây dựng	3.0		
+453		CI5241	BIM và tin học ứng dụng trong QLXD	3.0		
+454		CI5247	Kết cấu bê tông cốt thép nâng cao	3.0		
+455		CI5249	Phương pháp phần tử hữu hạn nâng cao	3.0		
+456		CI5251	Động lực học kết cấu nâng cao	3.0		
+457		CI5253	Kết cấu tấm vỏ	3.0		
+458		CI5259	Cơ học vật rắn biến dạng	3.0		
+459		CI5267	Kiểm định chất lượng công trình xây dựng	3.0		
+460		CI5269	Tác động của gió lên công trình	3.0		
+461		CI5273	Ăn mòn và chống ăn mòn bê tông cốt thép nâng cao	3.0		
+462		CI5279	Thiết kế kháng chấn cho công trình	3.0		
+463		CI5303	Phương pháp phần tử hữu hạn trong địa kỹ thuật xây dựng	5.0		
+464		CI5323	Thực tập 1	3.0		
+465		CI5325	Thực tập 2	3.0		
+466		CI5331	Thực tập 1	3.0		
+467		CI5333	Vật liệu và công nghệ xây dựng công trình giao thông nâng cao	3.0		
+468		CI5351	Thực tập kỹ thuật 1	3.0		
+469		CI5353	Thực tập kỹ thuật 2	3.0		
+470		CI5367	Kết cấu nhà cao tầng	3.0		
+471		CI5373	Nền móng	3.0		
+472		CI5379	Phương pháp phần tử hữu hạn	3.0		
+473		CI5381	Cơ kết cấu	3.0		
+474		CI5387	Thiết kế và công nghệ xây dựng cầu bê tông cốt thép	3.0		
+475		CI5389	Thiết kế và công nghệ xây dựng cầu thép	3.0		
+476		CI5403	Kỹ thuật và Công nghệ thi công xây dựng	3.0		
+477		CI5405	Tổ chức Thi công công trình xây dựng	3.0		
+478		CI5407	Quản lý Dự án xây dựng	3.0		
+479		CI5409	Nguyên lý kinh tế và Luật xây dựng	3.0		
+480		CI5451	Quản lý kinh doanh xây dựng	3.0		
+481		CI5771	Phân tích phi tuyến kết cấu	3.0		
+482		CI5775	Kết cấu thép-bê tông liên hợp	3.0		
+483		CI5779	Vật liệu xây dựng nâng cao	3.0		
+484		CI5781	Kỹ thuật bê tông nâng cao	3.0		
+485		CI5799	Động lực học hình thái vùng ven biển	3.0		
+486		CI5805	Kết cấu thép nâng cao	3.0		
+487		CI6099	Đồ án tốt nghiệp	9.0		
+488		CI6101	Đề án tốt nghiệp	9.0		
+489		CI6102	Chuyên đề nghiên cứu trước luận văn	15.0		
+490		CI6103	Luận văn thạc sĩ nghiên cứu	15.0		
+491		CI6104	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+492		CI6105	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+493		CI6106	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+494		CI6107	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+495		CI6108	Đề án tốt nghiệp	9.0		
+496		CI6109	Chuyên đề nghiên cứu trước luận văn	15.0		
+497		CI6110	Luận văn thạc sĩ nghiên cứu	15.0		
+498		CI6111	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+499		CI6112	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+500		CI6113	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+501		CI6114	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+502		CI6115	Đề án tốt nghiệp	9.0		
+503		CI6116	Chuyên đề nghiên cứu trước luận văn	15.0		
+504		CI6117	Luận văn thạc sĩ nghiên cứu	15.0		
+505		CI6118	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+506		CI6119	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+507		CI6120	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+508		CI6121	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+509		CI6122	Đề án tốt nghiệp	9.0		
+510		CI6123	Chuyên đề nghiên cứu trước luận văn	15.0		
+511		CI6124	Luận văn thạc sĩ nghiên cứu	15.0		
+512		CI6125	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+513		CI6126	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+514		CI6127	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+515		CI6128	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+516		CI6129	Đề án tốt nghiệp	9.0		
+517		CI6131	Luận văn thạc sĩ nghiên cứu	15.0		
+518		CI6134	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+519		CI7553	Tiểu luận tổng quan	0.0		
+520		CI7555	Chuyên đề tiến sĩ - phần 1	0.0		
+521		CI7557	Chuyên đề tiến sĩ - phần 2	0.0		
+522		CI7559	Luận án tiến sĩ - chuẩn bị	12.0		
+523		CI7561	Luận án tiến sĩ - phần 1	15.0		
+524		CI7563	Luận án tiến sĩ - phần 2	15.0		
+525		CI7565	Luận án tiến sĩ - phần 3	15.0		
+526		CI7567	Luận án tiến sĩ - phần 4	15.0		
+527		CI7569	Luận án tiến sĩ - phần 5	15.0		
+528		CI7571	Tiểu luận tổng quan	0.0		
+529		CI7573	Chuyên đề tiến sĩ - phần 1	0.0		
+530		CI7575	Chuyên đề tiến sĩ - phần 2	0.0		
+531		CI7577	Luận án tiến sĩ - chuẩn bị	12.0		
+532		CI7579	Luận án tiến sĩ - phần 1	15.0		
+533		CI7581	Luận án tiến sĩ - phần 2	15.0		
+534		CI7583	Luận án tiến sĩ - phần 3	15.0		
+535		CI7585	Luận án tiến sĩ - phần 4	15.0		
+536		CI7587	Luận án tiến sĩ - phần 5	15.0		
+537		CI7589	Tiểu luận tổng quan	0.0		
+538		CI7591	Chuyên đề tiến sĩ - phần 1	0.0		
+539		CI7593	Chuyên đề tiến sĩ - phần 2	0.0		
+540		CI7595	Luận án tiến sĩ - chuẩn bị	12.0		
+541		CI7597	Luận án tiến sĩ - phần 1	15.0		
+542		CI7599	Luận án tiến sĩ - phần 2	15.0		
+543		CI7611	Luận án tiến sĩ - phần 3	15.0		
+544		CI7613	Luận án tiến sĩ - phần 4	15.0		
+545		CI7615	Luận án tiến sĩ - phần 5	15.0		
+546		CI7617	Tiểu luận tổng quan	0.0		
+547		CI7619	Chuyên đề tiến sĩ - phần 1	0.0		
+548		CI7621	Chuyên đề tiến sĩ - phần 2	0.0		
+549		CI7623	Luận án tiến sĩ - chuẩn bị	12.0		
+550		CI7625	Luận án tiến sĩ - phần 1	15.0		
+551		CI7627	Luận án tiến sĩ - phần 2	15.0		
+552		CI7629	Luận án tiến sĩ - phần 3	15.0		
+553		CI7631	Luận án tiến sĩ - phần 4	15.0		
+554		CI7633	Luận án tiến sĩ - phần 5	15.0		
+555		CI7635	Tiểu luận tổng quan	0.0		
+556		CI7637	Chuyên đề tiến sĩ - phần 1	0.0		
+557		CI7639	Chuyên đề tiến sĩ - phần 2	0.0		
+558		CI7641	Luận án tiến sĩ - chuẩn bị	12.0		
+559		CI7643	Luận án tiến sĩ - phần 1	15.0		
+560		CI7645	Luận án tiến sĩ - phần 2	15.0		
+561		CI7647	Luận án tiến sĩ - phần 3	15.0		
+562		CI7649	Luận án tiến sĩ - phần 4	15.0		
+563		CI7651	Luận án tiến sĩ - phần 5	15.0		
+564		CI7653	Tiểu luận tổng quan	0.0		
+565		CI7655	Chuyên đề tiến sĩ - phần 1	0.0		
+566		CI7657	Chuyên đề tiến sĩ - phần 2	0.0		
+567		CI7659	Luận án tiến sĩ - chuẩn bị	12.0		
+568		CI7661	Luận án tiến sĩ - phần 1	15.0		
+569		CI7663	Luận án tiến sĩ - phần 2	15.0		
+570		CI7665	Luận án tiến sĩ - phần 3	15.0		
+571		CI7666	Luận án tiến sĩ - phần 4	15.0		
+572		CI7669	Luận án tiến sĩ - phần 5	15.0		
+573		CI7671	Tiểu luận tổng quan	0.0		
+574		CI7673	Chuyên đề tiến sĩ - phần 1	0.0		
+575		CI7675	Chuyên đề tiến sĩ - phần 2	0.0		
+576		CI7677	Luận án tiến sĩ - chuẩn bị	12.0		
+577		CI7679	Luận án tiến sĩ - phần 1	15.0		
+578		CI7681	Luận án tiến sĩ - phần 2	15.0		
+579		CI7683	Luận án tiến sĩ - phần 3	15.0		
+580		CI7685	Luận án tiến sĩ - phần 4	15.0		
+581		CI7687	Luận án tiến sĩ - phần 5	15.0		
+582		CI7689	Tiểu luận tổng quan	0.0		
+583		CI7691	Chuyên đề tiến sĩ - phần 1	0.0		
+584		CI7693	Chuyên đề tiến sĩ - phần 2	0.0		
+585		CI7695	Luận án tiến sĩ - chuẩn bị	12.0		
+586		CI7697	Luận án tiến sĩ - phần 1	15.0		
+587		CI7699	Luận án tiến sĩ - phần 2	15.0		
+588		CI7701	Luận án tiến sĩ - phần 3	15.0		
+589		CI7703	Luận án tiến sĩ - phần 4	15.0		
+590		CI7705	Luận án tiến sĩ - phần 5	15.0		
+591		CI7707	Tiểu luận tổng quan	0.0		
+592		CI7709	Chuyên đề tiến sĩ - phần 1	0.0		
+593		CI7711	Chuyên đề tiến sĩ - phần 2	0.0		
+594		CI7713	Luận án tiến sĩ - chuẩn bị	12.0		
+595		CI7715	Luận án tiến sĩ - phần 1	15.0		
+596		CI7717	Luận án tiến sĩ - phần 2	15.0		
+597		CI7719	Luận án tiến sĩ - phần 3	15.0		
+598		CI7721	Luận án tiến sĩ - phần 4	15.0		
+599		CI7723	Luận án tiến sĩ - phần 5	15.0		
+600		CO1007	Cấutrúc rời rạc cho KHMT	4.0		
+601		CO1029	Đồ án hệ thống số	1.0		
+602		CO1031	Đồ án kỹ thuật lập trình	1.0		
+603		CO2001	Kỹnăng chnghiệp cho kỹsư	3.0		
+604		CO2011	Mô hình hóa toán học	3.0		
+605		CO203E	Lập trình nâng cao (mr)	0.0		
+606		CO2043	Đồ án lập trình nâng cao	1.0		
+607		CO3001	Công nghệ phần mềm	3.0		
+608		CO3005	Ng/lý ngôn ngữ lập trình	4.0		
+609		CO300A	Công nghệ phần mềm (mr)	0.0		
+610		CO300C	Ng/lý n/ngữ lập trình(mr	0.0		
+611		CO3011	Quản lý dự án phần mềm	3.0		
+612		CO3015	Kiểm tra phần mềm	3.0		
+613		CO3017	Kiến trúc phần mềm	3.0		
+614		CO3021	Hệ quản trị cơsở dữ liệu	3.0		
+615		CO3027	Thương mại điện tử	3.0		
+616		CO3029	Khai phá dữ liệu	3.0		
+617		CO3041	Hệ thống thông minh	3.0		
+618		CO3043	Phát triển ứd trên tbdđ	3.0		
+619		CO3045	Lập trình game	3.0		
+620		CO3055	Thực tập công nghệ pm	2.0		
+621		CO3057	Xửlý ảnh số &thị giác mt	3.0		
+622		CO3059	Đồ họa máy tính	3.0		
+623		CO3061	Nhập môn trítuệ nhân tạo	3.0		
+624		CO3065	C/nghệ phần mềm nâng cao	3.0		
+625		CO3087	Thực tập đồ án đa ngành	2.0		
+626		CO3091	Đồ án thiết kế luận lý	2.0		
+627		CO3101	Đồ án tổng hợp - ttnt	1.0		
+628		CO3103	Đồ án tổng hợp - cnpm	1.0		
+629		CO3105	Đồ án tổng hợp - httt	1.0		
+630		CO3107	T/tập ĐAMH đa ngành-ttnt	1.0		
+631		CO3109	T/tập ĐAMH đa ngành-cnpm	1.0		
+632		CO3111	T/tập ĐAMH đa ngành-httt	1.0		
+633		CO3115	Phân tích và thiết kế ht	3.0		
+634		CO3117	Học máy	3.0		
+635		CO3119	Đồ án mạng máy tính	1.0		
+636		CO3127	Đồ án tổng hợp - hktdl	1.0		
+637		CO3133	Học sâu và ứng dụng	3.0		
+638		CO3135	Lập trình cho trí tuệ nhân tạo và khoa học dữ liệu	3.0		
+639		CO3141	Điện toán đám mây	3.0		
+640		CO4029	Đồ án chuyên ngành	2.0		
+641		CO4031	Kho d/liệu &hệ hỗ trợ qđ	3.0		
+642		CO4033	P/tích dữ liệu lớn &ttkd	3.0		
+643		CO4037	Hệ thống thông tin q/lý	3.0		
+644		CO4041	Đồ án môn học kỹthuật mt	2.0		
+645		CO4043	Đồ án chuyên ngành	2.0		
+646		CO4311	Đề cương luận văn tn	0.0		
+647		CO4313	Luận văn tốt nghiệp(khmt	9.0		
+648		CO4315	Đề cương luận văn tn	0.0		
+649		CO4317	Luận văn tốt nghiệp(khmt	9.0		
+650		CO4321	Đề cương luận văn tn	0.0		
+651		CO4323	Luận văn tốt nghiệp (ktm	9.0		
+652		CO4325	Đề cương luận văn tn	0.0		
+653		CO4327	Luận văn tốt nghiệp (ktm	9.0		
+654		CO4331	Đề cương luận văn tn	0.0		
+655		CO4333	Luận văn tốt nghiệp	9.0		
+656		CO4337	Đồ án tốt nghiệp(khmt)	4.0		
+657		CO4347	Đồ án tốt nghiệp (ktmt)	4.0		
+658		CO4357	Đồ án tốt nghiệp(cntt)	4.0		
+659		CO5075	Phát triển ứng dụng IoT	3.0		
+660		CO5077	Bảo mật phần mềm	3.0		
+661		CO5085	Học sâu và ứng dụng trong thị giác máy tính	3.0		
+662		CO5087	Cách tiếp cận hiện đại trong xử lý ngôn ngữ tự nhiên	3.0		
+663		CO5095	Kiến trúc hệ thống hiện đại	3.0		
+664		CO5097	Cơ sở Toán cho Khoa Học Máy Tính	3.0		
+665		CO5101	Thực tập tốt nghiệp thạc sĩ MIS	3.0		
+666		CO5105	Quản lý qui trình nghiệp vụ	3.0		
+667		CO5107	Thực tập 1	3.0		
+668		CO5109	Thực tập 2	3.0		
+669		CO5113	Kho dữ liệu và hệ hỗ trợ quyết định	3.0		
+670		CO5115	Giải thuật nâng cao	3.0		
+671		CO5117	Khai phá dữ liệu	3.0		
+672		CO5119	Hệ thống thông minh	3.0		
+673		CO5125	Xử lý ngôn ngữ tự nhiên	3.0		
+674		CO5135	Dữ liệu lớn	3.0		
+675		CO5161	Mật mã học Ứng dụng	3.0		
+676		CO5165	Quản lý dữ liệu doanh nghiệp	3.0		
+677		CO5167	Trí tuệ kinh doanh	3.0		
+678		CO5173	Kỹ thuật dữ liệu	3.0		
+679		CO5175	Học máy và Ứng dụng	3.0		
+680		CO5177	Nền tảng lập trình cho phân tích và trực quan dữ liệu	3.0		
+681		CO5185	Kiến trúc phần mềm	3.0		
+682		CO5317	Mô hình ngôn ngữ lớn	3.0		
+683		CO6021	Đề án tốt nghiệp	9.0		
+684		CO6023	Chuyên đề nghiên cứu trước luận văn	15.0		
+685		CO6025	Luận văn thạc sĩ nghiên cứu	15.0		
+686		CO6027	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+687		CO6029	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+688		CO6031	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+689		CO6033	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+690		CO6035	Đề án tốt nghiệp	9.0		
+691		CO6037	Chuyên đề nghiên cứu trước luận văn	15.0		
+692		CO6039	Luận văn thạc sĩ nghiên cứu	15.0		
+693		CO6041	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+694		CO6043	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+695		CO6045	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+696		CO6047	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+697		CO6049	Đề án tốt nghiệp	9.0		
+698		CO6051	Chuyên đề nghiên cứu trước luận văn	15.0		
+699		CO6053	Luận văn thạc sĩ nghiên cứu	15.0		
+700		CO6055	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+701		CO6057	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+702		CO6059	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+703		CO6061	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+704		CO7265	Tiểu luận tổng quan	0.0		
+705		CO7267	Chuyên đề tiến sĩ - phần 1	0.0		
+706		CO7269	Chuyên đề tiến sĩ - phần 2	0.0		
+707		CO7271	Luận án tiến sĩ - chuẩn bị	12.0		
+708		CO7273	Luận án tiến sĩ - phần 1	15.0		
+709		CO7275	Luận án tiến sĩ - phần 2	15.0		
+710		CO7277	Luận án tiến sĩ - phần 3	15.0		
+711		CO7279	Luận án tiến sĩ - phần 4	15.0		
+712		CO7281	Luận án tiến sĩ - phần 5	15.0		
+713		EE1031	Đồ án bs kỹ thuật số	1.0		
+714		EE2023	Thực tập điện tử 1	1.0		
+715		EE2025	Thực tập điện 1	1.0		
+716		EE2045	Đồ án bs vi xử lý	1.0		
+717		EE2057	Đồ án 1 (Kt ĐtVt & Ktđ)	1.0		
+718		EE2109	Thực tập công nhân	2.0		
+719		EE2119	Thực tập công nhân	2.0		
+720		EE2409	Cơ sở trường điện từ	3.0		
+721		EE2421	Đồ án cơ sở ngành	1.0		
+722		EE3003	Thiết kế hệ thống nhúng	3.0		
+723		EE3011	Mạch điện tử thông tin	3.0		
+724		EE3015	Kỹthuật hệthống viễnthôg	3.0		
+725		EE3021	Thực tập điện tử 2	1.0		
+726		EE3023	Thực tập điện 2	1.0		
+727		EE3025	Kỹ thuật siêu cao tần	3.0		
+728		EE3031	Lập trình hệ thống nhúng	3.0		
+729		EE3035	Xử lý ảnh	3.0		
+730		EE3037	Điện tử y sinh	3.0		
+731		EE3041	Xl tín hiệu số với FPGA	3.0		
+732		EE3043	Cấu trúc máy tính	3.0		
+733		EE3061	Đồ án	1.0		
+734		EE3067	Hệ thống điềukhiển nhúng	3.0		
+735		EE3077	Thị giác máy	3.0		
+736		EE3079	Điện tử công suất ứd	3.0		
+737		EE3085	Mạng viễn thông	3.0		
+738		EE3101	Kỹthuật t/kiệm &sd hqđn	3.0		
+739		EE3107	Thông tin di động	3.0		
+740		EE3117	Thiết kế vi mạch số	3.0		
+741		EE3121	Thiết kế vi mạch tt & hh	3.0		
+742		EE3127	Anten-truyềnsóng vôtuyến	3.0		
+743		EE3131	Hệ thống năng lượng xanh	3.0		
+744		EE3133	Thiết bị điện trong ppđ	3.0		
+745		EE3145	Kỹ thuật ra quyết định	3.0		
+746		EE3151	Đồ án	1.0		
+747		EE3165	Thiet Ke Vi Mach	3.0		
+748		EE3167	Thiết kế & pt ứ/dụng IoT	3.0		
+749		EE3169	Máy học cơ bản và ứ/dụng	3.0		
+750		EE3171	IoT trg c/nghiệp &d/dụng	3.0		
+751		EE3177	Chuyên đề đ/tử-viễnthông	3.0		
+752		EE3181	Đồ án 1 (Kỹ thuật điện)	1.0		
+753		EE3183	Đồ án 1 (Kt điện tử -vt)	1.0		
+754		EE3185	Đồ án 1 (Kt đ/khiển &tđh	1.0		
+755		EE3207	Thiết kế vi mạch tương tự	3.0		
+756		EE3211	Đồ án 1 (Thiết kế vi mạch)	1.0		
+757		EE3217	Trí tuệ nhân tạo trong thiết kế vi mạch	3.0		
+758		EE3425	Thiết kế vi mạch	3.0		
+759		EE3427	Thiết kế hệ thống nhúng	3.0		
+760		EE4007	Đồ án 2 (ktđ)	2.0		
+761		EE4009	Đồ án 2 (đth)	2.0		
+762		EE4011	Đồ án 2 (đvt)	2.0		
+763		EE4057	Đồ án cơ sở ngành	2.0		
+764		EE4063	Hệ thống c/cấp điện (PBL	3.0		
+765		EE4065	Nhàmáy điện&trạm b/á(PBL	3.0		
+766		EE4069	Đồ án cơ sở ngành	2.0		
+767		EE4113	Đồ án 2 (Ktđ & Ktđt-Vt)	2.0		
+768		EE4115	Đồ án 2 (Ktđ & Tđh)	2.0		
+769		EE4117	Đồ án 2 (Kt ĐtVt & Ktđ)	2.0		
+770		EE4119	Đồ án 2 (Kt ĐtVt & Tđh)	2.0		
+771		EE4121	Đồ án 2 (Tđh & Ktđ)	2.0		
+772		EE4123	Đồ án 2 (Tđh & Vt)	2.0		
+773		EE4201	Đồ án tốt nghiệp (Ktd&Vt	4.0		
+774		EE4203	Đồ án tốt nghiệp (Ktđ&Tđ	4.0		
+775		EE4205	Đồ án tốt nghiệp (Vt&Ktđ	4.0		
+776		EE4207	Đồ án tốt nghiệp (Vt&Tđh	4.0		
+777		EE4209	Đồ án tốt nghiệp (Tđ&Ktđ	4.0		
+778		EE4211	Đồ án tốt nghiệp (Tđh&Vt	4.0		
+779		EE4311	Đề cương luận văn tn	0.0		
+780		EE4313	Luận văn tốt nghiệp (ktd	9.0		
+781		EE4315	Đề cương luận văn tn	0.0		
+782		EE4317	Luận văn tốt nghiệp (ktd	9.0		
+783		EE4321	Đề cương luận văn tn	0.0		
+784		EE4323	Luận văn tốt nghiệp(đktđ	9.0		
+785		EE4325	Đề cương luận văn tn	0.0		
+786		EE4327	Luận văn tốt nghiệp(đktđ	9.0		
+787		EE4331	Đề cương luận văn tn	0.0		
+788		EE4333	Luận văn tốt nghiệp(dttt	9.0		
+789		EE4335	Đề cương luận văn tn	0.0		
+790		EE4337	Luận văn tốt nghiệp(dttt	9.0		
+791		EE4341	Đề cương luận văn tn	0.0		
+792		EE4343	Luận văn tốt nghiệp	9.0		
+793		EE4345	Đồ án 2 (Thiết kế vi mạch)	2.0		
+794		EE4347	Đồ án tốt nghiệp (ktd)	4.0		
+795		EE4349	Đồ án tốt nghiệp (Thiết kế vi mạch)	4.0		
+796		EE4357	Đồ án tốt nghiệp (tdh)	4.0		
+797		EE4367	Đồ án tốt nghiệp (dvt)	4.0		
+798		EE4377	Đồ án tốt nghiệp (tt)	4.0		
+799		EE4405	Đồ án chuyên ngành	2.0		
+800		EE4451	Thiết kế vi mạch số	3.0		
+801		EE4453	Thiết kế vimạch tương tự	3.0		
+802		EE5001	Đồ án chuyên ngành	2.0		
+803		EE5003	Đồ án chuyên ngành	2.0		
+804		EE5017	Luận văn tốt nghiệp	9.0		
+805		EE5021	Luận văn tốt nghiệp	4.0		
+806		EE5027	Luận văn tốt nghiệp	9.0		
+807		EE5029	Luận văn tốt nghiệp	4.0		
+808		EE5109	Quản lý và vận hành hệ thống điện	3.0		
+809		EE5113	Máy học và ứng dụng	3.0		
+810		EE5119	Cấu trúc và vận hành thị trường điện	3.0		
+811		EE5125	Kinh tế và quy hoạch hệ thống điện	2.0		
+812		EE5127	Quản lý chất lượng điện năng	2.0		
+813		EE5135	Những thách thức trong Hệ thống điện hiện đại	3.0		
+814		EE5137	Chuyên đề kỹ thuật điện	3.0		
+815		EE5143	Thực tập 2	3.0		
+816		EE5145	Phương pháp tính trong kỹ thuật điện	2.0		
+817		EE5147	Điện tử công suất trong hệ thống điện gió và mặt trời	2.0		
+818		EE5149	Lưới điện thông minh	2.0		
+819		EE5153	Thực tập 1	3.0		
+820		EE5155	Thực tập 2	3.0		
+821		EE5159	Chuyên đề nghiên cứu 2	3.0		
+822		EE5161	Chuyên đề nghiên cứu 3	3.0		
+823		EE5163	Thực tập 1	3.0		
+824		EE5165	Thực tập 2	3.0		
+825		EE5167	Thực tập ngoài trường	3.0		
+826		EE5173	Chuyên đề 2	3.0		
+827		EE5175	Chuyên đề 3	3.0		
+828		EE5179	Chuyên đề nghiên cứu 2	3.0		
+829		EE5187	Điện tử Công suất nâng cao	3.0		
+830		EE5191	Hệ thống thông tin nâng cao	3.0		
+831		EE5193	Xử lý số tín hiệu nâng cao	3.0		
+832		EE5199	Hệ thống điều khiển số	3.0		
+833		EE5201	Xử lý số tín hiệu	3.0		
+834		EE5205	Thị giác máy tính	3.0		
+835		EE5207	Kiến trúc máy tính nâng cao	3.0		
+836		EE5209	Phân tích và thiết kế mạch điện tử	3.0		
+837		EE5211	Mạch tích hợp siêu cao tần	3.0		
+838		EE5213	Kiểm định thiết kế ASIC	3.0		
+839		EE5215	Thiết kế hệ thống trên chip nâng cao	3.0		
+840		EE5217	Sản xuất, kiểm tra và đóng gói	3.0		
+841		EE5237	Thực tập 1	3.0		
+842		EE5245	Tối ưu hoá vận hành hệ thống điện	3.0		
+843		EE5249	Thị trường điện	3.0		
+844		EE5283	Thiết kế hệ thống nhúng nâng cao	3.0		
+845		EE5285	Xử lý ảnh và video	3.0		
+846		EE5287	Phương pháp tối ưu và ứng dụng	3.0		
+847		EE5295	Thiết kế vi mạch tương tự nâng cao	3.0		
+848		EE5301	Mạng thông tin dữ liệu	3.0		
+849		EE5303	Thiết kế vi mạch số nâng cao	3.0		
+850		EE5317	Số học máy tính: Giải thuật và thiết kế phần cứng	3.0		
+851		EE5319	Điều khiển phi tuyến	3.0		
+852		EE5321	Điều khiển tối ưu	3.0		
+853		EE5323	Động lực học và điều khiển robot	3.0		
+854		EE5325	Mô hình hóa và nhận dạng hệ thống	3.0		
+855		EE5337	Vi điều khiển và Hệ thống nhúng	3.0		
+856		EE5339	SCADA: Phân tích và thiết kế	3.0		
+857		EE6051	Đề án tốt nghiệp	9.0		
+858		EE6053	Chuyên đề nghiên cứu trước luận văn	15.0		
+859		EE6055	Luận văn thạc sĩ nghiên cứu	15.0		
+860		EE6057	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+861		EE6059	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+862		EE6061	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+863		EE6063	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+864		EE6065	Đề án tốt nghiệp	9.0		
+865		EE6067	Chuyên đề nghiên cứu trước luận văn	15.0		
+866		EE6069	Luận văn thạc sĩ nghiên cứu	15.0		
+867		EE6071	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+868		EE6073	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+869		EE6075	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+870		EE6077	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+871		EE6079	Đề án tốt nghiệp	9.0		
+872		EE6081	Chuyên đề nghiên cứu trước luận văn	15.0		
+873		EE6083	Luận văn thạc sĩ nghiên cứu	15.0		
+874		EE6085	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+875		EE6087	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+876		EE6089	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+877		EE6091	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+878		EE6093	Đề án tốt nghiệp	9.0		
+879		EE6095	Chuyên đề nghiên cứu trước luận văn	15.0		
+880		EE6097	Luận văn thạc sĩ nghiên cứu	15.0		
+881		EE6099	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+882		EE6101	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+883		EE6103	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+884		EE6105	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+885		EE6107	Đề án tốt nghiệp	9.0		
+886		EE6109	Chuyên đề nghiên cứu trước luận văn	15.0		
+887		EE6111	Luận văn thạc sĩ nghiên cứu	15.0		
+888		EE6113	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+889		EE6115	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+890		EE6117	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+891		EE6119	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+892		EE6121	Đề án tốt nghiệp	9.0		
+893		EE6123	Chuyên đề nghiên cứu trước luận văn	15.0		
+894		EE6125	Luận văn thạc sĩ nghiên cứu	15.0		
+895		EE6127	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+896		EE6129	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+897		EE6131	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+898		EE6133	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+899		EE7101	Tiểu luận tổng quan	0.0		
+900		EE7103	Chuyên đề tiến sĩ - phần 1	0.0		
+901		EE7105	Chuyên đề tiến sĩ - phần 2	0.0		
+902		EE7107	Luận án tiến sĩ - chuẩn bị	12.0		
+903		EE7109	Luận án tiến sĩ - phần 1	15.0		
+904		EE7111	Luận án tiến sĩ - phần 2	15.0		
+905		EE7113	Luận án tiến sĩ - phần 3	15.0		
+906		EE7115	Luận án tiến sĩ - phần 4	15.0		
+907		EE7117	Luận án tiến sĩ - phần 5	15.0		
+908		EE7119	Tiểu luận tổng quan	0.0		
+909		EE7121	Chuyên đề tiến sĩ - phần 1	0.0		
+910		EE7123	Chuyên đề tiến sĩ - phần 2	0.0		
+911		EE7125	Luận án tiến sĩ - chuẩn bị	12.0		
+912		EE7127	Luận án tiến sĩ - phần 1	15.0		
+913		EE7129	Luận án tiến sĩ - phần 2	15.0		
+914		EE7131	Luận án tiến sĩ - phần 3	15.0		
+915		EE7133	Luận án tiến sĩ - phần 4	15.0		
+916		EE7135	Luận án tiến sĩ - phần 5	15.0		
+917		EE7137	Tiểu luận tổng quan	0.0		
+918		EE7139	Chuyên đề tiến sĩ - phần 1	0.0		
+919		EE7141	Chuyên đề tiến sĩ - phần 2	0.0		
+920		EE7143	Luận án tiến sĩ - chuẩn bị	12.0		
+921		EE7145	Luận án tiến sĩ - phần 1	15.0		
+922		EE7147	Luận án tiến sĩ - phần 2	15.0		
+923		EE7149	Luận án tiến sĩ - phần 3	15.0		
+924		EE7151	Luận án tiến sĩ - phần 4	15.0		
+925		EE7153	Luận án tiến sĩ - phần 5	15.0		
+926		EE7155	Tiểu luận tổng quan	0.0		
+927		EE7157	Chuyên đề tiến sĩ - phần 1	0.0		
+928		EE7159	Chuyên đề tiến sĩ - phần 2	0.0		
+929		EE7161	Luận án tiến sĩ - chuẩn bị	12.0		
+930		EE7163	Luận án tiến sĩ - phần 1	15.0		
+931		EE7165	Luận án tiến sĩ - phần 2	15.0		
+932		EE7167	Luận án tiến sĩ - phần 3	15.0		
+933		EE7169	Luận án tiến sĩ - phần 4	15.0		
+934		EE7171	Luận án tiến sĩ - phần 5	15.0		
+935		EN1003	Con người và môi trường	3.0		
+936		EN1005	Sinh thái học	3.0		
+937		EN2003	Cac Qtrinh Sh Trong Ktmt	3.0		
+938		EN2033	Luật &chínhsách M/trường	3.0		
+939		EN2039	Thực tập tham quan (qlmt	1.0		
+940		EN2045	Các qt hóa-lý trong mt	3.0		
+941		EN2047	Kinh tế tài nguyên & mt	3.0		
+942		EN2055	Mạng lưới cấp thoát nước	3.0		
+943		EN2061	Các quá trình Hoá học và Hoá lý trong kỹ thuật môi tr	3.0		
+944		EN3041	CN xlý nướccấp &nướcthải	3.0		
+945		EN3047	Đánh giá tác động &rrmt	3.0		
+946		EN3073	Antoàn lđ & vs m/trg cn	3.0		
+947		EN3077	Đamh xử lý nước thải &nc	2.0		
+948		EN3079	Các hệ thống ql m/trường	3.0		
+949		EN3087	Biến đổi khí hậu	3.0		
+950		EN3117	Vận hành c/trình xửlý mt	3.0		
+951		EN3205	Thủy văn môi trường	3.0		
+952		EN3211	Q/lý môitrường đôthị&kcn	4.0		
+953		EN4023	Đồ án chuyên ngành	2.0		
+954		EN4027	Đamh xử lý khí thải &ctr	2.0		
+955		EN4059	Đồ án chuyên ngành (KTMT)	2.0		
+956		EN4311	Đề cương luận văn tn	0.0		
+957		EN4313	Luận văn tốt nghiệp (qlm	9.0		
+958		EN4315	Đề cương luận văn tn	0.0		
+959		EN4317	Luận văn tốt nghiệp (qlm	9.0		
+960		EN4321	Đề cương luận văn tn	0.0		
+961		EN4323	Luận văn tốt nghiệp (kmt	9.0		
+962		EN4325	Đề cương luận văn tn	0.0		
+963		EN4327	Luận văn tốt nghiệp (kmt	9.0		
+964		EN4337	Đồ án tốt nghiệp (qlm)	4.0		
+965		EN4347	Đồ án tốt nghiệp (kmt)	4.0		
+966		EN5041	GIS và viễn thám nâng cao	3.0		
+967		EN5081	Quy hoạch tài nguyên nước	3.0		
+968		EN5085	Biến đổi khí hậu và các giải pháp thích ứng	3.0		
+969		EN5089	Ứng dụng công nghệ vật liệu trong kỹ thuật môi trường	3.0		
+970		EN5093	Công nghệ màng trong kỹ thuật môi trường	3.0		
+971		EN5095	Công nghệ tái sử dụng nước	3.0		
+972		EN5097	Kỹ thuật xử lý bùn thải	3.0		
+973		EN5099	Kỹ thuật phân tích môi trường tiên tiến	3.0		
+974		EN5105	Xử lý nước thải cho một số ngành công nghiệp điển hình ở Việt Nam: thực phẩm, dệt nhuộm, xi mạ	3.0		
+975		EN5111	Phân tích hệ thống môi trường (nâng cao)	3.0		
+976		EN5135	Chính sách quản lý chất thải bền vững	3.0		
+977		EN5151	Chuyên đề thực tập tốt nghiệp	3.0		
+978		EN5153	Thực tập tốt nghiệp	3.0		
+979		EN5155	Mô hình hóa môi trương (nâng cao)	3.0		
+980		EN5157	Quản lý chất lượng nước	3.0		
+981		EN5167	Thực tập Chuyên ngành	3.0		
+982		EN6031	Đề án tốt nghiệp	9.0		
+983		EN6033	Chuyên đề nghiên cứu trước luận văn	15.0		
+984		EN6035	Luận văn thạc sĩ nghiên cứu	15.0		
+985		EN6037	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+986		EN6039	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+987		EN6041	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+988		EN6043	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+989		EN6045	Đề án tốt nghiệp	9.0		
+990		EN6047	Chuyên đề nghiên cứu trước luận văn	15.0		
+991		EN6049	Luận văn thạc sĩ nghiên cứu	15.0		
+992		EN6051	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+993		EN6053	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+994		EN6055	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+995		EN6057	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+996		EN6059	Đề án tốt nghiệp	9.0		
+997		EN6061	Chuyên đề nghiên cứu trước luận văn	15.0		
+998		EN6063	Luận văn thạc sĩ nghiên cứu	15.0		
+999		EN6065	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1000		EN6067	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1001		EN6069	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1002		EN6071	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1003		EN7237	Tiểu luận tổng quan	0.0		
+1004		EN7239	Chuyên đề tiến sĩ - phần 1	0.0		
+1005		EN7241	Chuyên đề tiến sĩ - phần 2	0.0		
+1006		EN7243	Luận án tiến sĩ - chuẩn bị	12.0		
+1007		EN7245	Luận án tiến sĩ - phần 1	15.0		
+1008		EN7247	Luận án tiến sĩ - phần 2	15.0		
+1009		EN7249	Luận án tiến sĩ - phần 3	15.0		
+1010		EN7251	Luận án tiến sĩ - phần 4	15.0		
+1011		EN7253	Luận án tiến sĩ - phần 5	15.0		
+1012		EN7255	Tiểu luận tổng quan	0.0		
+1013		EN7257	Chuyên đề tiến sĩ - phần 1	0.0		
+1014		EN7259	Chuyên đề tiến sĩ - phần 2	0.0		
+1015		EN7261	Luận án tiến sĩ - chuẩn bị	12.0		
+1016		EN7263	Luận án tiến sĩ - phần 1	15.0		
+1017		EN7265	Luận án tiến sĩ - phần 2	15.0		
+1018		EN7267	Luận án tiến sĩ - phần 3	15.0		
+1019		EN7269	Luận án tiến sĩ - phần 4	15.0		
+1020		EN7271	Luận án tiến sĩ - phần 5	15.0		
+1021		GE1015	Sức khỏe,at&mt trong ndk	3.0		
+1022		GE1025	Kt hệthống &thực tiễn cn	3.0		
+1023		GE1029	Sức khỏe an toàn môi trg	3.0		
+1024		GE2021	Cơ sở thủy địa cơ học	3.0		
+1025		GE2029	Địa chất môi trường	3.0		
+1026		GE2043	Địa tin học đại cương	3.0		
+1027		GE2047	Tb khai thác tbm&htđktđ	3.0		
+1028		GE2057	Đồ án tổngquan về địa nl	1.0		
+1029		GE2061	Tr/tích học &nhịp đ/tầng	3.0		
+1030		GE2065	Vật liệu xây dựng	2.0		
+1031		GE2067	Sức bền - kết cấu vật liệu	3.0		
+1032		GE2069	Trắc địa công trình	3.0		
+1033		GE2071	Kết cấu bê tông cốt thép	3.0		
+1034		GE2073	Các PP khảo sát và TN hiện trường	3.0		
+1035		GE2075	Thực hành các phương pháp khảo sát và TN hiện trường	1.0		
+1036		GE2081	Địa kỹ thuật	3.0		
+1037		GE2099	Khoa học Trái Đất ứng dụng và Kinh tế tuần hoàn	3.0		
+1038		GE3013	Thí nghiệm địa kỹ thuật	1.0		
+1039		GE3017	Kỹ thuật vỉa dầu khí	3.0		
+1040		GE3037	TT kt pt các ct của mtđc	1.0		
+1041		GE3061	Thực hành địa kỹ thuật 2	1.0		
+1042		GE3099	ổn định công trình	3.0		
+1043		GE3105	Đặc trưng hóa & mhh vỉa	3.0		
+1044		GE3137	Công trình xây dựng	3.0		
+1045		GE3141	Địa thống kê	3.0		
+1046		GE3145	Đồ án địa kỹ thuật 2	1.0		
+1047		GE3151	Bv mtr trog cndk+kiếntập	3.0		
+1048		GE3157	Đồ án kỹ thuật dầu khí 1	1.0		
+1049		GE3159	Đồ án kỹ thuật dầu khí 2	1.0		
+1050		GE3165	Tr/tích học &nhịp đ/tầng	3.0		
+1051		GE3175	Hoànthiện giếng & kt vỉa	3.0		
+1052		GE3181	Công nghệ khoan dầu khí	3.0		
+1053		GE3183	Đc &tài nguyên dầukhí VN	3.0		
+1054		GE3197	Đồ án chuyên đề 1	1.0		
+1055		GE3205	Cơ học đá dầu khí	3.0		
+1056		GE3207	Cn cb dk pv cho các ncnk	3.0		
+1057		GE3209	Đồ án kỹ thuật dầu khí	1.0		
+1058		GE3211	Các qtcn chế biến dầukhí	3.0		
+1059		GE3213	Địa thống kê ứd trg ktdk	3.0		
+1060		GE3229	Địa kỹ thuật công trình	4.0		
+1061		GE3243	Vẽ kỹ thuật xây dựng	3.0		
+1062		GE4001	Đồ án địa kỹ thuật 2	1.0		
+1063		GE4029	Các p/pháp gia cố đất	3.0		
+1064		GE4033	Nền móng công trình	3.0		
+1065		GE4039	Đồ án mônhọc ks-td&ppttl	1.0		
+1066		GE4091	Mô phỏng vỉa dầu khí	3.0		
+1067		GE4093	Phân tích và dự báo ktdk	3.0		
+1068		GE4111	Đồ án chuyên đề 3	1.0		
+1069		GE4141	Đồ án chuyên ngành	2.0		
+1070		GE4143	Đồ án chuyên ngành	2.0		
+1071		GE4145	Thử vỉa &pt áp suất ct	3.0		
+1072		GE4159	Đồ án chuyên ngành	2.0		
+1073		GE4311	Đề cương luận văn tn	0.0		
+1074		GE4313	Luận văn tốt nghiệp (dcm	9.0		
+1075		GE4315	Đề cương luận văn tn	0.0		
+1076		GE4317	Luận văn tốt nghiệp	9.0		
+1077		GE4321	Đề cương luận văn tn	0.0		
+1078		GE4323	Luận văn tốt nghiệp (ddk	9.0		
+1079		GE4325	Đề cương luận văn tn	0.0		
+1080		GE4327	Luận văn tốt nghiệp	9.0		
+1081		GE4331	Đề cương luận văn tn	0.0		
+1082		GE4333	Luận văn tốt nghiệp (dkt	9.0		
+1083		GE4337	Đồ án tốt nghiệp	4.0		
+1084		GE4341	Đề cương luận văn tn	0.0		
+1085		GE4343	Luận văn tốt nghiệp(ktkk	9.0		
+1086		GE4347	Đồ án tốt nghiệp	4.0		
+1087		GE4351	Đề cương luận văn tn	0.0		
+1088		GE4353	Luận văn tốt nghiệp (dks	9.0		
+1089		GE4361	Đề cương luận văn tn(clc	0.0		
+1090		GE4363	Luận văn tốt nghiệp (clc	9.0		
+1091		GE4365	Đồ án tốt nghiệp	4.0		
+1092		GE5031	Thực tập công ty	3.0		
+1093		GE5049	Địa hóa môi trường	3.0		
+1094		GE5065	Thủy địa hóa	3.0		
+1095		GE5117	Thực tập 2	3.0		
+1096		GE5121	Thực tập 1	3.0		
+1097		GE5123	Thực tập công ty 1	3.0		
+1098		GE6021	Đề án tốt nghiệp	9.0		
+1099		GE6023	Chuyên đề nghiên cứu trước luận văn	15.0		
+1100		GE6025	Luận văn thạc sĩ nghiên cứu	15.0		
+1101		GE6027	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1102		GE6029	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1103		GE6031	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1104		GE6033	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1105		GE6035	Đề án tốt nghiệp	9.0		
+1106		GE6037	Chuyên đề nghiên cứu trước luận văn	15.0		
+1107		GE6039	Luận văn thạc sĩ nghiên cứu	15.0		
+1108		GE6041	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1109		GE6043	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1110		GE6045	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1111		GE6047	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1112		GE7033	Cơ học đá nâng cao	2.0		
+1113		GE7061	Địa chất môi trường ứng dụng	3.0		
+1114		GE7067	Địa kỹ thuật nâng cao	3.0		
+1115		GE7147	Tiểu luận tổng quan	0.0		
+1116		GE7149	Chuyên đề tiến sĩ - phần 1	0.0		
+1117		GE7151	Chuyên đề tiến sĩ - phần 2	0.0		
+1118		GE7153	Luận án tiến sĩ - chuẩn bị	12.0		
+1119		GE7155	Luận án tiến sĩ - phần 1	15.0		
+1120		GE7157	Luận án tiến sĩ - phần 2	15.0		
+1121		GE7159	Luận án tiến sĩ - phần 3	15.0		
+1122		GE7161	Luận án tiến sĩ - phần 4	15.0		
+1123		GE7163	Luận án tiến sĩ - phần 5	15.0		
+1124		GE7165	Tiểu luận tổng quan	0.0		
+1125		GE7167	Chuyên đề tiến sĩ - phần 1	0.0		
+1126		GE7169	Chuyên đề tiến sĩ - phần 2	0.0		
+1127		GE7171	Luận án tiến sĩ - chuẩn bị	12.0		
+1128		GE7173	Luận án tiến sĩ - phần 1	15.0		
+1129		GE7175	Luận án tiến sĩ - phần 2	15.0		
+1130		GE7177	Luận án tiến sĩ - phần 3	15.0		
+1131		GE7179	Luận án tiến sĩ - phần 4	15.0		
+1132		GE7181	Luận án tiến sĩ - phần 5	15.0		
+1133		GE7183	Tiểu luận tổng quan	0.0		
+1134		GE7185	Chuyên đề tiến sĩ - phần 1	0.0		
+1135		GE7187	Chuyên đề tiến sĩ - phần 2	0.0		
+1136		GE7189	Luận án tiến sĩ - chuẩn bị	12.0		
+1137		GE7191	Luận án tiến sĩ - phần 1	15.0		
+1138		GE7193	Luận án tiến sĩ - phần 2	15.0		
+1139		GE7195	Luận án tiến sĩ - phần 3	15.0		
+1140		GE7197	Luận án tiến sĩ - phần 4	15.0		
+1141		GE7199	Luận án tiến sĩ - phần 5	15.0		
+1142		GK5007	Phương pháp nghiên cứu khoa học nâng cao	3.0		
+1143		GK5009	Quản lý và lãnh đạo	3.0		
+1144		GK5011	Đổi mới sáng tạo & Khởi nghiệp	3.0		
+1145		GK5021	Đạo đức kinh doanh và trách nhiệm xã hội	3.0		
+1146		GK5025	Quản lý dự án	3.0		
+1147		GK5033	Chuyên đề nghiên cứu: Phương pháp nghiên cứu khoa học	3.0		
+1148		GK5035	Chuyên đề nghiên cứu: Kỹ năng phân tích, viết, xuất bản NCKH	3.0		
+1149		GK5037	Chuyên đề nghiên cứu: Phân tích và xử lý dữ liệu đa chiều	3.0		
+1150		GK5039	Chuyên đề nghiên cứu: Khoa học dữ liệu ứng dụng	3.0		
+1151		GK5041	Chuyên đề nghiên cứu: Trí tuệ nhân tạo	3.0		
+1152		GK5043	Chuyên đề nghiên cứu: Phân tích dữ liệu	3.0		
+1153		IM1003	Kinh tế học vi mô	3.0		
+1154		IM1009	Kinh tế học vĩ mô	3.0		
+1155		IM1011	Máy tính trong kinhdoanh	3.0		
+1156		IM1013	Kinh tế học đại cương	3.0		
+1157		IM1015	Kế toán tài chính	3.0		
+1158		IM1017	Thống kê trong kinhdoanh	3.0		
+1159		IM1019	Tiếp thị căn bản	3.0		
+1160		IM1021	Khởi nghiệp	3.0		
+1161		IM1023	Quảnlý sảnxuất cho kỹ sư	3.0		
+1162		IM1025	Quản lý dự án cho kỹ sư	3.0		
+1163		IM1027	Kinh Te Ky Thuat	3.0		
+1164		IM1031	Khởi nghiệp và đổi mới sáng tạo	3.0		
+1165		IM2029	Thực tập nhận thức	2.0		
+1166		IM2031	Quản lý sản xuất	3.0		
+1167		IM2033	Tài chính doanh nghiệp	3.0		
+1168		IM2035	Phương pháp định lượng	3.0		
+1169		IM3001	Quảntrị kinhdoanh cho ks	3.0		
+1170		IM3023	Thương mại điện tử	3.0		
+1171		IM3033	Tiếp thị giữa các tổchức	3.0		
+1172		IM3041	Hệ hỗ trợ q/định & ttkd	3.0		
+1173		IM3047	Giaotiếp trong kinhdoanh	3.0		
+1174		IM3051	Đạođức kinhdoanh & tn xh	3.0		
+1175		IM3059	Quản lý chiến lược	3.0		
+1176		IM3063	Quản lý chất lượng	3.0		
+1177		IM3073	Điều độ sản xuất	3.0		
+1178		IM3081	Quản trị k/doanh quốc tế	3.0		
+1179		IM3085	Tài chính quốc tế	3.0		
+1180		IM3091	Phân tích &t/k chuỗi c/ứ	3.0		
+1181		IM3095	Quản lý vận hành bán lẻ	3.0		
+1182		IM3097	Chuyển đổi cung ứng kts	3.0		
+1183		IM3099	Ql chuỗi c/ứng theo Lean	3.0		
+1184		IM3107	Kh/nghiệp &đổi mới s/tạo	3.0		
+1185		IM4033	Đồ án chuyên ngành	2.0		
+1186		IM4311	Đề cương luận văn tn	0.0		
+1187		IM4313	Luận văn tốt nghiệp (qcn	9.0		
+1188		IM4315	Đề cương luận văn tn	0.0		
+1189		IM4317	Luận văn tốt nghiệp	9.0		
+1190		IM4321	Đề cương luận văn tn	0.0		
+1191		IM4323	Luận văn tốt nghiệp (qkd	9.0		
+1192		IM4327	Khóa luận tốt nghiệp	4.0		
+1193		IM4331	Khóa luận Tốt nghiệp	4.0		
+1194		IM5001	Phương pháp nghiên cứu trong kinh doanh	3.0		
+1195		IM5009	Quản lý tiếp thị	3.0		
+1196		IM5049	Quản trị hệ kinh doanh điện tử	3.0		
+1197		IM5065	Quản lý vận hành	3.0		
+1198		IM5067	Quản trị tài chánh	3.0		
+1199		IM5069	Hành vi người mua	3.0		
+1200		IM5071	Quản lý đổi mới trong tổ chức	3.0		
+1201		IM5085	Digital marketing	3.0		
+1202		IM5089	Quản lý dự án nâng cao	3.0		
+1203		IM5091	Kế toán quản trị cho người ra quyết định	3.0		
+1204		IM5093	Quản trị con người và tổ chức	3.0		
+1205		IM5109	Quản lý chuỗi cung ứng toàn cầu	3.0		
+1206		IM5111	Quản lý chiến lược trong thời đại số	3.0		
+1207		IM5115	Thực tập chuyên đề kinh doanh 1	3.0		
+1208		IM5117	Thực tập chuyên đề kinh doanh 2	3.0		
+1209		IM5125	Quản trị tài chính dịch vụ chăm sóc sức khỏe	3.0		
+1210		IM5127	Quản trị chất lượng dịch vụ khám chữa bệnh	3.0		
+1211		IM5129	Chuyển đổi số trong bệnh viện	3.0		
+1212		IM5131	Giải quyết vấn đề trong quản trị bệnh viện	3.0		
+1213		IM5133	Lãnh đạo và quản trị sự thay đổi	3.0		
+1214		IM5135	Kinh tế y tế	3.0		
+1215		IM5149	Phương pháp nghiên cứu trong dịch vụ chăm sóc sức khỏe	3.0		
+1216		IM5151	Thực tập quản trị bệnh viện 1	3.0		
+1217		IM5153	Thực tập quản trị bệnh viện 2	3.0		
+1218		IM5155	Marketing dịch vụ chăm sóc sức khỏe	3.0		
+1219		IM5157	Quản trị nguồn nhân lực bệnh viện	3.0		
+1220		IM5159	Nghiên cứu tình huống trong quản trị nhân sự, thay đổi của tổ chức trong bệnh viện	3.0		
+1221		IM6027	Đề án tốt nghiệp	9.0		
+1222		IM6029	Chuyên đề nghiên cứu trước luận văn	15.0		
+1223		IM6031	Luận văn thạc sĩ nghiên cứu	15.0		
+1224		IM6033	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1225		IM6035	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1226		IM6037	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1227		IM6039	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1228		IM6041	Đề án tốt nghiệp	9.0		
+1229		IM6043	Chuyên đề nghiên cứu trước luận văn	15.0		
+1230		IM6045	Luận văn thạc sĩ nghiên cứu	15.0		
+1231		IM6047	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1232		IM6049	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1233		IM6051	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1234		IM6053	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1235		IM7929	Tiểu luận tổng quan	0.0		
+1236		IM7931	Chuyên đề tiến sĩ - phần 1	0.0		
+1237		IM7933	Chuyên đề tiến sĩ - phần 2	0.0		
+1238		IM7935	Luận án tiến sĩ - chuẩn bị	12.0		
+1239		IM7937	Luận án tiến sĩ - phần 1	15.0		
+1240		IM7939	Luận án tiến sĩ - phần 2	15.0		
+1241		IM7941	Luận án tiến sĩ - phần 3	15.0		
+1242		IM7943	Luận án tiến sĩ - phần 4	15.0		
+1243		IM7945	Luận án tiến sĩ - phần 5	15.0		
+1244		IU2021	Tổ chức quảnlý bảo dưỡng	3.0		
+1245		IU3087	Độ tin cậy &đảm bảo c/l	3.0		
+1246		IU4013	Đồ án chuyên ngành	2.0		
+1247		IU4311	Đề cương luận văn tn	0.0		
+1248		IU4313	Luận văn tốt nghiệp	9.0		
+1249		IU4315	Đề cương luận văn tn	0.0		
+1250		IU4317	Luận văn tốt nghiệp	9.0		
+1251		IU4327	Đồ án tốt nghiệp	4.0		
+1252		LA1003	Anh văn 1	2.0		
+1253		LA1005	Anh văn 2	2.0		
+1254		LA1007	Anh văn 3	2.0		
+1255		LA1009	Anh văn 4	2.0		
+1256		LA1021	Tiếng Nhật 1	0.0		
+1257		LA1039	Anh văn 2A (nhu cầu)	2.0		
+1258		LA1041	Anh văn 3A (nhu cầu)	2.0		
+1259		LA1043	Anh văn 4A (nhu cầu)	2.0		
+1260		LA1053	Tiếng Nhật - Kiến thức ngôn ngữ 2	0.0		
+1261		LA1055	Tiếng Nhật - Kỹ Năng Ngôn Ngữ 2	0.0		
+1262		LA2007	Tiếng Nhật 4	0.0		
+1263		LA2011	Tiếng Nhật cn ktđ-đt-tt2	0.0		
+1264		LA2015	Tiếng Việt 2	3.0		
+1265		LA2019	Tiếng Nhật 4	0.0		
+1266		LA3027	Tiếng Nhật 6	0.0		
+1267		LA4005	Tiếng Việt 4	3.0		
+1268		LA4009	Tiếng Nhật 8	0.0		
+1269		MA2029	Thực tập kỹ thuật (VSI)	1.0		
+1270		MA2109	Thực tập công nhân	2.0		
+1271		MA2119	Thực tập công nhân	2.0		
+1272		MA2121	Phương pháp tính toán các quá trình vật liệu	3.0		
+1273		MA3035	Thí nghiệm silicat đc	1.0		
+1274		MA3039	Kỹ thuật sx các sp ttinh	3.0		
+1275		MA3093	Công nghệ gốm sứ	3.0		
+1276		MA3099	T/nghiệm điện hóa học	2.0		
+1277		MA3109	Thí nghiệm đúc	1.0		
+1278		MA3121	TN hóa học polyme	1.0		
+1279		MA3137	Kỹ thuật xúc tác	3.0		
+1280		MA3143	T/hành phân tích vậtliệu	2.0		
+1281		MA3149	Tn chế tạo các hệ n/lượg	1.0		
+1282		MA3171	PP phân tích và ĐG VL	3.0		
+1283		MA4065	Đo lường & tự động hóa	3.0		
+1284		MA4069	Các t/chất của vl polyme	3.0		
+1285		MA4071	Đồ án chuyên ngành	2.0		
+1286		MA4079	C/nghệ các chất tạo màng	3.0		
+1287		MA4085	Polyme blend	3.0		
+1288		MA4113	VL tiên tiến trong CHNL	3.0		
+1289		MA4123	P/triển bền vững &cnxlmt	3.0		
+1290		MA4145	Thực hành điện hóa	2.0		
+1291		MA4157	Đồ án chuyên ngành 1	2.0		
+1292		MA4175	Thực hành vật liệu 2	2.0		
+1293		MA4311	Đề cương luận văn tn	0.0		
+1294		MA4313	Luận văn tốt nghiệp (vpo	9.0		
+1295		MA4315	Đề cương luận văn tn	0.0		
+1296		MA4317	Luận văn tốt nghiệp	9.0		
+1297		MA4321	Đề cương luận văn tn	0.0		
+1298		MA4323	Luận văn tốt nghiệp	9.0		
+1299		MA4327	Đồ án tốt nghiệp	4.0		
+1300		MA4331	Đề cương luận văn tn	0.0		
+1301		MA4333	Luận văn tốt nghiệp (vsi	9.0		
+1302		MA4341	Đề cương luận văn tn	0.0		
+1303		MA4343	Luận văn tốt nghiệp(vlnl	9.0		
+1304		MA5003	Vl nano trong các hệ nl	3.0		
+1305		MA5005	ĐAMH chuyên ngành vl&nl	2.0		
+1306		MA5007	Đồ án chuyên ngành 2	2.0		
+1307		MA5017	Luận văn tốt nghiệp	9.0		
+1308		MA5025	V/l polyme composite(PBL	3.0		
+1309		MA5027	Luận văn tốt nghiệp	9.0		
+1310		MA5043	Polyme dẫn điện ứng dụng trong linh kiện điện tử	3.0		
+1311		MA5055	Công nghệ bán dẫn	3.0		
+1312		MA5059	Thực tập quy trình sản xuất vật liệu	3.0		
+1313		MA5061	Thực tập quản lý sản xuất	3.0		
+1314		MA5075	Khoa Học và Công Nghệ Vật Liệu Tiên Tiến	3.0		
+1315		MA5077	Phương pháp phân tích & đánh giá vật liệu	3.0		
+1316		MA5079	Cơ sở mô phỏng vật liệu	3.0		
+1317		MA5081	Hóa học nano	3.0		
+1318		MA5087	Công nghệ nhiệt luyện tiên tiến	3.0		
+1319		MA6011	Đề án tốt nghiệp	9.0		
+1320		MA6013	Chuyên đề nghiên cứu trước luận văn	15.0		
+1321		MA6015	Luận văn thạc sĩ nghiên cứu	15.0		
+1322		MA6017	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1323		MA6019	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1324		MA6021	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1325		MA6023	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1326		MA7111	Tiểu luận tổng quan	0.0		
+1327		MA7113	Chuyên đề tiến sĩ - phần 1	0.0		
+1328		MA7115	Chuyên đề tiến sĩ - phần 2	0.0		
+1329		MA7117	Luận án tiến sĩ - chuẩn bị	12.0		
+1330		MA7119	Luận án tiến sĩ - phần 1	15.0		
+1331		MA7121	Luận án tiến sĩ - phần 2	15.0		
+1332		MA7123	Luận án tiến sĩ - phần 3	15.0		
+1333		MA7125	Luận án tiến sĩ - phần 4	15.0		
+1334		MA7127	Luận án tiến sĩ - phần 5	15.0		
+1335		ME1005	Thựctập cơkhí đại cương1	1.0		
+1336		ME1013	Thựctập Cơkhí Đạicương 1	2.0		
+1337		ME1017	Mt&pt bền vững trg d/may	3.0		
+1338		ME2011	Đồ án thiết kế	1.0		
+1339		ME2045	Kinh tế kỹ thuật	3.0		
+1340		ME2087	Thực tập cơ khí đ/cương2	2.0		
+1341		ME2115	Thực tập kỹ thuật	2.0		
+1342		ME2117	Thí nghiệm cơ học máy	1.0		
+1343		ME2119	Thực tập công nhân	2.0		
+1344		ME2135	Đồ án thiết kế	2.0		
+1345		ME2137	T/h Td Hoa Thiet Ke (ca	1.0		
+1346		ME2143	Thực tập đại cương	2.0		
+1347		ME2147	Thực hành mô hìnhhóa &mp	2.0		
+1348		ME2149	Kỹ thuật mhh & mô phỏng	3.0		
+1349		ME2153	Thực hành quản lý dự án	2.0		
+1350		ME2163	Công nghệ dệt nhuộm	3.0		
+1351		ME2169	Kđ &đánh giá cl trong dm	3.0		
+1352		ME2171	Công nghệ may mặc	3.0		
+1353		ME2173	Các CN 4.0 trong qlns&cl	3.0		
+1354		ME3055	Công nghệ sợi 2	4.0		
+1355		ME3105	Thiết kế đồ họa	3.0		
+1356		ME3139	Đồ án thiết kế	2.0		
+1357		ME3141	T/h tđ hóa thiết kế (CAD	1.0		
+1358		ME3143	Thực tập kỹ thuật cơ khí	2.0		
+1359		ME3145	Đồ án hệ thống tr/động	2.0		
+1360		ME3151	Đồ án t/kế-hướng tb lạnh	2.0		
+1361		ME3155	Thực tập kỹ thuật n/lạnh	2.0		
+1362		ME3169	Thực tập kỹ thuật dệt	2.0		
+1363		ME3175	Thiết bị may	3.0		
+1364		ME3199	Đồ án t/kế-hướng tb tđn	2.0		
+1365		ME3257	Mh ra qđ trong chuỗi c/ứ	3.0		
+1366		ME3289	Thiết kế chuyền	3.0		
+1367		ME3291	Mỹ thuật trang phục	3.0		
+1368		ME3297	ứd trí tuệ nhân tạo tccứ	3.0		
+1369		ME3299	Chuỗi cung ứng điện tử	3.0		
+1370		ME4019	Luận văn tốt nghiệp (cđt	9.0		
+1371		ME4029	Luận văn tốt nghiệp(ktct	9.0		
+1372		ME4039	Luận văn tốt nghiệp (ktn	9.0		
+1373		ME4045	Đồ án chuyên ngành (ct)	1.0		
+1374		ME4047	Đồ án chuyên ngành (tk)	1.0		
+1375		ME4049	Luận văn tốt nghiệp(kttk	9.0		
+1376		ME4053	Đồ án chuyên ngành (ktn)	1.0		
+1377		ME4057	Đề cương luận văn tn	0.0		
+1378		ME4059	Luận văn tốt nghiệp (mxd	9.0		
+1379		ME4061	Đồ án chuyên ngành	2.0		
+1380		ME4067	Đề cương luận văn tn(det	0.0		
+1381		ME4069	Luận văn tốt nghiệp (det	9.0		
+1382		ME4071	Đồ án chuyên ngành	2.0		
+1383		ME4077	Đề cương luận văn tn(cnm	0.0		
+1384		ME4079	Luận văn tốt nghiệp (may	9.0		
+1385		ME4081	Đồ án chuyên ngành	2.0		
+1386		ME4085	Đề cương luận văn tn(ktk	0.0		
+1387		ME4087	Đề cương luận văn tn	0.0		
+1388		ME4089	Luận văn tốt nghiệp(htcn	9.0		
+1389		ME4091	Đề cương luận văn tn(ktn	0.0		
+1390		ME4093	Đề cương luận văn tn(ct)	0.0		
+1391		ME4095	Đề cương luận văn tn(cđt	0.0		
+1392		ME4097	Đề cương luận văn tn(khd	0.0		
+1393		ME4099	Luận văn tốt nghiệp (hd)	9.0		
+1394		ME4101	Đồ án th/kế hệ thống cn	2.0		
+1395		ME4103	Đồ án th/kế ht logistics	2.0		
+1396		ME4107	Đề cương luận văn tn(tkt	0.0		
+1397		ME4109	Luận văn tốt nghiệp(cntt	9.0		
+1398		ME4113	Đồ án 1	2.0		
+1399		ME4117	Đề cương luận văn tn	0.0		
+1400		ME4119	Luận văn tốt nghiệp	9.0		
+1401		ME4121	Đồ án ngành 1	2.0		
+1402		ME4127	Thiếtkế hệthống cơđiệntử	3.0		
+1403		ME4139	Vi điều khiển	3.0		
+1404		ME4141	Kỹ thuật thông gió cn	3.0		
+1405		ME4219	Đề cương luận văn tn(cđt	0.0		
+1406		ME4221	Luận văn tốt nghiệp (cđt	9.0		
+1407		ME4311	Điện trong kỹ thuật lạnh	3.0		
+1408		ME4313	Anh văn chuyên ngành	3.0		
+1409		ME4317	Đề cương luận văn tn(ktn	0.0		
+1410		ME4319	Luận văn tốt nghiệp (ktn	9.0		
+1411		ME4327	Đồ án tốt nghiệp (cdt)	4.0		
+1412		ME4337	Đồ án tốt nghiệp (ktn)	4.0		
+1413		ME4347	Đồ án tốt nghiệp (ktd)	4.0		
+1414		ME4357	Đồ án tốt nghiệp (cndm)	4.0		
+1415		ME4367	Đồ án tốt nghiệp (kthtcn	4.0		
+1416		ME4377	Đồ án tốt nghiệp (log)	4.0		
+1417		ME4387	Đồ án tốt nghiệp (ktck)	4.0		
+1418		ME4533	Quản lý đơn hàng	3.0		
+1419		ME4537	Đề cương luận văn tn(det	0.0		
+1420		ME4539	Luận văn tốt nghiệp (det	9.0		
+1421		ME4543	Đề cương luận văn tn(cnm	0.0		
+1422		ME4545	Luận văn tốt nghiệp (may	9.0		
+1423		ME4607	Pt & thiếtkế httt quảnlý	3.0		
+1424		ME4615	Sản xuất tinh gọn	3.0		
+1425		ME4625	Kỹ năng lãnh đạo	3.0		
+1426		ME4641	Quản lý &vận hành c/biển	3.0		
+1427		ME4671	Đề cương luận văn tn	0.0		
+1428		ME4673	Luận văn tốt nghiệp(htcn	9.0		
+1429		ME4675	Đề cương luận văn tn	0.0		
+1430		ME4677	Luận văn tốt nghiệp	9.0		
+1431		ME4725	Đề cương luận văn tn	0.0		
+1432		ME4727	Luận văn tốt nghiệp(ktck	9.0		
+1433		ME5001	Đồ án chuyên ngành cđt	2.0		
+1434		ME5017	Luận văn tốt nghiệp	9.0		
+1435		ME5021	Thiết kế tối ưu và quy hoạch thực nghiệm	3.0		
+1436		ME5023	Cơ sở biến dạng tạo hình kim loại	3.0		
+1437		ME5025	Cơ sở kỹ thuật chế tạo	3.0		
+1438		ME5027	Đo lường nâng cao	3.0		
+1439		ME5029	CAD/CAM nâng cao	3.0		
+1440		ME5031	Kỹ thuật mô phỏng	3.0		
+1441		ME5035	Các quá trình chế tạo Micro và Nano	3.0		
+1442		ME5077	Quản lý chất lượng tổng thể	3.0		
+1443		ME5079	Công nghệ tinh gọn trong sản xuất dịch vụ	3.0		
+1444		ME5081	Hỗ trợ ra quyết định	3.0		
+1445		ME5091	Lập kế hoạch và điều độ trong sản xuất và dịch vụ	3.0		
+1446		ME5095	Sản xuất tinh gọn nâng cao	3.0		
+1447		ME5109	Cảm biến và Ứng dụng	3.0		
+1448		ME5111	Mô hình hóa Hệ thống Cơ điện tử	3.0		
+1449		ME5115	Hệ thống điều khiển phi tuyến	3.0		
+1450		ME5119	Điều khiển mặt trượt	3.0		
+1451		ME5121	Hệ tuyến tính và điều khiển	3.0		
+1452		ME5123	Thiết kế và phân tích cơ cấu nâng cao	3.0		
+1453		ME5129	Thị giác máy tính	3.0		
+1454		ME5137	Tuabin hơi và tuabin khí	3.0		
+1455		ME5151	Công nghệ may hiện đại	3.0		
+1456		ME5187	Khai thác dữ liệu trong công nghiệp	3.0		
+1457		ME5191	Thực tập tốt nghiệp 1	3.0		
+1458		ME5197	Ứng dụng trí tuệ nhân tạo trong các hệ thống cơ điện tử	3.0		
+1459		ME5199	Thực tập doanh nghiệp	4.0		
+1460		ME5201	Hệ thống sản xuất tự động	3.0		
+1461		ME5203	Thực tập chuyên ngành 1	3.0		
+1462		ME5207	Nhiệt động lực học nâng cao	3.0		
+1463		ME5209	Truyền nhiệt nâng cao	3.0		
+1464		ME5223	Dòng 2 pha và ống nhiệt	3.0		
+1465		ME5227	Thực tập tại Công ty	4.0		
+1466		ME5229	Đồ án thực tập	2.0		
+1467		ME5231	Kỹ thuật Dệt hiện đại	4.0		
+1468		ME5233	Khoa học quản lý trong dệt may	4.0		
+1469		ME5235	Kiểm định và đánh giá trong dệt may	4.0		
+1470		ME5237	Mỹ thuật công nghiệp trong Dệt may	3.0		
+1471		ME5239	Mô hình hoá và mô phỏng Hệ thống sản xuất và dịch vụ	3.0		
+1472		ME5241	Thực tập tốt nghiệp 2	3.0		
+1473		ME5243	Thực tập công ty	4.0		
+1474		ME5245	Đồ án thực tập	2.0		
+1475		ME5251	Đồ án thực tập	2.0		
+1476		ME5271	Logistics - SCM	3.0		
+1477		ME5273	Ứng dụng tự động hóa trong Dệt may	3.0		
+1478		ME6055	Đề án tốt nghiệp	9.0		
+1479		ME6057	Chuyên đề nghiên cứu trước luận văn	15.0		
+1480		ME6059	Luận văn thạc sĩ nghiên cứu	15.0		
+1481		ME6061	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1482		ME6063	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1483		ME6065	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1484		ME6067	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1485		ME6069	Đề án tốt nghiệp	9.0		
+1486		ME6071	Chuyên đề nghiên cứu trước luận văn	15.0		
+1487		ME6073	Luận văn thạc sĩ nghiên cứu	15.0		
+1488		ME6075	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1489		ME6077	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1490		ME6079	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1491		ME6081	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1492		ME6083	Đề án tốt nghiệp	9.0		
+1493		ME6085	Chuyên đề nghiên cứu trước luận văn	15.0		
+1494		ME6087	Luận văn thạc sĩ nghiên cứu	15.0		
+1495		ME6089	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1496		ME6091	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1497		ME6093	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1498		ME6095	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1499		ME6097	Đề án tốt nghiệp	9.0		
+1500		ME6099	Chuyên đề nghiên cứu trước luận văn	9.0		
+1501		ME6101	Luận văn thạc sĩ nghiên cứu	15.0		
+1502		ME6103	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1503		ME6105	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1504		ME6107	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1505		ME6109	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1506		ME6111	Đề án tốt nghiệp	9.0		
+1507		ME6113	Chuyên đề nghiên cứu trước luận văn	15.0		
+1508		ME6115	Luận văn thạc sĩ nghiên cứu	15.0		
+1509		ME6117	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1510		ME6119	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1511		ME6121	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1512		ME6123	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1513		ME6125	Đề án tốt nghiệp	9.0		
+1514		ME6127	Chuyên đề nghiên cứu trước luận văn	15.0		
+1515		ME6129	Luận văn thạc sĩ nghiên cứu	15.0		
+1516		ME6131	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1517		ME6133	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1518		ME6135	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1519		ME6137	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1520		ME7297	Tiểu luận tổng quan	0.0		
+1521		ME7299	Chuyên đề tiến sĩ - phần 1	0.0		
+1522		ME7301	Chuyên đề tiến sĩ - phần 2	0.0		
+1523		ME7303	Luận án tiến sĩ - chuẩn bị	12.0		
+1524		ME7305	Luận án tiến sĩ - phần 1	15.0		
+1525		ME7307	Luận án tiến sĩ - phần 2	15.0		
+1526		ME7309	Luận án tiến sĩ - phần 3	15.0		
+1527		ME7311	Luận án tiến sĩ - phần 4	15.0		
+1528		ME7313	Luận án tiến sĩ - phần 5	15.0		
+1529		ME7315	Tiểu luận tổng quan	0.0		
+1530		ME7317	Chuyên đề tiến sĩ - phần 1	0.0		
+1531		ME7319	Chuyên đề tiến sĩ - phần 2	0.0		
+1532		ME7321	Luận án tiến sĩ - chuẩn bị	12.0		
+1533		ME7323	Luận án tiến sĩ - phần 1	15.0		
+1534		ME7325	Luận án tiến sĩ - phần 2	15.0		
+1535		ME7327	Luận án tiến sĩ - phần 3	15.0		
+1536		ME7329	Luận án tiến sĩ - phần 4	15.0		
+1537		ME7331	Luận án tiến sĩ - phần 5	15.0		
+1538		ME7333	Tiểu luận tổng quan	0.0		
+1539		ME7335	Chuyên đề tiến sĩ - phần 1	0.0		
+1540		ME7337	Chuyên đề tiến sĩ - phần 2	0.0		
+1541		ME7339	Luận án tiến sĩ - chuẩn bị	12.0		
+1542		ME7341	Luận án tiến sĩ - phần 1	15.0		
+1543		ME7343	Luận án tiến sĩ - phần 2	15.0		
+1544		ME7345	Luận án tiến sĩ - phần 3	15.0		
+1545		ME7347	Luận án tiến sĩ - phần 4	15.0		
+1546		ME7349	Luận án tiến sĩ - phần 5	15.0		
+1547		ME7351	Tiểu luận tổng quan	0.0		
+1548		ME7353	Chuyên đề tiến sĩ - phần 1	0.0		
+1549		ME7355	Chuyên đề tiến sĩ - phần 2	0.0		
+1550		ME7357	Luận án tiến sĩ - chuẩn bị	12.0		
+1551		ME7359	Luận án tiến sĩ - phần 1	15.0		
+1552		ME7361	Luận án tiến sĩ - phần 2	15.0		
+1553		ME7363	Luận án tiến sĩ - phần 3	15.0		
+1554		ME7365	Luận án tiến sĩ - phần 4	15.0		
+1555		ME7367	Luận án tiến sĩ - phần 5	15.0		
+1556		MT1005	Giải tích 2	4.0		
+1557		MT1007	Đại số tuyến tính	3.0		
+1558		MT1009	Phương pháp tính	3.0		
+1559		MT1013	Giải tích 2	4.0		
+1560		MT1021	Giải tích 2	4.0		
+1561		MT1023	Cơ sở phươngtrình viphân	3.0		
+1562		MT2011	Phương pháp tính	3.0		
+1563		MT2013	Xác suất và thống kê	4.0		
+1564		MT2015	Xác suất và ứng dụng kt	3.0		
+1565		PE1017	Cầu lông (học phần 1)	0.0		
+1566		PE1033	Bóng đá (học phần 2)	0.0		
+1567		PE1035	Bóng chuyền (học phần 2)	0.0		
+1568		PE1037	Bóng bàn (học phần 2)	0.0		
+1569		PE1039	Bóng rổ (học phần 2)	0.0		
+1570		PE1041	Cầu lông (học phần 2)	0.0		
+1571		PE1043	Bơi (học phần 2)	0.0		
+1572		PE1045	Aerobic (học phần 2)	0.0		
+1573		PE1051	Quần Vợt (học phần 2)	0.0		
+1574		PE1063	Pickleball (học phần 2)	0.0		
+1575		PH1003	Vật lý 1	4.0		
+1576		PH1005	Vật lý 2	4.0		
+1577		PH1007	Thí nghiệm vật lý	1.0		
+1578		PH1013	Vật lý - nhiệt, lượng tử	3.0		
+1579		SA0004	Sinh hoạt sinh viên định kỳ	0.0		
+1580		SK1001	KN giao tiếp hiệu quả	0.0		
+1581		SK1003	Kỹ năng quản lý bản thân	1.0		
+1582		SP1007	Ph/luật ViệtNam đạicương	2.0		
+1583		SP1031	Triết học Mác - Lênin	3.0		
+1584		SP1033	K/tế Chính Trị Mac-lênin	2.0		
+1585		SP1035	Chủ nghĩa xã hội khoahọc	2.0		
+1586		SP1037	Tư tưởng Hồ Chí Minh	2.0		
+1587		SP1039	Lịch sử Đảng Cộng sản VN	2.0		
+1588		TR3003	Cơ học vậtliệu hàngkhông	3.0		
+1589		TR3051	Thí nghiệm kỹ thuật hk 2	1.0		
+1590		TR3055	Các hệ thời gian thực	3.0		
+1591		TR3059	CAD ứd trong thiếtkế ôtô	3.0		
+1592		TR3077	T/nghiệm k/th hàngkhông1	1.0		
+1593		TR3091	Ô tô chuyên dùng	3.0		
+1594		TR3119	Thi Nghiem O To &d/co Dt	3.0		
+1595		TR4015	Thí nghiệm kỹ thuật hk 3	1.0		
+1596		TR4051	Phương pháp phần tử hhạn	3.0		
+1597		TR4057	Hệ thống lựcđẩy hỏa tiễn	3.0		
+1598		TR4079	Đồ án chuyên ngành hk	2.0		
+1599		TR4081	Thiết kế máy bay	3.0		
+1600		TR4087	Công nghệ ô tô	3.0		
+1601		TR4091	Đồ án chuyên ngành	2.0		
+1602		TR4093	Đồ án chuyên ngành (kttt	2.0		
+1603		TR4097	Cơ học rạn nứt và mỏi	3.0		
+1604		TR4111	Đồ án chuyên ngành hàng không ( song ngành)	2.0		
+1605		TR4113	Đồ án chuyên ngành tàu thủy ( song ngành)	2.0		
+1606		TR4311	Đề cương luận văn tn	0.0		
+1607		TR4313	Luận văn tốt nghiệp(ôtô)	9.0		
+1608		TR4315	Đề cương luận văn tn	0.0		
+1609		TR4317	Luận văn tốt nghiệp(ôtô)	9.0		
+1610		TR4321	Đề cương luận văn tn	0.0		
+1611		TR4323	Luận văn tốt nghiệp (tau	9.0		
+1612		TR4325	Đề cương luận văn tn	0.0		
+1613		TR4327	Luận văn tốt nghiệp (tau	9.0		
+1614		TR4331	Đề cương luận văn tn	0.0		
+1615		TR4333	Luận văn tốt nghiệp (hkg	9.0		
+1616		TR4335	Đề cương luận văn tn	0.0		
+1617		TR4337	Luận văn tốt nghiệp (hkg	9.0		
+1618		TR4347	Đồ án tốt nghiệp	4.0		
+1619		TR4357	Đồ án tốt nghiệp	4.0		
+1620		TR4367	Đồ án tốt nghiệp	4.0		
+1621		TR4377	Đồ án tốt nghiệp	6.0		
+1622		TR5001	Đồ án chuyên ngành	2.0		
+1623		TR5003	Chuyênđề công nghiệp(PBL	4.0		
+1624		TR5007	Động lực học ô tô nâng cao	3.0		
+1625		TR5017	Luận văn tốt nghiệp	9.0		
+1626		TR5021	Kỹ thuật thiết kế phương tiện GTVT hiện đại	3.0		
+1627		TR5023	Phương pháp tính toán số cho kết cấu phương tiện	3.0		
+1628		TR5025	Phương pháp thực nghiệm trong nghiên cứu & phát triển PTVT	3.0		
+1629		TR5071	Phương pháp tính toán mô phỏng số động lực học lưu chất	3.0		
+1630		TR5097	Thực tập	3.0		
+1631		TR5101	Thực tập 1	3.0		
+1632		TR5103	Thực tập 2	3.0		
+1633		TR5109	Quá trình cháy trong động cơ đốt trong	3.0		
+1634		TR5111	Cơ học môi trường liên tục	3.0		
+1635		TR6021	Đề án tốt nghiệp	9.0		
+1636		TR6023	Chuyên đề nghiên cứu trước luận văn	15.0		
+1637		TR6025	Luận văn thạc sĩ nghiên cứu	15.0		
+1638		TR6027	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 1	9.0		
+1639		TR6029	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 2	15.0		
+1640		TR6031	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 3	15.0		
+1641		TR6033	Luận văn thạc sĩ nghiên cứu chuyên sâu - phần 4	15.0		
+1642		AS1003	Cơ lý thuyết	3.0		
+1643		AS2001	Cơ học ứng dụng	3.0		
+1644		AS2011	Lý thuyết đàn hồi	3.0		
+1645		AS2047	Vật lý sóng	3.0		
+1646		AS2049	Cơ học vật rắn & sóng cơ	3.0		
+1647		AS2055	Cơ kỹ thuật đại cương	3.0		
+1648		AS2071	Cơ học kỹ thuật	3.0		
+1649		AS3013	Tính toán kết cấu	3.0		
+1650		AS3015	P/pháp phầntử hữuhạn ckt	3.0		
+1651		AS3045	ứng dụng laser trong yh	3.0		
+1652		AS3049	Cơ sinh học	3.0		
+1653		AS3061	Dao động cơ sở	3.0		
+1654		AS3069	T/bị chẩn đoán h/ảnh yh	3.0		
+1655		CH1003	Hóa đại cương	3.0		
+1656		CH1015	Hóa đại cương	3.0		
+1657		CH2021	Hóa hữu cơ	3.0		
+1658		CH2027	Sinh học đại cương	3.0		
+1659		CH2033	Hóa sinh	4.0		
+1660		CH3019	Công nghệ tế bào	4.0		
+1661		CH3359	Công nghệ lên men vs vật	4.0		
+1662		CH3361	S/học phân tử &di truyền	4.0		
+1663		CH3399	Công nghệ sản xuất vaccine	3.0		
+1664		CH3409	Công nghệ sản xuất vitamin	3.0		
+1665		CH3429	Công nghệ sx mỹ phẩm	3.0		
+1666		CH4051	An toàn quá trình	3.0		
+1667		CH4107	Pt sản phẩm thựcphẩm mới	3.0		
+1668		CH4139	Công nghệ bào chế và sản xuất dược phẩm	3.0		
+1669		CI1003	Vẽ kỹ thuật	3.0		
+1670		CI1007	Trắc địa đại cương	3.0		
+1671		CI1033	Vẽ kỹ thuật xây dựng	3.0		
+1672		CI1077	Nguyên lý kinh tế học	3.0		
+1673		CI2001	Sức bền vật liệu	3.0		
+1674		CI2003	Cơ lưu chất	3.0		
+1675		CI2007	Sức bền vật liệu	4.0		
+1676		CI2037	Vật liệu xây dựng	3.0		
+1677		CI2045	Hệ thống thôngtin địa lý	3.0		
+1678		CI2095	Địa chất công trình	3.0		
+1679		CI2099	L/sử kiến trúc và địnhcư	3.0		
+1680		CI2135	Cơ kết cấu	3.0		
+1681		CI2137	Cơ học đất	3.0		
+1682		CI2143	Viễn thám	3.0		
+1683		CI2161	Kinh tê? kỹ thuâ?t	3.0		
+1684		CI2163	Phân ti?ch sự làm viê?c công trình	3.0		
+1685		CI3003	Trắc lượng ảnh	3.0		
+1686		CI3013	Thủy văn đô thị	3.0		
+1687		CI3021	Quy hoạch cảng	3.0		
+1688		CI3057	Kỹ thuật bê tông	3.0		
+1689		CI3061	Phương pháp phần tử hh	3.0		
+1690		CI3245	Kỹ thuật chất kết dính	3.0		
+1691		CI3247	Động lực học sông - biển	3.0		
+1692		CI3261	C/sở t/kế công trình cầu	3.0		
+1693		CI3263	Cơ sở thiết kế đường	3.0		
+1694		CI3265	Ky Thuat Ha Tang Do Thi	3.0		
+1695		CI3269	Sức bền vật liệu	3.0		
+1696		CI3293	K/thuật c/trình dân dụng	4.0		
+1697		CI3507	Thiết kế mặt dựng	3.0		
+1698		CI4145	Cs thicông &khai thác cđ	3.0		
+1699		CI4153	Bê tông đặc biệt cho ct	3.0		
+1700		CI4159	Trắc địa công trình	4.0		
+1701		CI4165	Hạ tầng c/tr giao thông	3.0		
+1702		CI4187	Thiên tai &b/đổi khí hậu	3.0		
+1703		CI4197	Quy hoạch hạtầng g/thông	3.0		
+1704		CO1003	Nhập môn về lập trình	3.0		
+1705		CO1025	Thiết kế luận lý với hdl	3.0		
+1706		CO1027	Kỹ thuật lập trình	3.0		
+1707		CO2003	Ctrúc dữliệu & giảithuật	4.0		
+1708		CO2007	Kiến trúc máy tính	4.0		
+1709		CO2013	Hệ cơ sở dữ liệu	4.0		
+1710		CO2017	Hệ điều hành	3.0		
+1711		CO2035	Xử lý tín hiệu số	3.0		
+1712		CO2037	Mạch điện - điện tử	4.0		
+1713		CO2039	Lập trình nâng cao	3.0		
+1714		CO3037	Pt ứd internet of things	3.0		
+1715		CO3049	Lập trình web	3.0		
+1716		CO3053	Hệ thống nhúng	3.0		
+1717		CO3069	Mật mã và an ninh mạng	3.0		
+1718		CO3085	Xử lý ngôn ngữ tự nhiên	3.0		
+1719		CO3093	Mạng máy tính	3.0		
+1720		CO3097	Thiết kế vi mạch	3.0		
+1721		CO3137	Dữ liệu lớn	3.0		
+1722		EE1005	Kỹ thuật điện	3.0		
+1723		EE1007	Vật lý bán dẫn	4.0		
+1724		EE1009	Kỹ thuật số	3.0		
+1725		EE1029	Cơ sở kt điện-máy tính	4.0		
+1726		EE2003	Trường điện từ	3.0		
+1727		EE2005	Tín hiệu và hệ thống	3.0		
+1728		EE2009	Hệthống Mtính &ngônngữlt	3.0		
+1729		EE2011	Kỹ thuật điện-điện tử	3.0		
+1730		EE2015	Xử lý số tín hiệu	3.0		
+1731		EE2017	Cơ sở kỹ thuật điện	3.0		
+1732		EE2019	Cơ sở điều khiển tự động	3.0		
+1733		EE2021	Cơ sở điện tử công suất	3.0		
+1734		EE2031	Điện - giải tích mạch	3.0		
+1735		EE2033	Giải tích mạch	3.0		
+1736		EE2035	Mạch điện tử	3.0		
+1737		EE2039	Vi xử lý	3.0		
+1738		EE2081	Ngôn ngữ lập trình	3.0		
+1739		EE2401	Vật lý: điện và từ học	3.0		
+1740		EE2407	Nguyên lý tự luận	3.0		
+1741		EE2411	Linh kiện bán dẫn	3.0		
+1742		EE2415	Ht máy tính &nn lậptrình	4.0		
+1743		EE2419	Kỹ thuật số	3.0		
+1744		EE3001	Hệ thống cung cấp điện	3.0		
+1745		EE3005	Đo lường công nghiệp	3.0		
+1746		EE3007	L/t điều khiển nâng cao	3.0		
+1747		EE3009	Máy điện	3.0		
+1748		EE3013	Giải tích hệ thống điện	3.0		
+1749		EE3017	Đolường & đ/khiển bằngmt	3.0		
+1750		EE3019	Truyền số liệu và mạng	3.0		
+1751		EE3027	Nhàmáy điện &trạm biếnáp	3.0		
+1752		EE3087	Bảo vệ rơle trong htđiện	3.0		
+1753		EE3093	Vận hành &điều khiển htđ	3.0		
+1754		EE3095	ổn định hệ thống điện	3.0		
+1755		EE3097	Kỹ thuật an toàn điện	3.0		
+1756		EE3099	Kỹ thuật chiếu sáng	3.0		
+1757		EE3143	Đ/khiển & ứd các bbđ cs	3.0		
+1758		EE3189	Điện tử học t/t &ứ/dụng	3.0		
+1759		EE3417	Cảm biến và đo lường	3.0		
+1760		EE3419	Điện tử công suất	3.0		
+1761		EE3421	Máy điện	3.0		
+1762		EE4441	Cơ sở người máy (Robot)	3.0		
+1763		EE4445	Trí tuệ nhântạo trong đk	3.0		
+1764		EN1015	Vi sinh vật đ/cương &tn	4.0		
+1765		EN1017	Hóa môi trường	3.0		
+1766		EN1021	Cơ sở sinh thái và sinh học môi trường	4.0		
+1767		EN2049	Phântích hệthống môi/trg	3.0		
+1768		EN3001	Kỹ thuật xử lý khí thải	4.0		
+1769		EN3003	Ud Gis &vt Trong Qltn&mt	3.0		
+1770		EN3027	Kỹ thuật xl chất thảirắn	4.0		
+1771		EN3069	Q/lý chất thải rắn &ctnh	3.0		
+1772		EN4025	Nmppnc khoa học tqltn&mt	3.0		
+1773		GE1011	Địa vật lý đại cương+ kt	3.0		
+1774		GE1013	Khoa học trái đất	4.0		
+1775		GE1027	Khoa học dữ liệu	3.0		
+1776		GE2011	C/sở khoa học đ/c dầukhí	3.0		
+1777		GE2031	Dia Chat Thuy Van	3.0		
+1778		GE2033	T/thể-k/vật-thạch học+tt	3.0		
+1779		GE2035	Đchất k/trúc &đo vẽ bđđc	3.0		
+1780		GE2037	Địa kỹ thuật 1	3.0		
+1781		GE2041	Địa vật lý dầu khí	3.0		
+1782		GE2055	Địa vật lý dầu khí &đgth	3.0		
+1783		GE2059	Địachất k/trúc &các ppđc	3.0		
+1784		GE2063	Kỹ thuật khoan dầu khí	3.0		
+1785		GE2077	Địa chất thuỷ văn công trình	3.0		
+1786		GE3143	Địa kỹ thuật 2	3.0		
+1787		GE3161	Q/lý dự án trong kt tntđ	3.0		
+1788		GE3177	Pp tìm kiếm thăm dò tldk	3.0		
+1789		GE3203	ưd GIS &v/thám trg ql tn	3.0		
+1790		GE3217	Kỹ thuật khai thác d/khí	3.0		
+1791		GE4069	Địa chất độnglực c/trình	3.0		
+1792		GE4085	Đv &tl bản đồ tn đất &ks	3.0		
+1793		GE4087	Đôthị sinhthái thôngminh	3.0		
+1794		IU1011	Vật lý kỹ thuật bảo trì	4.0		
+1795		IU1015	Vẽ kỹ thuật bảo trì	3.0		
+1796		IU2011	Kỹ thuật điện tử	3.0		
+1797		IU2043	Công nghệ Cơ khí 1	3.0		
+1798		IU3011	Kỹ thuật lập trình PLC	3.0		
+1799		IU3017	Kỹ thuật số	3.0		
+1800		IU3063	Công nghệ khí nén	3.0		
+1801		IU3065	Công nghệ cơ khí 3	3.0		
+1802		IU3067	Công nghệ lạnh &điều hòa	3.0		
+1803		IU4019	An toàn &m/trường trg bd	3.0		
+1804		IU4021	Kỹ thuật bảo trì	3.0		
+1805		IU4025	Chi phí bảo trì	3.0		
+1806		LA1013	Pháp văn 2	2.0		
+1807		LA1017	Pháp văn 4	2.0		
+1808		LA3023	Pháp văn 6	2.0		
+1809		MA1003	Cơ sở khoa học vật liệu	3.0		
+1810		MA2007	Hóa học polyme	3.0		
+1811		MA2033	Vật lý chất rắn	3.0		
+1812		MA2035	Công nghệ vật liệu	3.0		
+1813		MA2037	Hóa lý - cn vật liệu	3.0		
+1814		MA2039	Hóa hữu cơ - cn vật liệu	3.0		
+1815		MA2043	Cơ sở hóa học vật liệu	3.0		
+1816		MA3009	Công nghệ cao su	4.0		
+1817		MA3011	Hóa học xúc tác	3.0		
+1818		MA3019	K/t sx các chất cao p/tử	3.0		
+1819		MA3021	Nguyên lý lò công nghiệp	3.0		
+1820		MA3083	Cơ học vật liệu	3.0		
+1821		MA3095	Lý thuyết &công nghệ đúc	4.0		
+1822		MA3101	Truyền nhiệt &truyềnkhối	3.0		
+1823		MA3127	Vật liệu Siêu dẫn	3.0		
+1824		MA3129	Khoa học ăn mòn	3.0		
+1825		MA3133	Kỹ thuật s/xuất bán dẫn	3.0		
+1826		MA3141	Kỹthuật phân tích v/liệu	3.0		
+1827		MA3147	Công nghệ Vật liệu đềCg	3.0		
+1828		MA3157	Kt thực nghiệm trong vl	3.0		
+1829		MA3165	VLKL& các quá trình CN	3.0		
+1830		MA4049	Xử lý bề mặt vật liệu kl	3.0		
+1831		MA4067	Kỹ thuật gia công polyme	4.0		
+1832		MA4153	Công nghệ cao su	3.0		
+1833		ME1003	Cơ khí đại cương	3.0		
+1834		ME1009	Quản lý sản xuất	3.0		
+1835		ME1015	Nguyên lý máy	4.0		
+1836		ME1019	Quản lý năng suất và chất lượng	3.0		
+1837		ME1021	Vật lý điện từ	4.0		
+1838		ME2003	Nguyên lý máy	3.0		
+1839		ME2005	Trangbị điện-đtử trg MCN	4.0		
+1840		ME2007	Chi tiết máy	3.0		
+1841		ME2009	Kỹthuật điềukhiển tựđộng	3.0		
+1842		ME2019	Môi trường và con người	3.0		
+1843		ME2049	Ung Dung May Tinh Trg Cn	3.0		
+1844		ME2071	Các quá trình chế tạo	3.0		
+1845		ME2089	Vẽ kỹ thuật cơ khí	4.0		
+1846		ME2091	Phương pháp số	3.0		
+1847		ME2099	Nhiệt đ/lực học kỹ thuật	3.0		
+1848		ME2101	Cơ học máy	3.0		
+1849		ME2121	Bơm, quạt, máy nén	3.0		
+1850		ME2129	Cở sở thiết kế máy	3.0		
+1851		ME2131	Vl cơ khí & cn kim loại	3.0		
+1852		ME2139	Thiết kế mặt bằng	3.0		
+1853		ME2157	K/soát &quảnlý chấtlượng	3.0		
+1854		ME2177	Thiết kế công việc và Ergonomics	3.0		
+1855		ME3001	K/thuật thủy lực &khínén	3.0		
+1856		ME3003	Dung sai và kỹ thuật đo	3.0		
+1857		ME3005	Thiếtkế hệthống cơđiệntử	3.0		
+1858		ME3007	Vi điều khiển	3.0		
+1859		ME3009	Các quá trình chế tạo	3.0		
+1860		ME3011	Động lực học &điều khiển	3.0		
+1861		ME3013	Hệ thống PLC	3.0		
+1862		ME3015	Kỹ thuật robot	3.0		
+1863		ME3021	Kỹ thuật nâng vận chuyển	3.0		
+1864		ME3027	Mô hình hóa hình học &mp	3.0		
+1865		ME3031	Kỹ thuật chế tạo 1	3.0		
+1866		ME3033	Kỹ thuật chế tạo 2	3.0		
+1867		ME3043	Lò hơi và thiết bị đốt	3.0		
+1868		ME3063	Công nghệ dệt kim	3.0		
+1869		ME3081	Thiết bị sợi dệt	3.0		
+1870		ME3115	Thiết kế trang phục 2	3.0		
+1871		ME3153	Ky Thuat Dieu Hoa K/khi	3.0		
+1872		ME3161	Quản lý vật tư & tồn kho	3.0		
+1873		ME3201	Kỹ thuật chế tạo 3	3.0		
+1874		ME3207	C/nghệ vln & gc khuônmẫu	3.0		
+1875		ME3215	Tối ưu hóa &quy hoạch tn	3.0		
+1876		ME3223	Quản lý dự án	3.0		
+1877		ME3239	Công nghệ CNC	3.0		
+1878		ME3253	Hoạch định mặt bằng	3.0		
+1879		ME3281	Vật liệu học và xử lý	3.0		
+1880		ME4003	Thiết kế hệ thống cơ khí	3.0		
+1881		ME4015	Trung tâm nhiệt điện	3.0		
+1882		ME4023	Dieudo Trong Chuoi C/ung	3.0		
+1883		ME4031	Ky Thuat Dieudo (cn-htcn	3.0		
+1884		ME4063	Công nghệ 4.0 trg lvck	3.0		
+1885		ME4131	Kỹ thuật sấy	3.0		
+1886		ME4133	Ht PLC trong robot &tđh	3.0		
+1887		ME4135	Thiết kế hệ thống robot	3.0		
+1888		ME4137	Đlh & đk các ht robot	3.0		
+1889		ME4201	Nhập môn thịgiác máytính	3.0		
+1890		ME4203	Nhập môn điều khiển hđ	3.0		
+1891		ME4217	Đ/khiển các hệthốngservo	3.0		
+1892		ME4611	Cải tiến chất lượng	3.0		
+1893		PH1009	Vật lý 1	4.0		
+1894		PH2005	Vật lý 2	4.0		
+1895		TR1003	Vẽ kỹ thuật Giao thông	3.0		
+1896		TR2005	Cơ học vật rắn biến dạng	3.0		
+1897		TR2007	Kết cấu độngcơ đốt trong	3.0		
+1898		TR2011	Khí động lực học 1	3.0		
+1899		TR2013	Kết cấu ô tô	3.0		
+1900		TR2033	Kỹ thuật chế tạo	3.0		
+1901		TR2041	Kỹ thuật Cơ lưu chất - Nhiệt	4.0		
+1902		TR3005	Lý thuyết tàuthủy 2- đlh	3.0		
+1903		TR3011	Khí động lực học 2	3.0		
+1904		TR3019	Thiếtbị n/lượng tàuthủy2	3.0		
+1905		TR3037	Các ht trang thiếtbị tàu	3.0		
+1906		TR3039	ổn định & điều khiển bay	3.0		
+1907		TR3053	Thiết kế tàu thủy	3.0		
+1908		TR3057	Pp phân tích kết cấu tàu	3.0		
+1909		TR3121	Hệ thống điện-điệntử ôtô	3.0		
+1910		TR3123	Kt k/thác &bd độngcơ-ôtô	3.0		
+1911		TR3135	Phân tích kết cấu máybay	3.0		
+1912		TR3137	Hệthống lực đẩy máy bay	3.0		
+1913		TR4001	Kỹthuật chẩnđoán &bd đc	3.0		
+1914		TR4021	Kỹthuật chẩnđoán &bd ôtô	3.0		
+1915		TR4033	Kếtcấu h/không 3: chrn&m	3.0
