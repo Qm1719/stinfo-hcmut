@@ -53,8 +53,17 @@ if "%PASSWORD%"=="" (
     exit /b 1
 )
 
-set /p SEMESTER_YEAR="Enter semester year (default: 251): "
-if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=20251
+REM Calculate default semester based on current date
+for /f "tokens=*" %%d in ('powershell -ExecutionPolicy Bypass -NoProfile -File "%~dp0get_semester_info.ps1" -GetDefault') do set DEFAULT_SEM=%%d
+
+REM Get available semesters to show user
+echo.
+echo Available semesters:
+powershell -ExecutionPolicy Bypass -NoProfile -Command "$json = & '%~dp0get_semester_info.ps1' -GetAvailable; $semesters = $json | ConvertFrom-Json; $count = 0; foreach ($sem in $semesters) { if ($count -lt 10) { Write-Host ('  ' + $sem) }; $count++ }"
+echo.
+
+set /p SEMESTER_YEAR="Enter semester year (default: %DEFAULT_SEM%): "
+if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=%DEFAULT_SEM%
 
 REM Normalize semester code: if 3 digits (e.g., 251), convert to 5 digits (20251)
 for /f "tokens=*" %%s in ('powershell -ExecutionPolicy Bypass -NoProfile -Command "if ('%SEMESTER_YEAR%' -match '^\d{3}$') { Write-Output ('20' + '%SEMESTER_YEAR%') } else { Write-Output '%SEMESTER_YEAR%' }"') do set SEMESTER_YEAR=%%s
@@ -155,15 +164,24 @@ if "%COOKIE%"=="" (
     exit /b 1
 )
 
-set /p STUDENT_ID="Enter Student ID: "
+set /p STUDENT_ID="Enter Student ID (from the api, not your usual student ID): "
 if "%STUDENT_ID%"=="" (
     echo Error: Student ID is required!
     pause
     exit /b 1
 )
 
-set /p SEMESTER_YEAR="Enter semester year (default: 20251): "
-if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=20251
+REM Calculate default semester based on current date
+for /f "tokens=*" %%d in ('powershell -ExecutionPolicy Bypass -NoProfile -File "%~dp0get_semester_info.ps1" -GetDefault') do set DEFAULT_SEM=%%d
+
+REM Get available semesters to show user
+echo.
+echo Available semesters:
+powershell -ExecutionPolicy Bypass -NoProfile -Command "$json = & '%~dp0get_semester_info.ps1' -GetAvailable; $semesters = $json | ConvertFrom-Json; $count = 0; foreach ($sem in $semesters) { if ($count -lt 10) { Write-Host ('  ' + $sem) }; $count++ }"
+echo.
+
+set /p SEMESTER_YEAR="Enter semester year (default: %DEFAULT_SEM%): "
+if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=%DEFAULT_SEM%
 
 REM Normalize semester code: if 3 digits (e.g., 251), convert to 5 digits (20251)
 for /f "tokens=*" %%s in ('powershell -ExecutionPolicy Bypass -NoProfile -Command "if ('%SEMESTER_YEAR%' -match '^\d{3}$') { Write-Output ('20' + '%SEMESTER_YEAR%') } else { Write-Output '%SEMESTER_YEAR%' }"') do set SEMESTER_YEAR=%%s
