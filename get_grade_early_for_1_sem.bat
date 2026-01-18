@@ -53,8 +53,11 @@ if "%PASSWORD%"=="" (
     exit /b 1
 )
 
-set /p SEMESTER_YEAR="Enter semester year (default: 20251): "
+set /p SEMESTER_YEAR="Enter semester year (default: 251): "
 if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=20251
+
+REM Normalize semester code: if 3 digits (e.g., 251), convert to 5 digits (20251)
+for /f "tokens=*" %%s in ('powershell -ExecutionPolicy Bypass -NoProfile -Command "if ('%SEMESTER_YEAR%' -match '^\d{3}$') { Write-Output ('20' + '%SEMESTER_YEAR%') } else { Write-Output '%SEMESTER_YEAR%' }"') do set SEMESTER_YEAR=%%s
 
 echo.
 echo Please wait, logging in...
@@ -161,6 +164,9 @@ if "%STUDENT_ID%"=="" (
 
 set /p SEMESTER_YEAR="Enter semester year (default: 20251): "
 if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=20251
+
+REM Normalize semester code: if 3 digits (e.g., 251), convert to 5 digits (20251)
+for /f "tokens=*" %%s in ('powershell -ExecutionPolicy Bypass -NoProfile -Command "if ('%SEMESTER_YEAR%' -match '^\d{3}$') { Write-Output ('20' + '%SEMESTER_YEAR%') } else { Write-Output '%SEMESTER_YEAR%' }"') do set SEMESTER_YEAR=%%s
 
 :fetch_grades
 echo.

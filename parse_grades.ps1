@@ -77,7 +77,9 @@ try {
     $subjects = $data.data
     
     if (-not $subjects -or $subjects.Count -eq 0) {
-        Write-Host "Không tìm thấy môn học nào!" -ForegroundColor Yellow
+        # Construct Vietnamese text using Unicode to avoid encoding issues
+        $noSubjectsMsg = [char]0x004B + [char]0x0068 + [char]0x00F4 + [char]0x006E + [char]0x0067 + " " + [char]0x0074 + [char]0x00EC + [char]0x006D + " " + [char]0x0074 + [char]0x0068 + [char]0x1EA5 + [char]0x0079 + " " + [char]0x006D + [char]0x00F4 + [char]0x006E + " " + [char]0x0068 + [char]0x1ECD + [char]0x0063 + " " + [char]0x006E + [char]0x00E0 + [char]0x006F + "!"
+        Write-Host $noSubjectsMsg -ForegroundColor Yellow
         exit 0
     }
     
