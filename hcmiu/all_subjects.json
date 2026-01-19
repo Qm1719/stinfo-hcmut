@@ -1,0 +1,3679 @@
+{
+    "msg":  "Success",
+    "code":  "200",
+    "data":  [
+                 {
+                     "prefix":  "MA",
+                     "stt":  256,
+                     "maMonHoc":  "MA036IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Probability and Statistics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  376,
+                     "maMonHoc":  "BA018IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Quality Management"
+                 },
+                 {
+                     "prefix":  "EN",
+                     "stt":  353,
+                     "maMonHoc":  "EN011IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Writing AE2"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  302,
+                     "maMonHoc":  "IS041IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Lean Production"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  235,
+                     "maMonHoc":  "IT125IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "System \u0026 Network Administration"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  317,
+                     "maMonHoc":  "IS083IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Capstone Design"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  363,
+                     "maMonHoc":  "PH029IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Relativity and Modern Physics"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  427,
+                     "maMonHoc":  "BT216IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Experimental Design"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  509,
+                     "maMonHoc":  "BTFT441IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Dairy Product Technology"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  62,
+                     "maMonHoc":  "BM075IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Biomedical Photonics"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  437,
+                     "maMonHoc":  "BT317IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Biostatistics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  391,
+                     "maMonHoc":  "BA118IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Psychology"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  281,
+                     "maMonHoc":  "MAFE308IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Risk Management 1"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  315,
+                     "maMonHoc":  "IS079IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Scientific Writing"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  146,
+                     "maMonHoc":  "ENEE5002IU",
+                     "soTinChi":  12,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  336,
+                     "maMonHoc":  "EL016IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Translation"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  117,
+                     "maMonHoc":  "CHE3141IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Sustainable Energy"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  321,
+                     "maMonHoc":  "IS102IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Engineering Drawing"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  495,
+                     "maMonHoc":  "BTFT316IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Scientific Writing and Design of Experiments for Food Science"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  266,
+                     "maMonHoc":  "MAFE109IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Introduction to Python"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  456,
+                     "maMonHoc":  "BT348IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Techniques in Plant Biotechnology"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  396,
+                     "maMonHoc":  "BA142IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Marketing Strategy"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  323,
+                     "maMonHoc":  "EL002IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Writing 1 (B2-C1)"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  164,
+                     "maMonHoc":  "EE079IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Power Electronics"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  100,
+                     "maMonHoc":  "CHE1021IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Process Instrumentation and Control"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  349,
+                     "maMonHoc":  "EL045IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Internship 2"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  177,
+                     "maMonHoc":  "EE115IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Principles of Communication Systems Lab"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  76,
+                     "maMonHoc":  "CE106IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Soil mechanics and foundation"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  436,
+                     "maMonHoc":  "BT316IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Analytical Chemistry"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  163,
+                     "maMonHoc":  "EE070IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Wireless Communication Systems"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  205,
+                     "maMonHoc":  "PE021IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "General Law"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  335,
+                     "maMonHoc":  "EL015IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Literature"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  340,
+                     "maMonHoc":  "EL021IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Global Englishes"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  244,
+                     "maMonHoc":  "IT159IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Artificial Intelligence"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  276,
+                     "maMonHoc":  "MAFE215IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Management"
+                 },
+                 {
+                     "prefix":  "EN",
+                     "stt":  352,
+                     "maMonHoc":  "EN008IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Listening AE1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  1,
+                     "maMonHoc":  "BA005IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Accounting"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  222,
+                     "maMonHoc":  "IT092IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Principles of Programming Languages"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  454,
+                     "maMonHoc":  "BT346IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Crop Biotechnology"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  36,
+                     "maMonHoc":  "BA284IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Accounting 2"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  118,
+                     "maMonHoc":  "CHE3211IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Nanomaterials"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  271,
+                     "maMonHoc":  "MAFE206IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Probability"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  303,
+                     "maMonHoc":  "IS048IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  226,
+                     "maMonHoc":  "IT099IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Digital Logic Design Laboratory"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  397,
+                     "maMonHoc":  "BA145IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "International Marketing"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  149,
+                     "maMonHoc":  "EE010IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Electromagnetic Theory"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  80,
+                     "maMonHoc":  "CE206IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Fluid Mechanics Laboratory"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  159,
+                     "maMonHoc":  "EE058IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Programming for Engineers Laboratory"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  239,
+                     "maMonHoc":  "IT136IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Regression Analysis"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  106,
+                     "maMonHoc":  "CHE1104IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Biochemistry"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  255,
+                     "maMonHoc":  "MA033IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Linear Algebra"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  42,
+                     "maMonHoc":  "EFA223IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Data Visualization in Economics"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  219,
+                     "maMonHoc":  "IT089IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Computer Architecture"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  348,
+                     "maMonHoc":  "EL042IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Translation in Business"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  209,
+                     "maMonHoc":  "IT013IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Algorithms \u0026 Data Structures"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  308,
+                     "maMonHoc":  "IS067IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "International transportation \u0026 Logistics"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  129,
+                     "maMonHoc":  "CM305IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Cost Management"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  458,
+                     "maMonHoc":  "BT352IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Molecular Diagnostics"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  430,
+                     "maMonHoc":  "BT306IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Developmental Biology"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  356,
+                     "maMonHoc":  "PE008IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Critical Thinking"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  35,
+                     "maMonHoc":  "BA283IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Accounting 1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  25,
+                     "maMonHoc":  "BA222IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Management Decisions and Financial Reporting"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  450,
+                     "maMonHoc":  "BT340IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Protein Biotechnology"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  210,
+                     "maMonHoc":  "IT017IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Operating Systems"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  361,
+                     "maMonHoc":  "PH018IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Introduction to Space Engineering"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  134,
+                     "maMonHoc":  "ENEE1013IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Engineering Drawing"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  56,
+                     "maMonHoc":  "BM033IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Information Technology in the Health Care System"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  506,
+                     "maMonHoc":  "BTFT412IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Food Processing"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  333,
+                     "maMonHoc":  "EL013IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Linguistics"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  465,
+                     "maMonHoc":  "BTBC102IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Introduction to Biochemistry"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  268,
+                     "maMonHoc":  "MAFE202IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Differential Equations"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  49,
+                     "maMonHoc":  "BM005IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Statistics for Health Science"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  23,
+                     "maMonHoc":  "BA217IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Behavioural Finance"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  504,
+                     "maMonHoc":  "BTFT409IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Internship"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  132,
+                     "maMonHoc":  "CM401IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Feasibility Study and Appraisal Project"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  139,
+                     "maMonHoc":  "ENEE3013IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Water Treatment Lab"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  257,
+                     "maMonHoc":  "MA040IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Applied Statistics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  409,
+                     "maMonHoc":  "BA170IU",
+                     "soTinChi":  12,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  176,
+                     "maMonHoc":  "EE114IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Entrepreneurship"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  461,
+                     "maMonHoc":  "BT357IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Medical Microbiology"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  130,
+                     "maMonHoc":  "CM309IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Economics"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  72,
+                     "maMonHoc":  "BM101IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Mechanical design and Manufacturing processes in Biomedical Engineering"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  212,
+                     "maMonHoc":  "IT067IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Digital Logic Design"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  370,
+                     "maMonHoc":  "PH054IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Big Data Analytics for Remote Sensing Lab"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  186,
+                     "maMonHoc":  "EE131IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Capstone Design 2"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  358,
+                     "maMonHoc":  "PH014IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Physics 2"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  40,
+                     "maMonHoc":  "EFA207IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Development Economics"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  325,
+                     "maMonHoc":  "EL004IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Speaking 1 (B2-C1)"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  464,
+                     "maMonHoc":  "BT364IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Microbial genomics"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  320,
+                     "maMonHoc":  "IS095IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Industrial Intelligent Systems"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  387,
+                     "maMonHoc":  "BA083IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Consumer Behavior"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  412,
+                     "maMonHoc":  "BA255IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Specialized Internship"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  91,
+                     "maMonHoc":  "CE401IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Management"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  254,
+                     "maMonHoc":  "MA027IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Applied Linear Algebra"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  181,
+                     "maMonHoc":  "EE126IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "RF Circuits Laboratory"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  291,
+                     "maMonHoc":  "MAFE409IU",
+                     "soTinChi":  12,
+                     "tenMonHoc":  "Graduation Thesis"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  384,
+                     "maMonHoc":  "BA080IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Statistics for Business"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  275,
+                     "maMonHoc":  "MAFE212IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Financial Accounting"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  71,
+                     "maMonHoc":  "BM098IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Chemistry for BME Laboratory"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  246,
+                     "maMonHoc":  "IT172IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Machine Learning"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  511,
+                     "maMonHoc":  "BTFT443IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Cereal Product Technology"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  220,
+                     "maMonHoc":  "IT090IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Object-Oriented Analysis and Design"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  341,
+                     "maMonHoc":  "EL027IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Translation 2 (Vietnamese- English)"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  124,
+                     "maMonHoc":  "CM203IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Construction Management Project"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  233,
+                     "maMonHoc":  "IT117IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "System and Network Security"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  156,
+                     "maMonHoc":  "EE055IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Principles of EE2"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  43,
+                     "maMonHoc":  "EFA224IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Database Management in Economics"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  329,
+                     "maMonHoc":  "EL008IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Writing 2 (C1-C2)"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  493,
+                     "maMonHoc":  "BTFT305IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Food quality assurance systems"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  486,
+                     "maMonHoc":  "BTFT203IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Food engineering principles"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  245,
+                     "maMonHoc":  "IT171IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Statistical Learning"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  326,
+                     "maMonHoc":  "EL005IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Advanced Grammar"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  223,
+                     "maMonHoc":  "IT093IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Web Application Development"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  267,
+                     "maMonHoc":  "MAFE201IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Real Analysis"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  452,
+                     "maMonHoc":  "BT344IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Medical Genetics"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  147,
+                     "maMonHoc":  "ENEE5003IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  488,
+                     "maMonHoc":  "BTFT234IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Food microbiology"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  88,
+                     "maMonHoc":  "CE307IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Surveying"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  403,
+                     "maMonHoc":  "BA156IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Human Resources Management"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  55,
+                     "maMonHoc":  "BM030IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Machine Design"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  184,
+                     "maMonHoc":  "EE129IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Internet of Things Lab (IoT Lab)"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  69,
+                     "maMonHoc":  "BM095IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Medical Instrumentation"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  193,
+                     "maMonHoc":  "EEAC008IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Sensors and Instrumentation"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  84,
+                     "maMonHoc":  "CE213IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Computational Methods for Ciivil Engineering"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  494,
+                     "maMonHoc":  "BTFT312IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Food Laws and Standards"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  357,
+                     "maMonHoc":  "PH013IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Physics 1"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  517,
+                     "maMonHoc":  "BTFT458IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Food Product Development and Marketing"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  292,
+                     "maMonHoc":  "MAFE412IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Statement Analysis and Business Evaluation"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  393,
+                     "maMonHoc":  "BA123IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Principles of Management"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  11,
+                     "maMonHoc":  "BA119IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Macroeconomics"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  103,
+                     "maMonHoc":  "CHE1061IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Analytical Chemistry 2"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  5,
+                     "maMonHoc":  "BA054IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Corporate Finance"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  474,
+                     "maMonHoc":  "BTBC217IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Experimental design and technical communication"
+                 },
+                 {
+                     "prefix":  "CH",
+                     "stt":  96,
+                     "maMonHoc":  "CH011IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Chemistry for Engineers"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  110,
+                     "maMonHoc":  "CHE2025IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Computational Chemistry Lab"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  185,
+                     "maMonHoc":  "EE130IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Capstone Design 1"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  59,
+                     "maMonHoc":  "BM068IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Project 1"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  327,
+                     "maMonHoc":  "EL006IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Presentation Skills"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  21,
+                     "maMonHoc":  "BA215IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Fixed Income Securities"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  463,
+                     "maMonHoc":  "BT363IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Molecular microbiology"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  75,
+                     "maMonHoc":  "CE104IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice CADD"
+                 },
+                 {
+                     "prefix":  "CH",
+                     "stt":  74,
+                     "maMonHoc":  "CH014IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Chemistry for BME"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  224,
+                     "maMonHoc":  "IT094IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Information System Management"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  178,
+                     "maMonHoc":  "EE116IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Wireless Communication Systems Lab"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  345,
+                     "maMonHoc":  "EL033IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "ELT methods and techniques - Teaching Listening \u0026 Speaking"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  422,
+                     "maMonHoc":  "BT010IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Plant Physiology"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  491,
+                     "maMonHoc":  "BTFT256IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in enzyme and food fermentation"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  90,
+                     "maMonHoc":  "CE309IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Foundation Engineering"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  131,
+                     "maMonHoc":  "CM310IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Building Information Management"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  446,
+                     "maMonHoc":  "BT336IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Immunology"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  480,
+                     "maMonHoc":  "BTBC414IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Clinical Biochemistry Lab"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  30,
+                     "maMonHoc":  "BA278IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Accounting Control System"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  377,
+                     "maMonHoc":  "BA020IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Ethics"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  85,
+                     "maMonHoc":  "CE217IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Artificial Intelligence in Civil Engineering and Construction Management"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  250,
+                     "maMonHoc":  "MA019IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Calculus 2 (BT)"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  144,
+                     "maMonHoc":  "ENEE4017IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Advanced Engineering Drawing"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  73,
+                     "maMonHoc":  "BM105IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Biosensors"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  431,
+                     "maMonHoc":  "BT311IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Biology"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  485,
+                     "maMonHoc":  "BTFT201IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Food Science and Technology"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  453,
+                     "maMonHoc":  "BT345IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Crop Biotechnology"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  467,
+                     "maMonHoc":  "BTBC206IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Organic Chemistry 2"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  232,
+                     "maMonHoc":  "IT116IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "C/C++ Programming"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  318,
+                     "maMonHoc":  "IS091IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Management Information Systems with ERP Application"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  470,
+                     "maMonHoc":  "BTBC211IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Biochemistry 2"
+                 },
+                 {
+                     "prefix":  "PT",
+                     "stt":  207,
+                     "maMonHoc":  "PT001IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Physical Training 1"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  346,
+                     "maMonHoc":  "EL037IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Technology-Enhanced Language Learning (TELL)"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  447,
+                     "maMonHoc":  "BT337IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Bioinformatics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  17,
+                     "maMonHoc":  "BA191IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Quantitative Methods for Finance"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  415,
+                     "maMonHoc":  "BA274IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Workshop 2 Business Management"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  501,
+                     "maMonHoc":  "BTFT352IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in food analysis"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  89,
+                     "maMonHoc":  "CE308IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Surveying Practice"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  482,
+                     "maMonHoc":  "BTBC416IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Fermentation Technology Lab"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  468,
+                     "maMonHoc":  "BTBC207IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Organic Chemistry Lab"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  14,
+                     "maMonHoc":  "BA174IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Econometrics with Financial Application"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  39,
+                     "maMonHoc":  "EFA203IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introductory Econometrics"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  301,
+                     "maMonHoc":  "IS034IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Product Design and Development"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  87,
+                     "maMonHoc":  "CE305IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Steel Structures"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  161,
+                     "maMonHoc":  "EE062IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Analog Electronics Laboratory"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  64,
+                     "maMonHoc":  "BM082IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Biomaterials"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  19,
+                     "maMonHoc":  "BA213IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Corporate Governance"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  127,
+                     "maMonHoc":  "CM303IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Planning and Scheduling"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  46,
+                     "maMonHoc":  "EFA369IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Internship"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  272,
+                     "maMonHoc":  "MAFE207IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Decision Making"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  120,
+                     "maMonHoc":  "CHE4012IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Research 1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  24,
+                     "maMonHoc":  "BA218IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Credit Analysis and Lending"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  236,
+                     "maMonHoc":  "IT127IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Embedded Systems Laboratory"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  442,
+                     "maMonHoc":  "BT322IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Microbiology"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  481,
+                     "maMonHoc":  "BTBC415IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Fermentation Technology"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  31,
+                     "maMonHoc":  "BA279IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Advanced Financial Reporting and Analysis"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  410,
+                     "maMonHoc":  "BA197IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Sociology"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  203,
+                     "maMonHoc":  "PE019IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Ho Chi Minh\u0027s Thoughts"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  4,
+                     "maMonHoc":  "BA051IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "International Financial Management"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  278,
+                     "maMonHoc":  "MAFE303IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Optimization 1"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  231,
+                     "maMonHoc":  "IT115IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Embedded Systems"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  425,
+                     "maMonHoc":  "BT200IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Scientific Writing Workshop"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  47,
+                     "maMonHoc":  "EFA456IU",
+                     "soTinChi":  12,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  198,
+                     "maMonHoc":  "EEAC021IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Mathematics for Engineers"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  388,
+                     "maMonHoc":  "BA084IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Import Export Management"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  107,
+                     "maMonHoc":  "CHE1105IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Biochemistry Lab"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  362,
+                     "maMonHoc":  "PH024IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "General Physics 3 Laboratory"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  444,
+                     "maMonHoc":  "BT334IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Molecular Biotechnology"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  150,
+                     "maMonHoc":  "EE049IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Electrical Engineering"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  432,
+                     "maMonHoc":  "BT312IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Biology"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  82,
+                     "maMonHoc":  "CE210IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Materials"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  369,
+                     "maMonHoc":  "PH050IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  175,
+                     "maMonHoc":  "EE107IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Senior Project"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  342,
+                     "maMonHoc":  "EL028IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Functional Grammar"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  499,
+                     "maMonHoc":  "BTFT337IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Food microbiology analysis"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  503,
+                     "maMonHoc":  "BTFT357IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Practice in Food Microbiology Analysis"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  243,
+                     "maMonHoc":  "IT153IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Discrete Mathematics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  34,
+                     "maMonHoc":  "BA282IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Math for Business"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  2,
+                     "maMonHoc":  "BA010IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Managerial Accounting"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  45,
+                     "maMonHoc":  "EFA240IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Real estate investment strategy"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  111,
+                     "maMonHoc":  "CHE2034IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Simulation and Optimization"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  199,
+                     "maMonHoc":  "PE015IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Philosophy of Marxism and Leninism"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  413,
+                     "maMonHoc":  "BA256IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Workshop 1"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  153,
+                     "maMonHoc":  "EE052IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Principles of EE1 Laboratory"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  16,
+                     "maMonHoc":  "BA186IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Investment Banking"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  119,
+                     "maMonHoc":  "CHE3331IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Medicinal Chemistry"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  448,
+                     "maMonHoc":  "BT338IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Bioinformatics"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  282,
+                     "maMonHoc":  "MAFE309IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Software Engineering"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  213,
+                     "maMonHoc":  "IT069IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Object-Oriented Programming"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  18,
+                     "maMonHoc":  "BA192IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "International Finance"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  479,
+                     "maMonHoc":  "BTBC413IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Clinical Biochemistry"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  162,
+                     "maMonHoc":  "EE068IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Principles of Communication Systems"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  381,
+                     "maMonHoc":  "BA032IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Sales Management"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  314,
+                     "maMonHoc":  "IS078IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Logistics Engineering \u0026 Supply Chain Design"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  109,
+                     "maMonHoc":  "CHE2024IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Computational Chemistry"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  65,
+                     "maMonHoc":  "BM085IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Characterization and Properties of Biomaterials"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  20,
+                     "maMonHoc":  "BA214IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Institutions Management"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  332,
+                     "maMonHoc":  "EL011IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Research Writing"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  121,
+                     "maMonHoc":  "CHE4022IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Research 2"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  416,
+                     "maMonHoc":  "BA275IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Workshop 2 on Marketing"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  287,
+                     "maMonHoc":  "MAFE401IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Mathematics 2"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  319,
+                     "maMonHoc":  "IS093IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Predictive data analytics and Applications"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  148,
+                     "maMonHoc":  "PE014IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Environmental Science"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  32,
+                     "maMonHoc":  "BA280IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Advanced Auditing"
+                 },
+                 {
+                     "prefix":  "MAAS",
+                     "stt":  260,
+                     "maMonHoc":  "MAAS318IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Stochastic Modeling"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  313,
+                     "maMonHoc":  "IS074IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Import-Export Management"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  424,
+                     "maMonHoc":  "BT179IU",
+                     "soTinChi":  12,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  140,
+                     "maMonHoc":  "ENEE3014IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Municipal Wastewater Treatment"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  265,
+                     "maMonHoc":  "MAFE105IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Economics"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  512,
+                     "maMonHoc":  "BTFT451IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Dairy Product Technology"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  98,
+                     "maMonHoc":  "CHE0042IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Project 1"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  180,
+                     "maMonHoc":  "EE125IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "RF Circuits"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  502,
+                     "maMonHoc":  "BTFT354IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in food unit operations 2"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  311,
+                     "maMonHoc":  "IS071IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  252,
+                     "maMonHoc":  "MA024IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Differential Equations"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  324,
+                     "maMonHoc":  "EL003IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Listening 1 (B2-C1)"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  183,
+                     "maMonHoc":  "EE128IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Internet of Things (IoT)"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  284,
+                     "maMonHoc":  "MAFE314IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Econometrics"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  496,
+                     "maMonHoc":  "BTFT331IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Food unit operations 1"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  304,
+                     "maMonHoc":  "IS052IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Internship 1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  26,
+                     "maMonHoc":  "BA257IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Workshop 2 on Financial Issues"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  483,
+                     "maMonHoc":  "BTFT156IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Food Chemistry and Biochemistry"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  228,
+                     "maMonHoc":  "IT103IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Digital Signal Processing"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  423,
+                     "maMonHoc":  "BT150IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Introduction to Biotechnology"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  122,
+                     "maMonHoc":  "CHE4052IU",
+                     "soTinChi":  12,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  286,
+                     "maMonHoc":  "MAFE316IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Statistics"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  154,
+                     "maMonHoc":  "EE053IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Digital Logic Design"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  451,
+                     "maMonHoc":  "BT343IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Medical Genetics"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  53,
+                     "maMonHoc":  "BM013IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Entrepreneurship in Biomedical Engineering"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  368,
+                     "maMonHoc":  "PH047IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Navigation Systems"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  279,
+                     "maMonHoc":  "MAFE306IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Mathematics 1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  392,
+                     "maMonHoc":  "BA120IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Computing Skills"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  338,
+                     "maMonHoc":  "EL018IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Cross-cultural Communication"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  433,
+                     "maMonHoc":  "BT313IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Genetics"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  429,
+                     "maMonHoc":  "BT221IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Internship"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  169,
+                     "maMonHoc":  "EE090IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Electronics Devices"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  401,
+                     "maMonHoc":  "BA154IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Entrepreneurship and Small Business Management"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  420,
+                     "maMonHoc":  "PE010IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Vietnamese History and Culture"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  167,
+                     "maMonHoc":  "EE088IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Signals \u0026 Systems"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  355,
+                     "maMonHoc":  "MA030IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Statistics for Social Sciences"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  443,
+                     "maMonHoc":  "BT333IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Molecular Biotechnology"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  469,
+                     "maMonHoc":  "BTBC209IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Biochemistry 1"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  330,
+                     "maMonHoc":  "EL009IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Listening 2 (C1-C2)"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  404,
+                     "maMonHoc":  "BA161IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Research Methods"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  67,
+                     "maMonHoc":  "BM091IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Human Anatomy and Physiology"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  385,
+                     "maMonHoc":  "BA081IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Law"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  344,
+                     "maMonHoc":  "EL032IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Comparative Linguistics"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  297,
+                     "maMonHoc":  "IS027IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Scheduling \u0026 Sequencing"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  350,
+                     "maMonHoc":  "EL046IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  123,
+                     "maMonHoc":  "CHE4062IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Internship 1"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  60,
+                     "maMonHoc":  "BM069IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Project 2"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  61,
+                     "maMonHoc":  "BM070IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Information Technology in the Health Care System Lab"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  217,
+                     "maMonHoc":  "IT082IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Internship"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  142,
+                     "maMonHoc":  "ENEE3022IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Municipal Wastewater Treatment Lab"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  70,
+                     "maMonHoc":  "BM096IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "AI for Healthcare"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  441,
+                     "maMonHoc":  "BT321IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Microbiology"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  9,
+                     "maMonHoc":  "BA087IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Taxation"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  516,
+                     "maMonHoc":  "BTFT457IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Food Sensory Analysis"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  92,
+                     "maMonHoc":  "CE402IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Foundation Project"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  337,
+                     "maMonHoc":  "EL017IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Language and Culture"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  41,
+                     "maMonHoc":  "EFA211IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Behavioral Economics"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  460,
+                     "maMonHoc":  "BT356IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Stem Cell Biology"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  137,
+                     "maMonHoc":  "ENEE2025IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Basic Theory of Environmental Structures"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  289,
+                     "maMonHoc":  "MAFE403IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Research Methods in Finance"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  158,
+                     "maMonHoc":  "EE057IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Programming for Engineers (C)"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  115,
+                     "maMonHoc":  "CHE3111IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Green Chemical Engineering"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  418,
+                     "maMonHoc":  "BA287IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Marketing Analytics and Metrics"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  273,
+                     "maMonHoc":  "MAFE208IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Numerical Analysis"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  95,
+                     "maMonHoc":  "CE420IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  218,
+                     "maMonHoc":  "IT083IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Special Study of the Field"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  322,
+                     "maMonHoc":  "IS103IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Deterministic models in OR"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  229,
+                     "maMonHoc":  "IT105IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Digital System Design"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  298,
+                     "maMonHoc":  "IS028IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Simulation Models in Industrial Engineering"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  263,
+                     "maMonHoc":  "MAFE103IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Analysis 2"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  405,
+                     "maMonHoc":  "BA162IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Strategy Formulation and Implementation"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  93,
+                     "maMonHoc":  "CE403IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Construction Project"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  375,
+                     "maMonHoc":  "BA006IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Communication"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  426,
+                     "maMonHoc":  "BT210IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Human Physiology"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  309,
+                     "maMonHoc":  "IS068IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Procurement Management"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  445,
+                     "maMonHoc":  "BT335IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Immunology"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  515,
+                     "maMonHoc":  "BTFT456IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Technology of coffee, tea and cacao"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  371,
+                     "maMonHoc":  "PH056IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Project Management"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  360,
+                     "maMonHoc":  "PH016IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Physics 3 Laboratory"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  145,
+                     "maMonHoc":  "ENEE4018IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Advanced Engineering Drawing Lab"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  508,
+                     "maMonHoc":  "BTFT438IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Food Product Development and Marketing"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  6,
+                     "maMonHoc":  "BA057IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Auditing"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  157,
+                     "maMonHoc":  "EE056IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Principles of EE2 Laboratory"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  240,
+                     "maMonHoc":  "IT138IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Data Science and Data Visualization"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  128,
+                     "maMonHoc":  "CM304IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Construction Measurement and Cost Estimating Project"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  378,
+                     "maMonHoc":  "BA022IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Logistic and Supply Chain Management"
+                 },
+                 {
+                     "prefix":  "CH",
+                     "stt":  519,
+                     "maMonHoc":  "CH012IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Chemistry Laboratory"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  234,
+                     "maMonHoc":  "IT120IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Entrepreneurship"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  230,
+                     "maMonHoc":  "IT106IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Digital System Design Laboratory"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  305,
+                     "maMonHoc":  "IS054IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Engineering Drawing"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  202,
+                     "maMonHoc":  "PE018IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "History of Vietnamese Communist Party"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  215,
+                     "maMonHoc":  "IT076IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Software Engineering"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  347,
+                     "maMonHoc":  "EL038IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Teaching English to Young Learners"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  296,
+                     "maMonHoc":  "IS026IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Project Management"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  414,
+                     "maMonHoc":  "BA273IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Workshop 2 on International Business"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  455,
+                     "maMonHoc":  "BT347IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Techniques in Plant Biotechnology"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  86,
+                     "maMonHoc":  "CE304IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Reinforced concrete 1"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  135,
+                     "maMonHoc":  "ENEE1014IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Engineering Drawing Lab"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  343,
+                     "maMonHoc":  "EL031IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Sociolinguistics"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  63,
+                     "maMonHoc":  "BM080IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Nanotechnology for Drug Delivery Systems"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  66,
+                     "maMonHoc":  "BM089IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Electronic Devices for Biomedical Design"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  44,
+                     "maMonHoc":  "EFA233IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Ethics and Corporate Governence"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  285,
+                     "maMonHoc":  "MAFE315IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to corporate finance"
+                 },
+                 {
+                     "prefix":  "MAAS",
+                     "stt":  261,
+                     "maMonHoc":  "MAAS320IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Regression Models"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  487,
+                     "maMonHoc":  "BTFT205IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Nutrition and Functional Foods"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  500,
+                     "maMonHoc":  "BTFT351IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in food unit operations 1"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  366,
+                     "maMonHoc":  "PH039IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Digital Image Processing Laboratory"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  520,
+                     "maMonHoc":  "PH058IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Physics for Biology"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  78,
+                     "maMonHoc":  "CE202IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Mechanics of Materials Laboratory"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  189,
+                     "maMonHoc":  "EEAC004IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "PC Based Control and SCADA System"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  382,
+                     "maMonHoc":  "BA035IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Marketing Research"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  328,
+                     "maMonHoc":  "EL007IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Reading 2 (C1-C2)"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  170,
+                     "maMonHoc":  "EE091IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Electronics Devices Laboratory"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  277,
+                     "maMonHoc":  "MAFE302IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Random Processes"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  492,
+                     "maMonHoc":  "BTFT303IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Toxicology and food safety"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  249,
+                     "maMonHoc":  "MA003IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Calculus 2"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  283,
+                     "maMonHoc":  "MAFE312IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Data mining"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  173,
+                     "maMonHoc":  "EE097IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  398,
+                     "maMonHoc":  "BA146IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Retail Management"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  204,
+                     "maMonHoc":  "PE020IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Engineering Ethics and Professional Skills"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  438,
+                     "maMonHoc":  "BT318IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Biostatistics"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  238,
+                     "maMonHoc":  "IT134IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Internet of Things"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  269,
+                     "maMonHoc":  "MAFE203IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Analysis 3"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  421,
+                     "maMonHoc":  "BT009IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Cell Biology"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  312,
+                     "maMonHoc":  "IS073IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Law"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  300,
+                     "maMonHoc":  "IS033IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Multi-Criteria Decision Making"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  94,
+                     "maMonHoc":  "CE414IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Project Management"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  165,
+                     "maMonHoc":  "EE083IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Micro-processing Systems"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  389,
+                     "maMonHoc":  "BA098IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Leadership"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  58,
+                     "maMonHoc":  "BM064IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Applied Informatics"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  51,
+                     "maMonHoc":  "BM009IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "BME Capstone Design Course"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  105,
+                     "maMonHoc":  "CHE1081IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Organic Chemistry 1"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  274,
+                     "maMonHoc":  "MAFE209IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial markets"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  201,
+                     "maMonHoc":  "PE017IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Scientific socialism"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  419,
+                     "maMonHoc":  "PE007IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "World Economic Geography"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  152,
+                     "maMonHoc":  "EE051IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Principles of EE1"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  194,
+                     "maMonHoc":  "EEAC010IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Electric Machine"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  221,
+                     "maMonHoc":  "IT091IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Computer Networks"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  264,
+                     "maMonHoc":  "MAFE104IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Linear Algebra"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  38,
+                     "maMonHoc":  "EFA202IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Intermediate Macroeconomics"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  307,
+                     "maMonHoc":  "IS065IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Supply Security and Risk Management"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  435,
+                     "maMonHoc":  "BT315IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Analytical Chemistry"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  514,
+                     "maMonHoc":  "BTFT453IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Cereal Product Technology"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  241,
+                     "maMonHoc":  "IT140IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Fundamental Concepts of Data Security"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  400,
+                     "maMonHoc":  "BA153IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Internship"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  33,
+                     "maMonHoc":  "BA281IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Workshop 2 on Accounting Issues"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  168,
+                     "maMonHoc":  "EE089IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Signals \u0026 Systems Laboratory"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  160,
+                     "maMonHoc":  "EE061IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Analog Electronics"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  99,
+                     "maMonHoc":  "CHE1011IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Introduction to Chemical Engineering"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  402,
+                     "maMonHoc":  "BA155IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Multicultural Management"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  166,
+                     "maMonHoc":  "EE084IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Micro-processing Systems Laboratory"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  242,
+                     "maMonHoc":  "IT151IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Statistical Methods"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  190,
+                     "maMonHoc":  "EEAC005IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "PC Based Control and SCADA System Lab"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  471,
+                     "maMonHoc":  "BTBC212IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Biochemistry 2 Lab"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  211,
+                     "maMonHoc":  "IT058IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  237,
+                     "maMonHoc":  "IT131IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Theoretical Models in Computing"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  172,
+                     "maMonHoc":  "EE093IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Digital Signal Processing Laboratory"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  133,
+                     "maMonHoc":  "CM420IU",
+                     "soTinChi":  10,
+                     "tenMonHoc":  "Graduation Thesis"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  331,
+                     "maMonHoc":  "EL010IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Speaking 2 (C1-C2)"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  359,
+                     "maMonHoc":  "PH015IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Physics 3"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  138,
+                     "maMonHoc":  "ENEE3012IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Water Treatment"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  270,
+                     "maMonHoc":  "MAFE204IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Database Management system"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  68,
+                     "maMonHoc":  "BM092IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Cell/Tissue - Biomaterial Interaction"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  386,
+                     "maMonHoc":  "BA082IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Brand Management"
+                 },
+                 {
+                     "prefix":  "EN",
+                     "stt":  354,
+                     "maMonHoc":  "EN012IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Speaking AE2"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  294,
+                     "maMonHoc":  "IS020IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Engineering Economy"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  182,
+                     "maMonHoc":  "EE127IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Machine Learning and Artificial Intelligence"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  295,
+                     "maMonHoc":  "IS024IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Probabilistic Models in Opeations Research"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  253,
+                     "maMonHoc":  "MA026IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Probability, Statistic \u0026 Random Process"
+                 },
+                 {
+                     "prefix":  "CH",
+                     "stt":  518,
+                     "maMonHoc":  "CH009IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Organic chemistry"
+                 },
+                 {
+                     "prefix":  "EFA",
+                     "stt":  37,
+                     "maMonHoc":  "EFA201IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Intermediate Microeconomics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  12,
+                     "maMonHoc":  "BA134IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Institutions and Markets"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  191,
+                     "maMonHoc":  "EEAC006IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Programmable Logic Control (PLC)"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  510,
+                     "maMonHoc":  "BTFT442IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Beverage Technology"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  108,
+                     "maMonHoc":  "CHE2011IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Reaction Kinetics and Catalysis"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  507,
+                     "maMonHoc":  "BTFT437IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Food Sensory Analysis"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  459,
+                     "maMonHoc":  "BT355IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Stem Cell Biology"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  462,
+                     "maMonHoc":  "BT358IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Medical Microbiology"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  104,
+                     "maMonHoc":  "CHE1062IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Analytical Chemistry Laboratory"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  290,
+                     "maMonHoc":  "MAFE404IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Risk Management 2"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  141,
+                     "maMonHoc":  "ENEE3017IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Industrial Wastewater Treatment Lab"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  395,
+                     "maMonHoc":  "BA140IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Game"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  54,
+                     "maMonHoc":  "BM017IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Medical Design"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  83,
+                     "maMonHoc":  "CE211IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Hydrology- Hydraulics"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  440,
+                     "maMonHoc":  "BT320IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Biochemistry"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  227,
+                     "maMonHoc":  "IT101IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Electronics Devices Laboratory"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  192,
+                     "maMonHoc":  "EEAC007IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Programmable Logic Control (PLC) Lab"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  498,
+                     "maMonHoc":  "BTFT334IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Food unit operations 2"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  390,
+                     "maMonHoc":  "BA115IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Business Administration"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  77,
+                     "maMonHoc":  "CE201IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Mechanics of Materials 1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  411,
+                     "maMonHoc":  "BA232IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Hospitality Sales and Marketing"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  505,
+                     "maMonHoc":  "BTFT411IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Post-harvest Technologies"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  449,
+                     "maMonHoc":  "BT339IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Protein Biotechnology"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  489,
+                     "maMonHoc":  "BTFT236IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Enzyme and food fermentation"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  155,
+                     "maMonHoc":  "EE054IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Digital Logic Design Laboratory"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  466,
+                     "maMonHoc":  "BTBC201IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Organic Chemistry 1"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  247,
+                     "maMonHoc":  "IT173IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Big Data Analytics"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  81,
+                     "maMonHoc":  "CE209IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Structural Analysis 1"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  299,
+                     "maMonHoc":  "IS031IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Experimental Design"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  13,
+                     "maMonHoc":  "BA138IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Portfolio Theory and Investment Analysis"
+                 },
+                 {
+                     "prefix":  "MAAS",
+                     "stt":  259,
+                     "maMonHoc":  "MAAS221IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Machine Learning"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  473,
+                     "maMonHoc":  "BTBC214IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Fundamentals of Analytical Chemistry Lab"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  216,
+                     "maMonHoc":  "IT079IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Principles of Database Management"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  29,
+                     "maMonHoc":  "BA277IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Financial Statement Analysis"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  374,
+                     "maMonHoc":  "BA003IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Principles of Marketing"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  48,
+                     "maMonHoc":  "BM004IU",
+                     "soTinChi":  5,
+                     "tenMonHoc":  "Thesis"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  214,
+                     "maMonHoc":  "IT074IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Electronics Devices"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  15,
+                     "maMonHoc":  "BA185IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Commercial Banking"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  22,
+                     "maMonHoc":  "BA216IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Derivatives and Risk management"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  200,
+                     "maMonHoc":  "PE016IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Political economics of Marxism and Leninism"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  97,
+                     "maMonHoc":  "CHE0041IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Research Methodology"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  293,
+                     "maMonHoc":  "IS017IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Work Design \u0026 Ergonomics"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  151,
+                     "maMonHoc":  "EE050IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Computer for Engineers"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  513,
+                     "maMonHoc":  "BTFT452IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Beverage Technology"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  113,
+                     "maMonHoc":  "CHE2071IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Mechanical Unit Operations"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  365,
+                     "maMonHoc":  "PH038IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Introduction to Digital Image Processing"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  52,
+                     "maMonHoc":  "BM011IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Engineering Challenges in Medicine I"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  383,
+                     "maMonHoc":  "BA045IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "B2B Marketing"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  310,
+                     "maMonHoc":  "IS069IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Internship 1"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  434,
+                     "maMonHoc":  "BT314IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in Genetics"
+                 },
+                 {
+                     "prefix":  "EN",
+                     "stt":  351,
+                     "maMonHoc":  "EN007IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Writing AE1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  379,
+                     "maMonHoc":  "BA023IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Project Management"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  439,
+                     "maMonHoc":  "BT319IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Biochemistry"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  101,
+                     "maMonHoc":  "CHE1031IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Physical Chemistry 1"
+                 },
+                 {
+                     "prefix":  "CE",
+                     "stt":  79,
+                     "maMonHoc":  "CE205IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Fluid Mechanics"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  334,
+                     "maMonHoc":  "EL014IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to English Teaching Methodology"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  114,
+                     "maMonHoc":  "CHE2082IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Introduction to Health Safety and Environment"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  27,
+                     "maMonHoc":  "BA269IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Research methods for finance and accounting"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  417,
+                     "maMonHoc":  "BA286IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Marketing Management"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  258,
+                     "maMonHoc":  "MA041IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Applied Statistics Lab"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  484,
+                     "maMonHoc":  "BTFT157IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Food Sustainability"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  497,
+                     "maMonHoc":  "BTFT332IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Food Analysis"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  408,
+                     "maMonHoc":  "BA169IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Management Information Systems"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  477,
+                     "maMonHoc":  "BTBC314IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Methods in Biochemistry Lab"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  136,
+                     "maMonHoc":  "ENEE2014IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Heat and Mass Transfer"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  10,
+                     "maMonHoc":  "BA117IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Introduction to Microeconomics"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  372,
+                     "maMonHoc":  "PH062IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "iOS programing fundamentals"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  112,
+                     "maMonHoc":  "CHE2035IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Simulation and Optimization Lab"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  364,
+                     "maMonHoc":  "PH036IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Remote Sensing"
+                 },
+                 {
+                     "prefix":  "EL",
+                     "stt":  339,
+                     "maMonHoc":  "EL020IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "American Civilization"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  316,
+                     "maMonHoc":  "IS081IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Deterministic Models in OR"
+                 },
+                 {
+                     "prefix":  "PE",
+                     "stt":  206,
+                     "maMonHoc":  "PE022IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Engineering Ethics and Critical Thinking"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  475,
+                     "maMonHoc":  "BTBC309IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Internship"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  8,
+                     "maMonHoc":  "BA068IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "International Economics"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  197,
+                     "maMonHoc":  "EEAC020IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Theory of Automatic Control"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  457,
+                     "maMonHoc":  "BT351IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Molecular Diagnostics"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  280,
+                     "maMonHoc":  "MAFE307IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Optimization 2"
+                 },
+                 {
+                     "prefix":  "BTFT",
+                     "stt":  490,
+                     "maMonHoc":  "BTFT254IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice in food microbiology"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  188,
+                     "maMonHoc":  "EEAC003IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Power Electronics Lab"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  7,
+                     "maMonHoc":  "BA065IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Business Analysis \u0026 Evaluation"
+                 },
+                 {
+                     "prefix":  "IT",
+                     "stt":  225,
+                     "maMonHoc":  "IT096IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Net-Centric Programming"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  102,
+                     "maMonHoc":  "CHE1051IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Analytical Chemistry 1"
+                 },
+                 {
+                     "prefix":  "PT",
+                     "stt":  208,
+                     "maMonHoc":  "PT002IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Physical Training 2"
+                 },
+                 {
+                     "prefix":  "BT",
+                     "stt":  428,
+                     "maMonHoc":  "BT217IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Molecular Genetics"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  28,
+                     "maMonHoc":  "BA276IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Cost Accounting"
+                 },
+                 {
+                     "prefix":  "IS",
+                     "stt":  306,
+                     "maMonHoc":  "IS057IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Warehouse Engineering Management"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  407,
+                     "maMonHoc":  "BA168IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Quantitative Methods for Business"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  125,
+                     "maMonHoc":  "CM301IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Operation Management in Construction"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  179,
+                     "maMonHoc":  "EE118IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Embedded Real-time System Lab"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  50,
+                     "maMonHoc":  "BM007IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Introduction to Biomedical Engineering"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  373,
+                     "maMonHoc":  "PH069IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Fundamental mathematics for engineers"
+                 },
+                 {
+                     "prefix":  "CHE",
+                     "stt":  116,
+                     "maMonHoc":  "CHE3121IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Environmental Chemistry 1"
+                 },
+                 {
+                     "prefix":  "CM",
+                     "stt":  126,
+                     "maMonHoc":  "CM302IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Construction Procurement and Tendering"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  472,
+                     "maMonHoc":  "BTBC213IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Fundamentals of Analytical Chemistry"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  478,
+                     "maMonHoc":  "BTBC411IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Comestics and Cosmeceuticals Lab"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  399,
+                     "maMonHoc":  "BA151IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "International Business Management"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  380,
+                     "maMonHoc":  "BA027IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "E - Commerce"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  248,
+                     "maMonHoc":  "MA001IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Calculus 1"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  3,
+                     "maMonHoc":  "BA016IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Fundamentals of Financial Management"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  262,
+                     "maMonHoc":  "MAFE101IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Analysis 1"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  195,
+                     "maMonHoc":  "EEAC013IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Power System and Equipment"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  394,
+                     "maMonHoc":  "BA130IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Organizational Behavior"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  187,
+                     "maMonHoc":  "EE133IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Emerging Engineering Technologies"
+                 },
+                 {
+                     "prefix":  "MAFE",
+                     "stt":  288,
+                     "maMonHoc":  "MAFE402IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Portfolio Management"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  174,
+                     "maMonHoc":  "EE104IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Embedded Real-time System"
+                 },
+                 {
+                     "prefix":  "BA",
+                     "stt":  406,
+                     "maMonHoc":  "BA164IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Production and Operations Management"
+                 },
+                 {
+                     "prefix":  "EEAC",
+                     "stt":  196,
+                     "maMonHoc":  "EEAC015IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Robotics"
+                 },
+                 {
+                     "prefix":  "BM",
+                     "stt":  57,
+                     "maMonHoc":  "BM052IU",
+                     "soTinChi":  1,
+                     "tenMonHoc":  "Practice 3: Electronic Design"
+                 },
+                 {
+                     "prefix":  "BTBC",
+                     "stt":  476,
+                     "maMonHoc":  "BTBC313IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Methods in Biochemistry"
+                 },
+                 {
+                     "prefix":  "ENEE",
+                     "stt":  143,
+                     "maMonHoc":  "ENEE3023IU",
+                     "soTinChi":  2,
+                     "tenMonHoc":  "Industrial Wastewater Treatment"
+                 },
+                 {
+                     "prefix":  "EE",
+                     "stt":  171,
+                     "maMonHoc":  "EE092IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Digital Signal Processing"
+                 },
+                 {
+                     "prefix":  "PH",
+                     "stt":  367,
+                     "maMonHoc":  "PH043IU",
+                     "soTinChi":  3,
+                     "tenMonHoc":  "Satellite Signal and Image Processing Laboratory"
+                 },
+                 {
+                     "prefix":  "MA",
+                     "stt":  251,
+                     "maMonHoc":  "MA023IU",
+                     "soTinChi":  4,
+                     "tenMonHoc":  "Calculus 3"
+                 }
+             ],
+    "prefixMeanings":  {
+        "EE": "Electrical Engineering",
+        "EN": "Languages",
+        "MA": "Mathematics",
+        "PE": "Political Education / Philosophy",
+        "PH": "Physics",
+        "PT": "Physical Training",
+        "MP": "Military Education",
+        "BM": "Biomedical Engineering",
+        "CE": "Civil Engineering and Management",
+        "BT": "Bio-Technology",
+        "IT": "Computer Science & Engineering",
+        "IS": "Information Systems",
+        "IU": "International University",
+        "BA": "Business Administration",
+        "CH": "Chemistry",
+        "CM": "Construction Management",
+        "EL": "English Language",
+        "EEA": "Electrical Engineering (Advanced)",
+        "ENT": "English (Twinning Program)",
+        "IEM": "Industrial Engineering & Management",
+        "CEE": "Chemical and Environmental Engineering",
+        "EFA": "Economics, Finance and Accounting",
+        "CHE": "Chemical Engineering",
+        "EEAC": "Electrical Engineering (Advanced)",
+        "ENTP": "English (Twinning Program)",
+        "BTBC": "Bio-Technology (Biochemistry)",
+        "BTFT": "Bio-Technology (Food Technology)",
+        "ENEE": "Environmental Engineering",
+        "MAAS": "Mathematics (Applied Statistics)",
+        "MAFE": "Mathematics (Financial Engineering)"
+    },
+    "total":  520
+}
