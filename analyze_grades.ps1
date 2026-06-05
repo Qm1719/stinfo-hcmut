@@ -45,20 +45,40 @@ try {
     Write-Host "Zero-Credit Courses: $($zeroCreditCourses.Count)"
     Write-Host ""
     
-    # Total Credits (all courses including MT)
-    $totalCredits = ($creditedCourses | Measure-Object -Property soTinChi -Sum).Sum
-    Write-Host "Total Credits: $totalCredits"
-    Write-Host ""
-    
-    # GPA Calculation (weighted by credits, excluding MT grades)
-    # MT grades count for credits but not for GPA points
-    $totalPoints = 0
-    $totalCreditsForGPA = 0
     $gradeMap = @{
         "A+" = 4.0; "A" = 4.0; "B+" = 3.5; "B" = 3.0; "C+" = 2.5
         "C" = 2.0; "D+" = 1.5; "D" = 1.0; "F" = 0.0
     }
     
+    function Test-IsFailedCourse {
+        param($course)
+        return ($course.diemChu -eq "F" -or ($course.diemDat -eq "0" -and $course.diemSo -lt 4.0))
+    }
+    
+    function Get-WeightedGPA {
+        param($courses)
+        $points = 0
+        $credits = 0
+        foreach ($course in $courses) {
+            if ($course.diemChu -eq "MT") { continue }
+            if ($gradeMap.ContainsKey($course.diemChu)) {
+                $points += $gradeMap[$course.diemChu] * $course.soTinChi
+                $credits += $course.soTinChi
+            }
+        }
+        if ($credits -gt 0) { return [math]::Round($points / $credits, 2) }
+        return $null
+    }
+    
+    # Total Credits (excluding failed subjects; MT still counts)
+    $totalCredits = ($creditedCourses | Where-Object { -not (Test-IsFailedCourse $_) } | Measure-Object -Property soTinChi -Sum).Sum
+    $totalCreditsAll = ($creditedCourses | Measure-Object -Property soTinChi -Sum).Sum
+    Write-Host "Total Credits: $totalCredits"
+    
+    # GPA Calculation (weighted by credits, excluding MT grades)
+    # MT grades count for credits but not for GPA points
+    $totalPoints = 0
+    $totalCreditsForGPA = 0
     foreach ($course in $creditedCourses) {
         # Skip MT grades - they don't count in GPA but count in total credits
         if ($course.diemChu -eq "MT") {
@@ -74,10 +94,9 @@ try {
     }
     
     $gpa = if ($totalCreditsForGPA -gt 0) { [math]::Round($totalPoints / $totalCreditsForGPA, 2) } else { 0 }
-    Write-Host "GPA (Weighted by Credits, excluding MT): $gpa / 4.0"
-    Write-Host "Total Credits for GPA: $totalCreditsForGPA / $totalCredits"
+    Write-Host "Total Credits for GPA: $totalCreditsForGPA / $totalCreditsAll"
     Write-Host ""
-    Write-Host "TOTAL GPA: $gpa / 4.0" -ForegroundColor Cyan
+    Write-Host "GPA: $gpa/4.0" -ForegroundColor Cyan
     Write-Host ""
     
     # Grade Distribution
@@ -138,10 +157,18 @@ try {
     $semesterGroups = $creditedCourses | Group-Object -Property maHocKy | Sort-Object Name
     foreach ($semester in $semesterGroups) {
         $semCredits = ($semester.Group | Measure-Object -Property soTinChi -Sum).Sum
-        $semAvg = ($semester.Group | Where-Object { $_.diemSo -ne $null } | Measure-Object -Property diemSo -Average).Average
-        $semAvg = if ($semAvg) { [math]::Round($semAvg, 2) } else { "N/A" }
+        $semScored = $semester.Group | Where-Object { $_.diemSo -ne $null -and $_.diemChu -ne "MT" }
+        $semAvg = ($semScored | Measure-Object -Property diemSo -Average).Average
+        $semGpa = Get-WeightedGPA -courses $semester.Group
+        if ($semAvg -and $semGpa -ne $null) {
+            $semAvgDisplay = "{0} - {1}" -f ([math]::Round($semAvg, 2)), $semGpa
+        } elseif ($semAvg) {
+            $semAvgDisplay = [math]::Round($semAvg, 2)
+        } else {
+            $semAvgDisplay = "N/A"
+        }
         Write-Host ("{0}: {1} courses, {2} credits, Avg Score: {3}" -f 
-            $semester.Name, $semester.Count, $semCredits, $semAvg)
+            $semester.Name, $semester.Count, $semCredits, $semAvgDisplay)
     }
     Write-Host ""
     
@@ -220,12 +247,12 @@ try {
             }
             
             if ($scoredCourses.Count -gt 0) {
-                # Has scored courses - always show average (even if just 1 course)
-                # For 1 course, the average is just that course's grade
                 $avg = ($scoredCourses | Measure-Object -Property diemSo -Average).Average
                 $avg = [math]::Round($avg, 2)
+                $catGpa = Get-WeightedGPA -courses $courses
+                $avgDisplay = if ($catGpa -ne $null) { "{0} - {1}" -f $avg, $catGpa } else { "$avg" }
                 Write-Host ("{0}: {1} courses, {2} credits, Avg: {3}" -f 
-                    $category, $courses.Count, $credits, $avg)
+                    $category, $courses.Count, $credits, $avgDisplay)
             } else {
                 # No scores available
                 Write-Host ("{0}: {1} courses, {2} credits" -f 
@@ -236,7 +263,7 @@ try {
     Write-Host ""
     
     # Failed Courses
-    $failedCourses = $creditedCourses | Where-Object { $_.diemChu -eq "F" -or ($_.diemDat -eq "0" -and $_.diemSo -lt 4.0) }
+    $failedCourses = $creditedCourses | Where-Object { Test-IsFailedCourse $_ }
     if ($failedCourses.Count -gt 0) {
         Write-Host "FAILED COURSES" -ForegroundColor Red
         Write-Host ("-" * 70)
@@ -267,6 +294,35 @@ try {
     Write-Host "RECOMMENDATIONS - GPA IMPROVEMENT PLAN" -ForegroundColor Yellow
     Write-Host ("-" * 70)
     
+    $gpaTiers = @(
+        @{ Name = "Average";   Min = 2.00 }
+        @{ Name = "Fair";      Min = 2.50 }
+        @{ Name = "Good";      Min = 3.20 }
+        @{ Name = "Excellent"; Min = 3.60 }
+    )
+    
+    function Get-CurrentTierIndex {
+        param([double]$Gpa)
+        if ($Gpa -ge 3.60) { return 3 }
+        if ($Gpa -ge 3.20) { return 2 }
+        if ($Gpa -ge 2.50) { return 1 }
+        if ($Gpa -ge 2.00) { return 0 }
+        return -1
+    }
+    
+    function Get-GPAClassificationName {
+        param([double]$Gpa)
+        if ($Gpa -ge 3.60) { return "Excellent" }
+        if ($Gpa -ge 3.20) { return "Good" }
+        if ($Gpa -ge 2.50) { return "Fair" }
+        if ($Gpa -ge 2.00) { return "Average" }
+        return "Below Average"
+    }
+    
+    Write-Host "GPA scale: Excellent >= 3.60 | Good >= 3.20 | Fair >= 2.50 | Average >= 2.00"
+    Write-Host ("Current classification: {0} (GPA: {1})" -f (Get-GPAClassificationName $gpa), $gpa)
+    Write-Host ""
+    
     # Function to determine target grade based on current grade
     function Get-TargetGrade {
         param(
@@ -274,20 +330,18 @@ try {
             [double]$TargetGPA
         )
         
-        # For 3.2 target: +1.5 grade points
-        if ($TargetGPA -eq 3.2) {
+        # For 3.20+ targets: +1.5 grade points
+        if ($TargetGPA -ge 3.20) {
             if (-not $gradeMap.ContainsKey($CurrentGrade)) {
                 return $null
             }
             $currentPoints = $gradeMap[$CurrentGrade]
             $targetPoints = $currentPoints + 1.5
             
-            # Cap at 4.0 (A/A+)
             if ($targetPoints -gt 4.0) {
                 $targetPoints = 4.0
             }
             
-            # Find the grade that matches the target points
             $reverseGradeMap = @{
                 4.0 = "A"
                 3.5 = "B+"
@@ -299,7 +353,6 @@ try {
                 0.0 = "F"
             }
             
-            # Find closest grade point value
             $closestPoints = 0
             $minDiff = 999
             foreach ($points in $reverseGradeMap.Keys) {
@@ -313,7 +366,7 @@ try {
             return $reverseGradeMap[$closestPoints]
         }
         
-        # For 2.8 target: fixed mapping
+        # For 2.50 and 2.80 targets: fixed mapping
         switch ($CurrentGrade) {
             "F" { return "D+" }
             "D" { return "D+" }
@@ -334,12 +387,27 @@ try {
         $gradeMap.ContainsKey($_.diemChu)
     }
     
-    # Calculate improvement scenarios for target GPAs
-    $targetGPAs = @(2.8, 3.2)
+    # Pick 2 classification tiers above current level
+    $currentTierIdx = Get-CurrentTierIndex $gpa
+    $targetGPAs = @()
+    foreach ($offset in @(1, 2)) {
+        $idx = $currentTierIdx + $offset
+        if ($idx -ge 0 -and $idx -lt $gpaTiers.Count) {
+            $targetGPAs += $gpaTiers[$idx]
+        }
+    }
     
-    foreach ($targetGPA in $targetGPAs) {
+    if ($targetGPAs.Count -eq 0) {
+        Write-Host "You are already at the highest classification. No improvement plan needed." -ForegroundColor Green
+        Write-Host ""
+    }
+    
+    foreach ($target in $targetGPAs) {
+        $targetGPA = $target.Min
+        $targetName = $target.Name
+        
         if ($gpa -ge $targetGPA) {
-            Write-Host ("Target GPA {0}: Already achieved! Current GPA: {1}" -f $targetGPA, $gpa) -ForegroundColor Green
+            Write-Host ("Target {0} ({1}): Already achieved! Current GPA: {2}" -f $targetName, $targetGPA, $gpa) -ForegroundColor Green
             Write-Host ""
             continue
         }
@@ -348,7 +416,7 @@ try {
         $pointsNeeded = $requiredPoints - $totalPoints
         $pointsNeeded = [math]::Round($pointsNeeded, 2)
         
-        Write-Host "Target GPA: $targetGPA" -ForegroundColor Cyan
+        Write-Host ("Target: {0} (GPA >= {1})" -f $targetName, $targetGPA) -ForegroundColor Cyan
         Write-Host ("Current GPA: {0}, Points needed: {1}" -f $gpa, $pointsNeeded)
         Write-Host ""
         
@@ -403,6 +471,7 @@ try {
                         $bestIndex = $i
                     }
                 }
+
             }
             
             if ($bestImprovement -eq $null) {
@@ -442,14 +511,13 @@ try {
     }
     
     # General recommendations
-    if ($gpa -ge 3.5) {
-        Write-Host "Excellent GPA! Keep up the great work!" -ForegroundColor Green
-    } elseif ($gpa -ge 3.0) {
-        Write-Host "Good GPA! You're doing well." -ForegroundColor Green
-    } elseif ($gpa -ge 2.5) {
-        Write-Host "Average GPA. Focus on the improvement plan above." -ForegroundColor Yellow
-    } else {
-        Write-Host "GPA needs improvement. Follow the improvement plan above." -ForegroundColor Red
+    $classification = Get-GPAClassificationName $gpa
+    switch ($classification) {
+        "Excellent" { Write-Host "Excellent GPA! Keep up the great work!" -ForegroundColor Green }
+        "Good"      { Write-Host "Good GPA! Focus on the plan above to reach Excellent." -ForegroundColor Green }
+        "Fair"      { Write-Host "Fair GPA. Follow the improvement plan above." -ForegroundColor Yellow }
+        "Average"   { Write-Host "Average GPA. Follow the improvement plan above." -ForegroundColor Yellow }
+        default     { Write-Host "GPA needs improvement. Follow the improvement plan above." -ForegroundColor Red }
     }
     
     if ($failedCourses.Count -gt 0) {
