@@ -107,7 +107,7 @@ if errorlevel 1 (
 
 echo.
 echo ========================================
-echo Analysis complete! Press any key to exit...
-pause >nul
+echo Analysis complete! Press Space or Enter to exit...
+powershell -NoProfile -ExecutionPolicy Bypass -Command "do { $k = [Console]::ReadKey($true) } while ($k.Key -ne 'Enter' -and $k.KeyChar -ne ' ')"
 
 endlocal

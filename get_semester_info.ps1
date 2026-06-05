@@ -47,25 +47,59 @@ function Get-DefaultSemester {
     return $semesterCode
 }
 
-# Get available semesters from all_grades.json if it exists
-function Get-AvailableSemestersFromFile {
-    $gradesFile = "all_grades.json"
-    if (Test-Path $gradesFile) {
-        try {
-            $utf8 = New-Object System.Text.UTF8Encoding $false
-            $jsonContent = [System.IO.File]::ReadAllText($gradesFile, $utf8)
-            $data = $jsonContent | ConvertFrom-Json
-            
-            if ($data.data -and $data.data.Count -gt 0) {
-                $semesters = $data.data | Select-Object -ExpandProperty maHocKy -Unique | Sort-Object -Descending
-                return $semesters
-            }
-        } catch {
-            # If file exists but can't be parsed, return empty
-            return @()
+# Convert 5-digit semester code (e.g. 20252) to 3-digit (e.g. 252)
+function Get-ShortSemesterCode {
+    param([string]$SemesterCode = "")
+    
+    if ([string]::IsNullOrWhiteSpace($SemesterCode)) {
+        $SemesterCode = Get-DefaultSemester
+    }
+    
+    if ($SemesterCode -match '^\d{5}$') {
+        return $SemesterCode.Substring(2)
+    }
+    
+    return $SemesterCode
+}
+
+# Build semester list from student ID: xx1 through current (e.g. 23xxxxx -> 231..252)
+function Get-SemestersFromStudentId {
+    param(
+        [string]$StudentId,
+        [string]$CurrentSemester = ""
+    )
+    
+    if ([string]::IsNullOrWhiteSpace($StudentId) -or $StudentId.Length -lt 2) {
+        return @()
+    }
+    
+    $prefix = $StudentId.Substring(0, 2)
+    if ($prefix -notmatch '^\d{2}$') {
+        return @()
+    }
+    
+    $currentShort = Get-ShortSemesterCode -SemesterCode $CurrentSemester
+    if ($currentShort -notmatch '^\d{3}$') {
+        return @()
+    }
+    
+    $startYear = [int]$prefix
+    $startSem = 1
+    $currentYear = [int]$currentShort.Substring(0, 2)
+    $currentSem = [int]$currentShort.Substring(2, 1)
+    
+    $semesters = @()
+    for ($year = $startYear; $year -le $currentYear; $year++) {
+        $firstSem = if ($year -eq $startYear) { $startSem } else { 1 }
+        $lastSem = if ($year -eq $currentYear) { $currentSem } else { 3 }
+        
+        for ($sem = $firstSem; $sem -le $lastSem; $sem++) {
+            $shortCode = "$year$sem"
+            $semesters += "20$shortCode"
         }
     }
-    return @()
+    
+    return $semesters | Sort-Object -Descending
 }
 
 # Generate recent semesters based on current date
@@ -99,15 +133,15 @@ if ($GetDefault) {
 }
 
 if ($GetAvailable) {
-    # Try to get from file first
-    $fromFile = Get-AvailableSemestersFromFile
-    if ($fromFile.Count -gt 0) {
-        # Output as JSON array for easy parsing
-        $fromFile | ConvertTo-Json -Compress
-        exit 0
+    if (-not [string]::IsNullOrWhiteSpace($StudentId)) {
+        $fromStudent = Get-SemestersFromStudentId -StudentId $StudentId
+        if ($fromStudent.Count -gt 0) {
+            $fromStudent | ConvertTo-Json -Compress
+            exit 0
+        }
     }
     
-    # Fallback to recent semesters
+    # Fallback to recent semesters when student ID is unavailable
     $recent = Get-RecentSemesters
     $recent | ConvertTo-Json -Compress
     exit 0

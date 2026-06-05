@@ -15,6 +15,8 @@ echo   HCMUT Grades Fetcher
 echo ========================================
 echo.
 
+set "SCRIPT_DIR=%~dp0"
+
 REM Check if user wants to use auto-login or manual credentials
 echo Choose login method:
 echo   1. Auto-login with username/password (Recommended)
@@ -53,27 +55,10 @@ if "%PASSWORD%"=="" (
     exit /b 1
 )
 
-REM Calculate default semester based on current date
-for /f "tokens=*" %%d in ('powershell -ExecutionPolicy Bypass -NoProfile -File "%~dp0get_semester_info.ps1" -GetDefault') do set DEFAULT_SEM=%%d
-
-REM Get available semesters to show user
-echo.
-echo Available semesters:
-powershell -ExecutionPolicy Bypass -NoProfile -Command "$json = & '%~dp0get_semester_info.ps1' -GetAvailable; $semesters = $json | ConvertFrom-Json; $count = 0; foreach ($sem in $semesters) { if ($count -lt 10) { Write-Host ('  ' + $sem) }; $count++ }"
-echo.
-
-set /p SEMESTER_YEAR="Enter semester year (default: %DEFAULT_SEM%): "
-if "%SEMESTER_YEAR%"=="" set SEMESTER_YEAR=%DEFAULT_SEM%
-
-REM Normalize semester code: if 3 digits (e.g., 251), convert to 5 digits (20251)
-for /f "tokens=*" %%s in ('powershell -ExecutionPolicy Bypass -NoProfile -Command "if ('%SEMESTER_YEAR%' -match '^\d{3}$') { Write-Output ('20' + '%SEMESTER_YEAR%') } else { Write-Output '%SEMESTER_YEAR%' }"') do set SEMESTER_YEAR=%%s
-
 echo.
 echo Please wait, logging in...
 
 REM Call PowerShell login script
-REM Use full path to ensure script is found
-set "SCRIPT_DIR=%~dp0"
 powershell -ExecutionPolicy Bypass -File "%SCRIPT_DIR%login_hcmut.ps1" -Username "%USERNAME%" -Password "%PASSWORD%" > login_result.json 2>error.log
 
 REM Wait a moment for file to be written
@@ -139,7 +124,7 @@ if "%STUDENT_ID%"=="" (
 )
 
 echo [OK] Login successful!
-goto :fetch_grades
+goto :select_semester
 
 :manual_login
 echo.
@@ -171,13 +156,14 @@ if "%STUDENT_ID%"=="" (
     exit /b 1
 )
 
+:select_semester
 REM Calculate default semester based on current date
-for /f "tokens=*" %%d in ('powershell -ExecutionPolicy Bypass -NoProfile -File "%~dp0get_semester_info.ps1" -GetDefault') do set DEFAULT_SEM=%%d
+for /f "tokens=*" %%d in ('powershell -ExecutionPolicy Bypass -NoProfile -File "%SCRIPT_DIR%get_semester_info.ps1" -GetDefault') do set DEFAULT_SEM=%%d
 
-REM Get available semesters to show user
+REM Get available semesters from student ID (xx1 to current)
 echo.
 echo Available semesters:
-powershell -ExecutionPolicy Bypass -NoProfile -Command "$json = & '%~dp0get_semester_info.ps1' -GetAvailable; $semesters = $json | ConvertFrom-Json; $count = 0; foreach ($sem in $semesters) { if ($count -lt 10) { Write-Host ('  ' + $sem) }; $count++ }"
+powershell -ExecutionPolicy Bypass -NoProfile -Command "$json = & '%SCRIPT_DIR%get_semester_info.ps1' -GetAvailable -StudentId '%STUDENT_ID%'; $semesters = $json | ConvertFrom-Json; $count = 0; foreach ($sem in $semesters) { if ($count -lt 10) { Write-Host ('  ' + $sem) }; $count++ }; if ($count -gt 10) { Write-Host ('  ... and ' + ($count - 10) + ' more') }"
 echo.
 
 set /p SEMESTER_YEAR="Enter semester year (default: %DEFAULT_SEM%): "
@@ -211,24 +197,24 @@ if errorlevel 1 (
     echo.
     echo [ERROR] Failed to fetch grades from API!
     echo Please check your internet connection and try again.
-    if exist grades_temp.json del grades_temp.json >nul 2>&1
+    if exist grades_temp.json del /f /q grades_temp.json >nul 2>&1
+    if exist login_result.json del /f /q login_result.json >nul 2>&1
+    if exist cookies.txt del /f /q cookies.txt >nul 2>&1
+    if exist error.log del /f /q error.log >nul 2>&1
     pause
     exit /b 1
 )
 
 REM Parse the JSON file
-powershell -ExecutionPolicy Bypass -NoProfile -File "%~dp0parse_grades.ps1" -InputFile "grades_temp.json"
+powershell -ExecutionPolicy Bypass -NoProfile -File "%SCRIPT_DIR%parse_grades.ps1" -InputFile "grades_temp.json"
 
-REM Cleanup
-if exist grades_temp.json del grades_temp.json >nul 2>&1
-
-REM Cleanup
-if exist login_result.json del login_result.json >nul 2>&1
-if exist cookies.txt del cookies.txt >nul 2>&1
-if exist error.log del error.log >nul 2>&1
+REM Permanently delete all local temp files
+if exist grades_temp.json del /f /q grades_temp.json >nul 2>&1
+if exist login_result.json del /f /q login_result.json >nul 2>&1
+if exist cookies.txt del /f /q cookies.txt >nul 2>&1
+if exist error.log del /f /q error.log >nul 2>&1
 
 echo.
 echo ========================================
 echo Done! Press any key to exit...
 pause >nul
-
