@@ -330,40 +330,47 @@ try {
             [double]$TargetGPA
         )
         
-        # For 3.20+ targets: +1.5 grade points
+        # For 3.20+ targets: step-up for good grades, +1.5 for lower grades
         if ($TargetGPA -ge 3.20) {
             if (-not $gradeMap.ContainsKey($CurrentGrade)) {
                 return $null
             }
-            $currentPoints = $gradeMap[$CurrentGrade]
-            $targetPoints = $currentPoints + 1.5
             
-            if ($targetPoints -gt 4.0) {
-                $targetPoints = 4.0
-            }
-            
-            $reverseGradeMap = @{
-                4.0 = "A"
-                3.5 = "B+"
-                3.0 = "B"
-                2.5 = "C+"
-                2.0 = "C"
-                1.5 = "D+"
-                1.0 = "D"
-                0.0 = "F"
-            }
-            
-            $closestPoints = 0
-            $minDiff = 999
-            foreach ($points in $reverseGradeMap.Keys) {
-                $diff = [math]::Abs($points - $targetPoints)
-                if ($diff -lt $minDiff) {
-                    $minDiff = $diff
-                    $closestPoints = $points
+            switch ($CurrentGrade) {
+                "B+" { return "A" }
+                "B"  { return "A" }
+                default {
+                    $currentPoints = $gradeMap[$CurrentGrade]
+                    $targetPoints = $currentPoints + 1.5
+                    
+                    if ($targetPoints -gt 4.0) {
+                        $targetPoints = 4.0
+                    }
+                    
+                    $reverseGradeMap = @{
+                        4.0 = "A"
+                        3.5 = "B+"
+                        3.0 = "B"
+                        2.5 = "C+"
+                        2.0 = "C"
+                        1.5 = "D+"
+                        1.0 = "D"
+                        0.0 = "F"
+                    }
+                    
+                    $closestPoints = 0
+                    $minDiff = 999
+                    foreach ($points in $reverseGradeMap.Keys) {
+                        $diff = [math]::Abs($points - $targetPoints)
+                        if ($diff -lt $minDiff) {
+                            $minDiff = $diff
+                            $closestPoints = $points
+                        }
+                    }
+                    
+                    return $reverseGradeMap[$closestPoints]
                 }
             }
-            
-            return $reverseGradeMap[$closestPoints]
         }
         
         # For 2.50 and 2.80 targets: fixed mapping
@@ -377,11 +384,9 @@ try {
         }
     }
     
-    # Get courses that can be improved (excluding MT)
+    # Get courses that can be improved (excluding MT and max grades)
     $improvableCourses = $creditedCourses | Where-Object {
         $_.diemChu -ne "MT" -and 
-        $_.diemChu -ne "B" -and 
-        $_.diemChu -ne "B+" -and 
         $_.diemChu -ne "A" -and 
         $_.diemChu -ne "A+" -and
         $gradeMap.ContainsKey($_.diemChu)
@@ -485,7 +490,15 @@ try {
         }
         
         if ($selectedImprovements.Count -eq 0) {
-            Write-Host "  No feasible improvement path found with current courses." -ForegroundColor Yellow
+            $allMaxGrades = -not ($creditedCourses | Where-Object {
+                $_.diemChu -ne "MT" -and $_.diemChu -notin @("A", "A+")
+            })
+            if ($allMaxGrades) {
+                Write-Host "  All courses are already A or A+. No further grade improvements possible." -ForegroundColor Yellow
+            } else {
+                Write-Host "  No feasible improvement path found with current courses." -ForegroundColor Yellow
+            }
+            Write-Host ("  You need {0} more points to reach {1} (GPA >= {2})." -f $pointsNeeded, $targetName, $targetGPA) -ForegroundColor Gray
         } else {
             Write-Host "  Minimum courses to improve: $($selectedImprovements.Count)" -ForegroundColor Green
             Write-Host ""
